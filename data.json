@@ -4,22 +4,109 @@
         "area":[
             {   
                 "ID": 0,
-                "name":"1",
+                "name":"Đ𝕒̉𝕠 𝕃𝕠𝕃𝕚ℂ𝕠𝕟",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"LoLi 1 tuổi",
+                        "name":"LoLi",
                         "category":"Common",
                         "size":32,
-                        "sell":9999,
+                        "sell":4999,
                         "image": "https://i.imgur.com/Az7RSGo.jpg"
+                    },
+                    {
+                        "ID":1,
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":20,
+                        "sell":9999,
+                        "image": "https://i.imgur.com/sbe22fQ.jpg"
                     }
+                ]
+            },
+            {   
+                "ID": 1,
+                "name":"𝕃𝕠𝕃𝕚 ℂ𝕙𝕦́𝕒",
+                "rate": 98,
+                "creature":[
+                    {
+                        "ID":1,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/HZUbfH1.jpg"
+                    },
+                    {
+                    	 "ID":2,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/OPTnY26.jpg"
+                    },
+                    {
+                    	 "ID":3,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/HscnMQj.jpg"
+                    },
+                    {
+                    	 "ID":4,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/IWIXxYK.jpg"
+                    },
+                    {
+                    	 "ID":5,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/Dvb3lGy.jpg"
+                    },
+                    {
+                    	 "ID":6,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/A0flViq.jpg"
+                    },
+                    {
+                    	 "ID":7,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/6yTYEVE.jpg"
+                    },
+                    {
+                    	 "ID":8,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/23fWeoM.jpg"
+                    },
+                    {
+                    	 "ID":9,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/04nfXXM.png"
+                     }
                 ]
             }
         ]
     },
     {
-        "location":"Hầm Loli",
+        "location":"Đảo HenTai",
         "area":[
             {   
                 "ID": 0,
@@ -27,11 +114,11 @@
                 "creature":[
                     {
                         "ID":0,
-                        "name":"LoLi 1 Tuổi",
+                        "name":"𝔻𝕦́",
                         "category":"Common",
                         "size":34,
                         "sell":9999,
-                        "image": "https://i.imgur.com/f6g0zPM.jpg"
+                        "image": "https://i.imgur.com/qJzhLJF.jpg"
                      }
                 ]
             }
