@@ -8,7 +8,7 @@
                 "creature":[
                     {
                         "ID":1,
-                        "name":"LoLi",
+                        "name":"LoLi 1",
                         "category":"Common",
                         "size":32,
                         "sell":999,
@@ -16,7 +16,7 @@
                     },
                     {
                         "ID":2,
-                        "name":"LoLi",
+                        "name":"LoLi 2",
                         "category":"Common",
                         "size":32,
                         "sell":1999,
@@ -24,7 +24,7 @@
                     },
                     {
                         "ID":3,
-                        "name":"LoLi",
+                        "name":"LoLi 3",
                         "category":"Common",
                         "size":32,
                         "sell":2999,
@@ -32,7 +32,7 @@
                     },
                     {
                         "ID":4,
-                        "name":"LoLi",
+                        "name":"LoLi 4",
                         "category":"Common",
                         "size":32,
                         "sell":3999,
@@ -40,7 +40,7 @@
                     },
                     {
                         "ID":5,
-                        "name":"LoLi",
+                        "name":"LoLi 5",
                         "category":"Common",
                         "size":32,
                         "sell":4999,
@@ -48,7 +48,7 @@
                     },
                     {
                         "ID":6,
-                        "name":"Loli",
+                        "name":"Loli 6",
                         "category":"Uncommon",
                         "size":4,
                         "sell":9999,
@@ -56,7 +56,7 @@
                     },
                     {
                         "ID":7,
-                        "name":"Loli",
+                        "name":"Loli 7",
                         "category":"Uncommon",
                         "size":4,
                         "sell":19999,
@@ -64,7 +64,7 @@
                     },
                     {
                         "ID":8,
-                        "name":"Loli",
+                        "name":"Loli 8",
                         "category":"Uncommon",
                         "size":4,
                         "sell":29999,
@@ -72,7 +72,7 @@
                     },
                     {
                         "ID":9,
-                        "name":"Loli",
+                        "name":"Loli 9",
                         "category":"Uncommon",
                         "size":4,
                         "sell":39999,
@@ -80,7 +80,7 @@
                     },
                     {
                         "ID":10,
-                        "name":"loli",
+                        "name":"loli 10",
                         "category":"Rare",
                         "size":10,
                         "sell":49999,
@@ -88,7 +88,7 @@
                     },
                     {
                         "ID":11,
-                        "name":"loli",
+                        "name":"loli 11",
                         "category":"Rare",
                         "size":10,
                         "sell":59999,
@@ -96,7 +96,7 @@
                     },
                     {
                         "ID":12,
-                        "name":"loli",
+                        "name":"loli 12",
                         "category":"Rare",
                         "size":10,
                         "sell":89999,
@@ -104,7 +104,7 @@
                     },
                     {
                         "ID":13,
-                        "name":"loli",
+                        "name":"loli 13",
                         "category":"Epic",
                         "size":100,
                         "sell":99999,
@@ -112,7 +112,7 @@
                     },
                      {
                         "ID":14,
-                        "name":"loli",
+                        "name":"loli 14",
                         "category":"Epic",
                         "size":100,
                         "sell":109999,
@@ -134,7 +134,7 @@
                 "creature":[
                     {
                         "ID":16,
-                        "name":"loli",
+                        "name":"loli 16",
                         "category":"Epic",
                         "size":100,
                         "sell":899999,
@@ -142,7 +142,7 @@
                     },
                      {
                         "ID":17,
-                        "name":"loli",
+                        "name":"loli 17",
                         "category":"Epic",
                         "size":100,
                         "sell":999999,
@@ -150,7 +150,7 @@
                     },
                      {
                         "ID":18,
-                        "name":"loli",
+                        "name":"loli 18",
                         "category":"Epic",
                         "size":100,
                         "sell":109999,
@@ -158,7 +158,7 @@
                     },
                      {
                     	 "ID":19,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa I",
                         "category":"Legendary",
                         "size":99,
                         "sell":399999,
@@ -166,7 +166,7 @@
                     },
                     {
                     	 "ID":20,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa II",
                         "category":"Legendary",
                         "size":99,
                         "sell":499999,
@@ -177,10 +177,11 @@
             {   
                 "ID": 3,
                 "name":"𝕃𝕠𝕃𝕚 ℂ𝕙𝕦́𝕒",
+                "rate": 98,
                 "creature":[
                     {
                         "ID":1,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa 1",
                         "category":"Legendary",
                         "size":99,
                         "sell":199999,
@@ -188,7 +189,7 @@
                     },
                     {
                     	 "ID":2,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa 2",
                         "category":"Legendary",
                         "size":99,
                         "sell":299999,
@@ -196,7 +197,7 @@
                     },
                     {
                     	 "ID":3,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa 3",
                         "category":"Legendary",
                         "size":99,
                         "sell":399999,
@@ -204,7 +205,7 @@
                     },
                     {
                     	 "ID":4,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa 4",
                         "category":"Legendary",
                         "size":99,
                         "sell":499999,
@@ -212,7 +213,7 @@
                     },
                     {
                     	 "ID":5,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa 5",
                         "category":"Legendary",
                         "size":99,
                         "sell":599999,
@@ -220,7 +221,7 @@
                     },
                     {
                     	 "ID":6,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa 6",
                         "category":"Legendary",
                         "size":99,
                         "sell":699999,
@@ -228,7 +229,7 @@
                     },
                     {
                     	 "ID":7,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa 7",
                         "category":"Legendary",
                         "size":99,
                         "sell":799999,
@@ -236,7 +237,7 @@
                     },
                     {
                     	 "ID":8,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa 8",
                         "category":"Legendary",
                         "size":99,
                         "sell":899999,
@@ -244,7 +245,7 @@
                     },
                     {
                     	 "ID":9,
-                        "name":"LoLi Chúa",
+                        "name":"LoLi Chúa 9",
                         "category":"Legendary",
                         "size":99,
                         "sell":999999,
