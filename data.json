@@ -3,38 +3,188 @@
         "location":"Đảo LoLi",
         "area":[
             {   
-                "ID": 0,
+                "ID": 1,
                 "name":"Đ𝕒̉𝕠 𝕃𝕠𝕃𝕚ℂ𝕠𝕟",
                 "creature":[
                     {
-                        "ID":0,
+                        "ID":1,
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":32,
+                        "sell":999,
+                        "image": "https://i.imgur.com/z1oPJPx.jpg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":32,
+                        "sell":1999,
+                        "image": "https://i.imgur.com/7dmjDev.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":32,
+                        "sell":2999,
+                        "image": "https://i.imgur.com/wb3X2gO.jpg"
+                    },
+                    {
+                        "ID":4,
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":32,
+                        "sell":3999,
+                        "image": "https://i.imgur.com/Az7RSGo.jpg"
+                    },
+                    {
+                        "ID":5,
                         "name":"LoLi",
                         "category":"Common",
                         "size":32,
                         "sell":4999,
-                        "image": "https://i.imgur.com/Az7RSGo.jpg"
+                        "image": "https://i.imgur.com/xCuwpMu.jpg"
                     },
                     {
-                        "ID":1,
-                        "name":"LoLi",
+                        "ID":6,
+                        "name":"Loli",
                         "category":"Uncommon",
-                        "size":20,
+                        "size":4,
                         "sell":9999,
-                        "image": "https://i.imgur.com/sbe22fQ.jpg"
+                        "image": "https://i.imgur.com/4fyQQSa.jpg"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Loli",
+                        "category":"Uncommon",
+                        "size":4,
+                        "sell":19999,
+                        "image": "https://i.imgur.com/QLyvMkl.jpg"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Loli",
+                        "category":"Uncommon",
+                        "size":4,
+                        "sell":29999,
+                        "image": "https://i.imgur.com/dLNRvPi.jpg"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Loli",
+                        "category":"Uncommon",
+                        "size":4,
+                        "sell":39999,
+                        "image": "https://i.imgur.com/gGkc4c6.png"
+                    },
+                    {
+                        "ID":10,
+                        "name":"loli",
+                        "category":"Rare",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/298oQhq.png"
+                    },
+                    {
+                        "ID":11,
+                        "name":"loli",
+                        "category":"Rare",
+                        "size":10,
+                        "sell":59999,
+                        "image": "https://i.imgur.com/IPT0MMb.jpg"
+                    },
+                    {
+                        "ID":12,
+                        "name":"loli",
+                        "category":"Rare",
+                        "size":10,
+                        "sell":89999,
+                        "image": "https://i.imgur.com/gWKqdT5.png"
+                    },
+                    {
+                        "ID":13,
+                        "name":"loli",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":99999,
+                        "image": "https://i.imgur.com/oRAvhSx.png"
+                    },
+                     {
+                        "ID":14,
+                        "name":"loli",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":109999,
+                        "image": "https://i.imgur.com/wJWP4gF.jpg"
+                    },
+                     {
+                    	 "ID":15,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/6yTYEVE.jpg"
+                    }
+                ]
+            },
+            {
+                "ID": 2,
+                "name":"ℍầ𝕞 𝕃𝕠𝕃𝕚",
+                "creature":[
+                    {
+                        "ID":16,
+                        "name":"loli",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":899999,
+                        "image": "https://i.imgur.com/Knd4axq.png"
+                    },
+                     {
+                        "ID":17,
+                        "name":"loli",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":999999,
+                        "image": "https://i.imgur.com/Knd4axq.png"
+                    },
+                     {
+                        "ID":18,
+                        "name":"loli",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":109999,
+                        "image": "https://i.imgur.com/Knd4axq.png"
+                    },
+                     {
+                    	 "ID":19,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/OPTnY26.jpg"
+                    },
+                    {
+                    	 "ID":20,
+                        "name":"LoLi Chúa",
+                        "category":"Legendary",
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/OPTnY26.jpg"
                     }
                 ]
             },
             {   
                 "ID": 1,
                 "name":"𝕃𝕠𝕃𝕚 ℂ𝕙𝕦́𝕒",
-                "rate": 8,
+                "rate": 50,
                 "creature":[
                     {
                         "ID":1,
                         "name":"LoLi Chúa",
                         "category":"Legendary",
                         "size":99,
-                        "sell":499999,
+                        "sell":199999,
                         "image": "https://i.imgur.com/HZUbfH1.jpg"
                     },
                     {
@@ -42,7 +192,7 @@
                         "name":"LoLi Chúa",
                         "category":"Legendary",
                         "size":99,
-                        "sell":499999,
+                        "sell":299999,
                         "image": "https://i.imgur.com/OPTnY26.jpg"
                     },
                     {
@@ -50,7 +200,7 @@
                         "name":"LoLi Chúa",
                         "category":"Legendary",
                         "size":99,
-                        "sell":499999,
+                        "sell":399999,
                         "image": "https://i.imgur.com/HscnMQj.jpg"
                     },
                     {
@@ -66,7 +216,7 @@
                         "name":"LoLi Chúa",
                         "category":"Legendary",
                         "size":99,
-                        "sell":499999,
+                        "sell":599999,
                         "image": "https://i.imgur.com/Dvb3lGy.jpg"
                     },
                     {
@@ -74,7 +224,7 @@
                         "name":"LoLi Chúa",
                         "category":"Legendary",
                         "size":99,
-                        "sell":499999,
+                        "sell":699999,
                         "image": "https://i.imgur.com/A0flViq.jpg"
                     },
                     {
@@ -82,7 +232,7 @@
                         "name":"LoLi Chúa",
                         "category":"Legendary",
                         "size":99,
-                        "sell":499999,
+                        "sell":799999,
                         "image": "https://i.imgur.com/6yTYEVE.jpg"
                     },
                     {
@@ -90,7 +240,7 @@
                         "name":"LoLi Chúa",
                         "category":"Legendary",
                         "size":99,
-                        "sell":499999,
+                        "sell":899999,
                         "image": "https://i.imgur.com/23fWeoM.jpg"
                     },
                     {
@@ -98,7 +248,7 @@
                         "name":"LoLi Chúa",
                         "category":"Legendary",
                         "size":99,
-                        "sell":499999,
+                        "sell":999999,
                         "image": "https://i.imgur.com/04nfXXM.png"
                      }
                 ]
@@ -110,7 +260,7 @@
         "area":[
             {   
                 "ID": 0,
-                "name":"1",
+                "name":"Đang Update",
                 "creature":[
                     {
                         "ID":0,
@@ -125,3 +275,5 @@
         ]
     }
 ]
+
+                    
