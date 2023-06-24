@@ -45,21 +45,21 @@
 		"name": "Cần Câu Đã Sơn",
 		"price": 2999999,
 		"durability": 2000,
-		"countdown": 2,
+		"countdown": 1,
 		"image": "https://i.imgur.com/W5dAfCn.jpg"
 	},
 	{
 		"name": "Cần Câu Sơn Vip",
 		"price": 4999999,
 		"durability": 5000,
-		"countdown": 5,
+		"countdown": 1,
 		"image": "https://i.imgur.com/EDozSgg.jpg"
 	},
 	{
 		"name": "Cần Câu Bình Dương",
 		"price": 9999999,
 		"durability": 10000,
-		"countdown": 3,
+		"countdown": 1,
 		"image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/rod/legend_of_rod.png"
 	}
 ]
