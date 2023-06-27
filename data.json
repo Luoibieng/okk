@@ -293,9 +293,10 @@
                     }
                 ]
             },
-            {
-                "ID":3,
+            {   
+                "ID": 3,
                 "name":"𝕃𝕠𝕃𝕚 ℂ𝕙𝕦́𝕒",
+                "rate": 98,
                 "creature":[
                     {
                         "ID":1,
@@ -409,19 +410,21 @@
         "location":"Đảo HenTai",
         "area":[
             {   
-                "ID":0,
+                "ID": 0,
                 "name":"Đang Update",
                 "creature":[
                     {
                         "ID":0,
                         "name":"𝔻𝕦́",
-                        "category":" 𝕷𝖊𝖛𝖊𝖑 3",
+                        "category":"Common",
                         "size":34,
                         "sell":9999,
-                        "image": "https://i.imgur.com/qJzhLJF.jpg"
+                        "image": "https://img.upanh.tv/2023/06/25/received_279170977837761.jpg"
                      }
                 ]
             }
         ]
     }
 ]
+
+                    
