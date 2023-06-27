@@ -3,7 +3,7 @@
         "location":"Đảo LoLi",
         "area":[
             {   
-                "ID": 0,
+                "ID": 1,
                 "name":"Đ𝕒̉𝕠 𝕃𝕠𝕃𝕚ℂ𝕠𝕟",
                 "creature":[
                     {
@@ -294,7 +294,7 @@
                 ]
             },
             {
-                "ID": 3,
+                "ID":3,
                 "name":"𝕃𝕠𝕃𝕚 ℂ𝕙𝕦́𝕒",
                 "creature":[
                     {
@@ -406,10 +406,10 @@
         ]
     },
     {
-        "location":"Đang UpDate",
+        "location":"Đảo HenTai",
         "area":[
             {   
-                "ID": 0,
+                "ID":0,
                 "name":"Đang Update",
                 "creature":[
                     {
