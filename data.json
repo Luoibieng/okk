@@ -11,119 +11,120 @@
                         "name":"LoLi 1",
                         "category":"Common",
                         "size":32,
-                        "sell":19999,
-                        "image": "https://img.upanh.tv/2023/06/26/354395830_1297884770826495_1778297574089832928_n.jpg"
+                        "sell":999,
+                        "image": "https://i.imgur.com/z1oPJPx.jpg"
                     },
                     {
                         "ID":2,
                         "name":"LoLi 2",
                         "category":"Common",
-                        "size":20,
-                        "sell":29999,
-                        "image": "https://img.upanh.tv/2023/06/26/354407760_217994663984513_3576135391117410642_n.jpg"
+                        "size":32,
+                        "sell":1999,
+                        "image": "https://i.imgur.com/7dmjDev.png"
+                    },
                     {
                         "ID":3,
                         "name":"LoLi 3",
-                        "category":"Uncommon",
-                        "size":9,
-                        "sell":39999,
-                        "image": "https://img.upanh.tv/2023/06/26/354409651_1262027994459675_4510664373773070973_n.jpg"
+                        "category":"Common",
+                        "size":32,
+                        "sell":2999,
+                        "image": "https://i.imgur.com/wb3X2gO.jpg"
                     },
                     {
                         "ID":4,
                         "name":"LoLi 4",
-                        "category":"Uncommon",
-                        "size":9,
-                        "sell":45999,
-                        "image": "https://img.upanh.tv/2023/06/26/354411665_1307870903131957_5958349116087777936_n.jpg"
+                        "category":"Common",
+                        "size":32,
+                        "sell":3999,
+                        "image": "https://i.imgur.com/Az7RSGo.jpg"
                     },
                     {
                         "ID":5,
                         "name":"LoLi 5",
-                        "category":"Uncommon",
-                        "size":9,
-                        "sell":49999,
-                        "image": "https://img.upanh.tv/2023/06/26/354411668_1434857194031294_7014735657656817810_n.jpg"
+                        "category":"Common",
+                        "size":32,
+                        "sell":4999,
+                        "image": "https://i.imgur.com/xCuwpMu.jpg"
                     },
                     {
                         "ID":6,
-                        "name":"LoLi 6",
-                        "category":"Rare",
-                        "size":99,
-                        "sell":65999,
-                        "image": "https://img.upanh.tv/2023/06/26/354413641_253021944096285_8541659128505903435_n.jpg"
+                        "name":"Loli 6",
+                        "category":"Uncommon",
+                        "size":4,
+                        "sell":9999,
+                        "image": "https://i.imgur.com/4fyQQSa.jpg"
                     },
                     {
                         "ID":7,
-                        "name":"LoLi 7",
-                        "category":"Rare",
-                        "size":99,
-                        "sell":69999,
-                        "image": "https://img.upanh.tv/2023/06/26/354422568_1434049307418612_5606051848193114203_n.jpg"
+                        "name":"Loli 7",
+                        "category":"Uncommon",
+                        "size":4,
+                        "sell":19999,
+                        "image": "https://i.imgur.com/QLyvMkl.jpg"
                     },
                     {
                         "ID":8,
-                        "name":"LoLi 8",
-                        "category":"Rare",
-                        "size":99,
-                        "sell":74999,
-                        "image": "https://img.upanh.tv/2023/06/26/354423927_278209414615661_539309023990273475_n.jpg"
+                        "name":"Loli 8",
+                        "category":"Uncommon",
+                        "size":4,
+                        "sell":29999,
+                        "image": "https://i.imgur.com/dLNRvPi.jpg"
                     },
                     {
                         "ID":9,
-                        "name":"LoLi 9",
-                        "category":"Rare",
-                        "size":99,
-                        "sell":79999,
-                        "image": "https://img.upanh.tv/2023/06/26/354423939_226941666937018_8655832535200731580_n.jpg"
+                        "name":"Loli 9",
+                        "category":"Uncommon",
+                        "size":4,
+                        "sell":39999,
+                        "image": "https://i.imgur.com/gGkc4c6.png"
                     },
                     {
                         "ID":10,
-                        "name":"LoLi 10",
-                        "category":"Epic",
-                        "size":99,
-                        "sell":99999,
-                        "image": "https://img.upanh.tv/2023/06/26/354423939_807321064326679_8834882630616189674_n.jpg"
+                        "name":"loli 10",
+                        "category":"Rare",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/298oQhq.png"
                     },
                     {
                         "ID":11,
-                        "name":"LoLi 11",
-                        "category":"Epic",
-                        "size":99,
-                        "sell":149999,
-                        "image": "https://img.upanh.tv/2023/06/26/354423942_256491293670927_5580317189861899920_n.jpg"
+                        "name":"loli 11",
+                        "category":"Rare",
+                        "size":10,
+                        "sell":59999,
+                        "image": "https://i.imgur.com/IPT0MMb.jpg"
                     },
                     {
                         "ID":12,
-                        "name":"LoLi 12",
-                        "category":"Epic",
-                        "size":99,
-                        "sell":199999,
-                        "image": "https://img.upanh.tv/2023/06/26/354427473_1195822757777484_1727730784167871335_n.jpg"
+                        "name":"loli 12",
+                        "category":"Rare",
+                        "size":10,
+                        "sell":89999,
+                        "image": "https://i.imgur.com/gWKqdT5.png"
                     },
                     {
                         "ID":13,
-                        "name":"LoLi Chúa",
-                        "category":"Legendary",
-                        "size":555,
-                        "sell":1999999,
-                        "image": "https://img.upanh.tv/2023/06/26/354431166_167391586323100_5434478486116386563_n.jpg"
+                        "name":"loli 13",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":99999,
+                        "image": "https://i.imgur.com/oRAvhSx.png"
                     },
-                    {
+                     {
                         "ID":14,
+                        "name":"loli 14",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":109999,
+                        "image": "https://i.imgur.com/wJWP4gF.jpg"
+                    },
+                     {
+                    	 "ID":15,
                         "name":"LoLi Chúa",
                         "category":"Legendary",
-                        "size":555,
-                        "sell":2999999,
-                        "image": "https://img.upanh.tv/2023/06/26/354436885_811543313869792_142013117739420622_n.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"Boss",
-                        "category":"Mythical",
-                        "size":999,
-                        "sell":4999999,
-                        "image": "https://img.upanh.tv/2023/06/26/354446203_313594357657840_8451510993474699229_n.jpg"
+                        "size":99,
+                        "sell":499999,
+                        "image": "https://i.imgur.com/6yTYEVE.jpg"
                     }
                 ]
             },
@@ -132,164 +133,44 @@
                 "name":"ℍầ𝕞 𝕃𝕠𝕃𝕚",
                 "creature":[
                     {
-                        "ID":16 ,
+                        "ID":16,
                         "name":"loli 16",
-                        "category":"Common",
-                        "size":99,
-                        "sell":19999,
-                        "image": "https://img.upanh.tv/2023/06/26/354455394_236821459202890_8038446783011078468_n.jpg"
+                        "category":"Epic",
+                        "size":100,
+                        "sell":899999,
+                        "image": "https://i.imgur.com/Knd4axq.png"
                     },
-                    {
+                     {
                         "ID":17,
                         "name":"loli 17",
-                        "category":"Common",
-                        "size":99,
-                        "sell":24999,
-                        "image": "https://img.upanh.tv/2023/06/26/354455540_1750688508678810_67996054644071535_n.jpg"
+                        "category":"Epic",
+                        "size":100,
+                        "sell":999999,
+                        "image": "https://i.imgur.com/Knd4axq.png"
                     },
-                    {
+                     {
                         "ID":18,
                         "name":"loli 18",
-                        "category":"Common",
-                        "size":99,
-                        "sell":29999,
-                        "image": "https://img.upanh.tv/2023/06/26/354463446_6248396171925877_8272266377413866453_n-1.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"loli 19",
-                        "category":"Common",
-                        "size":99,
-                        "sell":34999,
-                        "image": "https://img.upanh.tv/2023/06/26/354467317_6267963356657658_6243203251598414175_n.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"loli 20",
-                        "category":"Uncommon",
-                        "size":99,
-                        "sell":49999,
-                        "image": "https://img.upanh.tv/2023/06/26/354469773_790713609444150_7281663832128223385_n.jpg"
-                    },
-                    {
-                        "ID":21,
-                        "name":"loli 21",
-                        "category":"Uncommon",
-                        "size":99,
-                        "sell":54999,
-                        "image": "https://img.upanh.tv/2023/06/26/354470144_652244929734597_6296753470339933691_n.jpg"
-                    },
-                    {
-                        "ID":22,
-                        "name":"loli 22",
-                        "category":"Uncommon",
-                        "size":99,
-                        "sell":59999,
-                        "image": "https://img.upanh.tv/2023/06/26/354470197_169475956109953_4203793440521842681_n.jpg"
-                    },
-                    {
-                        "ID":23,
-                        "name":"loli 23",
-                        "category":"Uncommon",
-                        "size":99,
-                        "sell":64999,
-                        "image": "https://img.upanh.tv/2023/06/26/354473666_3379698015676598_6817785556832059381_n.jpg"
-                    },
-                    {
-                        "ID":24,
-                        "name":"loli 24",
-                        "category":"Uncommon",
-                        "size":99,
-                        "sell":69999,
-                        "image": "https://img.upanh.tv/2023/06/26/354478982_656567773123933_9064517386715950790_n.jpg"
-                    },
-                    {
-                        "ID":25,
-                        "name":"loli 25",
-                        "category":"Uncommon",
-                        "size":99,
-                        "sell":70000,
-                        "image": "https://img.upanh.tv/2023/06/26/355480818_237084555751806_8269374818291247948_n.jpg"
-                    },
-                    {
-                        "ID":26,
-                        "name":"loli 26",
-                        "category":"Rare",
-                        "size":99,
-                        "sell":75999,
-                        "image": "https://img.upanh.tv/2023/06/26/355567048_686257549991438_8863154353295237746_n.jpg"
-                    },
-                    {
-                        "ID":27,
-                        "name":"loli 27",
-                        "category":"Rare",
-                        "size":99,
-                        "sell":79999,
-                        "image": "https://img.upanh.tv/2023/06/26/355575214_801622778187952_2041656669678911529_n.jpg"
-                    },
-                    {
-                        "ID":28,
-                        "name":"loli 28",
-                        "category":"Rare",
-                        "size":99,
-                        "sell":84999,
-                        "image": "https://img.upanh.tv/2023/06/26/355948353_269497939094801_5905015917925526649_n.jpg"
-                    },
-                    {
-                        "ID":29,
-                        "name":"loli 29",
-                        "category":"Rare",
-                        "size":99,
-                        "sell":89999,
-                        "image": "https://img.upanh.tv/2023/06/26/355948353_913662206365747_4004735540289353620_n.jpg"
-                    },
-                    {
-                        "ID":30,
-                        "name":"loli 30",
                         "category":"Epic",
-                        "size":99,
-                        "sell":95999,
-                        "image": "https://img.upanh.tv/2023/06/26/356373270_816032226337290_3807865117295897820_n.jpg"
+                        "size":100,
+                        "sell":109999,
+                        "image": "https://i.imgur.com/Knd4axq.png"
                     },
-                    {
-                        "ID":31,
-                        "name":"loli 31",
-                        "category":"Epic",
-                        "size":99,
-                        "sell":99999,
-                        "image": "https://img.upanh.tv/2023/06/26/356456651_3567625243515165_7763819215865790515_n.jpg"
-                    },
-                    {
-                        "ID":32,
-                        "name":"loli 32",
-                        "category":"Epic",
-                        "size":99,
-                        "sell":100000,
-                        "image": "https://img.upanh.tv/2023/06/26/356456677_662603639216421_4644048308876153578_n.jpg"
-                    },
-                    {
-                        "ID":33,
-                        "name":"loli chúa",
+                     {
+                    	 "ID":19,
+                        "name":"LoLi Chúa I",
                         "category":"Legendary",
                         "size":99,
-                        "sell":49999,
-                        "image": "https://img.upanh.tv/2023/06/26/356499816_1399564773944496_370116472017487174_n.jpg"
+                        "sell":399999,
+                        "image": "https://i.imgur.com/OPTnY26.jpg"
                     },
                     {
-                        "ID":35,
-                        "name":"loli chúa",
+                    	 "ID":20,
+                        "name":"LoLi Chúa II",
                         "category":"Legendary",
-                        "size":999,
+                        "size":99,
                         "sell":499999,
-                        "image": "https://img.upanh.tv/2023/06/26/356541756_229086713268101_3626015285813974495_n.jpg"
-                    },
-                    {
-                        "ID":36,
-                        "name":"boss",
-                        "category":"Mythical",
-                        "size":9999,
-                        "sell": 5999999,
-                        "image": "https://img.upanh.tv/2023/06/26/356602382_1440424876791930_1592122607670590419_n.jpg"
+                        "image": "https://i.imgur.com/OPTnY26.jpg"
                     }
                 ]
             },
@@ -302,48 +183,48 @@
                         "ID":1,
                         "name":"LoLi Chúa 1",
                         "category":"Legendary",
-                        "size":999,
-                        "sell":499999,
+                        "size":99,
+                        "sell":199999,
                         "image": "https://i.imgur.com/HZUbfH1.jpg"
                     },
                     {
                     	 "ID":2,
                         "name":"LoLi Chúa 2",
                         "category":"Legendary",
-                        "size":999,
-                        "sell":599999,
+                        "size":99,
+                        "sell":299999,
                         "image": "https://i.imgur.com/OPTnY26.jpg"
                     },
                     {
                     	 "ID":3,
                         "name":"LoLi Chúa 3",
                         "category":"Legendary",
-                        "size":999,
-                        "sell":699999,
+                        "size":99,
+                        "sell":399999,
                         "image": "https://i.imgur.com/HscnMQj.jpg"
                     },
                     {
                     	 "ID":4,
                         "name":"LoLi Chúa 4",
                         "category":"Legendary",
-                        "size":999,
-                        "sell":799999,
+                        "size":99,
+                        "sell":499999,
                         "image": "https://i.imgur.com/IWIXxYK.jpg"
                     },
                     {
                     	 "ID":5,
                         "name":"LoLi Chúa 5",
                         "category":"Legendary",
-                        "size":999,
-                        "sell":899999,
+                        "size":99,
+                        "sell":599999,
                         "image": "https://i.imgur.com/Dvb3lGy.jpg"
                     },
                     {
                     	 "ID":6,
                         "name":"LoLi Chúa 6",
                         "category":"Legendary",
-                        "size":999,
-                        "sell":999999,
+                        "size":99,
+                        "sell":699999,
                         "image": "https://i.imgur.com/A0flViq.jpg"
                     },
                     {
@@ -351,7 +232,7 @@
                         "name":"LoLi Chúa 7",
                         "category":"Legendary",
                         "size":99,
-                        "sell":1499999,
+                        "sell":799999,
                         "image": "https://i.imgur.com/6yTYEVE.jpg"
                     },
                     {
@@ -359,49 +240,17 @@
                         "name":"LoLi Chúa 8",
                         "category":"Legendary",
                         "size":99,
-                        "sell":1999999,
+                        "sell":899999,
                         "image": "https://i.imgur.com/23fWeoM.jpg"
                     },
                     {
                     	 "ID":9,
                         "name":"LoLi Chúa 9",
                         "category":"Legendary",
-                        "size":999,
-                        "sell":2499999,
-                        "https://i.imgur.com/9ym2Vi5.jpg"
-                    },
-                    {
-                    	 "ID":10,
-                        "name":"LoLi Chúa 10",
-                        "category":"Legendary",
-                        "size":999,
-                        "sell":2999999,
-                        "https://i.imgur.com/WG9686j.jpg"
-                    },
-                    {
-                    	 "ID":11,
-                        "name":"Boss I",
-                        "category":"Mythical",
-                        "size":9999,
-                        "sell":3999999,
-                        "https://i.imgur.com/jU40jL0.jpg"
-                    },
-                    {
-                    	 "ID":12,
-                        "name":"Boss II",
-                        "category":"Mythical",
-                        "size":999,
-                        "sell":4999999,
-                        "https://i.imgur.com/LKjm97V.jpg"
-                    },
-                    {
-                    	 "ID":13,
-                        "name":"Bossss",
-                        "category":"Mythical",
-                        "size":999,
-                        "sell":6999999,
-                        "https://i.imgur.com/TV0gzGh.jpg"
-                    }
+                        "size":99,
+                        "sell":999999,
+                        "image": "https://i.imgur.com/04nfXXM.png"
+                     }
                 ]
             }
         ]
@@ -419,7 +268,7 @@
                         "category":"Common",
                         "size":34,
                         "sell":9999,
-                        "image": "https://img.upanh.tv/2023/06/25/received_279170977837761.jpg"
+                        "image": "https://i.imgur.com/qJzhLJF.jpg"
                      }
                 ]
             }
