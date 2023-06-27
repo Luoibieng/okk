@@ -22,8 +22,8 @@
 	},
 	{
 		"name": "Cần Câu Bình Thường",
-		"price": 800000,
-		"durability": 400,
+		"price": 8,
+		"durability": 600,
 		"countdown": 2,
 		"image": "https://i.imgur.com/Ki8rCeH.png"
 	},
