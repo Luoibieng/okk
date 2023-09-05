@@ -1,65 +1,72 @@
 [
 	{
-		"name": "Cần Câu Rất Lỏ",
+		"name": "SexToy",
 		"price": 100000,
 		"durability": 50,
 		"countdown": 2,
-		"image": "https://i.imgur.com/gQuka5L.jpg"
+		"image": "https://i.imgur.com/1mD3Bzl.jpg"
 	},
 	{
-		"name": "Cần Câu Lỏ",
+		"name": " SexToy 1",
 		"price": 200000,
 		"durability": 100,
 		"countdown": 2,
-		"image": "https://i.imgur.com/mptiizn.png"
+		"image": "https://i.imgur.com/hRrqngo.jpg"
 	},
 	{
-		"name": "Cần Câu Thường",
-		"price": 400000,
+		"name": " SexToy 2",
+		"price": 500000,
 		"durability": 200,
 		"countdown": 2,
-		"image": "https://i.imgur.com/vgIeC3t.jpg"
+		"image": "https://i.imgur.com/H585pvi.jpg"
 	},
 	{
-		"name": "Cần Câu Bình Thường",
-		"price": 8,
-		"durability": 600,
+		"name": " SexToy 3",
+		"price": 1200000,
+		"durability": 500,
 		"countdown": 2,
-		"image": "https://i.imgur.com/Ki8rCeH.png"
+		"image": "https://i.imgur.com/f3qpwPO.jpg"
 	},
 	{
-		"name": "Cần Câu Rất Bình Thường",
-		"price": 1000000,
-		"durability": 800,
-		"countdown": 2,
-		"image": "https://i.imgur.com/vWRvdAP.png"
-	},
-	{
-		"name": "Cần Câu Mới Sơn",
-		"price": 1499999,
+		"name": " SexToy 4",
+		"price": 2500000,
 		"durability": 1000,
 		"countdown": 2,
-		"image": "https://i.imgur.com/P4l8Ivq.jpg"
+		"image": "https://i.imgur.com/FjEH9os.jpg"
 	},
 	{
-		"name": "Cần Câu Đã Sơn",
-		"price": 2999999,
+		"name": " SexToy 5",
+		"price": 5000000,
 		"durability": 2000,
-		"countdown": 1,
-		"image": "https://i.imgur.com/W5dAfCn.jpg"
+		"countdown": 2,
+		"image": "https://i.imgur.com/lzEw7FW.jpg"
 	},
 	{
-		"name": "Cần Câu Sơn Vip",
-		"price": 4999999,
+		"name": " SexToy 6",
+		"price": 10000000,
+		"durability": 3000,
+		"countdown": 1,
+		"image": "https://i.imgur.com/KQ1qFAf.jpg"
+	},
+	{
+		"name": " SexToy 7",
+		"price": 20000000,
+		"durability": 4000,
+		"countdown": 1,
+		"image": "https://i.imgur.com/xMjh4mP.jpg"
+	},
+	 {
+		"name": " SexToy 8",
+		"price": 50000000,
 		"durability": 5000,
 		"countdown": 1,
-		"image": "https://i.imgur.com/EDozSgg.jpg"
+		"image": "https://i.imgur.com/zNjut6y.jpg"
 	},
 	{
-		"name": "Cần Câu Bình Dương",
-		"price": 9999999,
-		"durability": 10000,
+		"name": " SexToy 9",
+		"price": 100000000,
+		"durability": 6000,
 		"countdown": 1,
-		"image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/rod/legend_of_rod.png"
+		"image": "https://i.imgur.com/oFxZcky.jpg"
 	}
 ]
