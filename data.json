@@ -1,2217 +1,829 @@
-3[
+[
     {
-        "location":"Saver TD",
+        "location":"Saver TD ",
         "area":[
             {   
                 "ID": 0,
                 "name":"LoLi",
                 "creature":[
                     {
-                        "ID":0,
+                        "ID":1,
                         "name":"LoLi",
-                        "category":"Common",
-                        "size":0,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/XFqXDhm.jpg"
-                    },
-                    {
-                        "ID":1,
-                        "name":"LoLi 1",
-                        "category":"Common",
-                        "size":1,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/ZacRq8z.jpg"
+                        "category":"Unknown",
+                        "size":99999,
+                        "sell":9999999,
+                        "image": "https://i.imgur.com/YEL2VsJ.jpg"
                     },
                     {
                         "ID":2,
-                        "name":"LoLi 2",
-                        "category":"Common",
-                        "size":2,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/vf9URgn.jpg"
+                        "name":"LoLi",
+                        "category":"Unknown",
+                        "size":99999,
+                        "sell":9999999,
+                        "image": "https://i.imgur.com/C5ZZRT7.jpg"
                     },
                     {
                         "ID":3,
-                        "name":"LoLi 3",
-                        "category":"Common",
-                        "size":2,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/DFV8y0S.jpg"
+                        "name":"LoLi",
+                        "category":"Unknown",
+                        "size":99999,
+                        "sell":9999999,
+                        "image": "https://i.imgur.com/yy76kgK.jpg"
                     },
                     {
                         "ID":4,
-                        "name":"LoLi 4",
-                        "category":"Common",
-                        "size":3,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/NoMel4m.jpg"
+                        "name":"LoLi",
+                        "category":"Unknown",
+                        "size":99999,
+                        "sell":9999999,
+                        "image": "https://i.imgur.com/duza9a6.jpg"
                     },
                     {
                         "ID":5,
-                        "name":"LoLi 5",
-                        "category":"Common",
-                        "size":5,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/H00oP13.jpg"
+                        "name":"LoLi",
+                        "category":"Etherial",
+                        "size":89999,
+                        "sell":7999999,
+                        "image": "https://i.imgur.com/FtL04CD.jpg"
                     },
                     {
                         "ID":6,
-                        "name":"LoLi 6",
-                        "category":"Common",
-                        "size":6,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/xlyT62o.jpg"
+                        "name":"LoLi",
+                        "category":"Etherial",
+                        "size":89999,
+                        "sell":7999999,
+                        "image": "https://i.imgur.com/4kxq5Sx.jpg"
                     },
                     {
                         "ID":7,
-                        "name":"LoLi 7",
-                        "category":"Common",
-                        "size":7,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/UeQkE3T.jpg"
+                        "name":"LoLi",
+                        "category":"Etherial",
+                        "size":89999,
+                        "sell":7999999,
+                        "image": "https://i.imgur.com/HOpmOQN.jpg"
                     },
                     {
                         "ID":8,
-                        "name":"LoLi 8",
-                        "category":"Common",
-                        "size":8,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/62zwPxw.jpg"
+                        "name":"LoLi",
+                        "category":"Etherial",
+                        "size":89999,
+                        "sell":7999999,
+                        "image": "https://i.imgur.com/qxu4cfp.jpg"
                     },
                     {
                         "ID":9,
-                        "name":"LoLi 9",
-                        "category":"Common",
-                        "size":9,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/UtW6hpb.jpg"
+                        "name":"LoLi",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
+                        "image": "https://i.imgur.com/uMdpnUC.jpg"
                     },
                     {
                         "ID":10,
-                        "name":"LoLi 10",
-                        "category":"Uncommon",
-                        "size":10,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/Pivb8Bt.jpg"
+                        "name":"LoLi",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
+                        "image": "https://i.imgur.com/41udeFH.jpg"
                     },
                     {
                         "ID":11,
-                        "name":"LoLi 11",
-                        "category":"Uncommon",
-                        "size":11,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/A2Opt0p.jpg"
+                        "name":"LoLi",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
+                        "image": "https://i.imgur.com/gAflChf.jpg"
                     },
                     {
                         "ID":12,
-                        "name":"LoLi 12",
-                        "category":"Uncommon",
-                        "size":12,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/18lGILx.jpg"
+                        "name":"LoLi",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
+                        "image": "https://i.imgur.com/EzrsK06.jpg"
                     },
                     {
                         "ID":13,
-                        "name":"LoLi 13",
-                        "category":"Uncommon",
-                        "size":13,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/VDP0f9j.jpg"
+                        "name":"LoLi",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
+                        "image": "https://i.imgur.com/gMN8w9K.jpg"
                     },
                     {
                         "ID":14,
-                        "name":"LoLi 14",
-                        "category":"Uncommon",
-                        "size":14,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/0tOu6cS.jpg"
+                        "name":"LoLi",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
+                        "image": "https://i.imgur.com/KuDio67.jpg"
                     },
                     {
                         "ID":15,
-                        "name":"LoLi 15",
-                        "category":"Rare",
-                        "size":15,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/MF0wj7c.jpg"
+                        "name":"LoLi",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
+                        "image": "https://i.imgur.com/PiUij4M.jpg"
                     },
                     {
                         "ID":16,
-                        "name":"LoLi 16",
-                        "category":"Rare",
-                        "size":16,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/A97oH88.jpg"
+                        "name":"LoLi",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
+                        "image": "https://i.imgur.com/wfNIwF2.jpg"
                     },
                     {
                         "ID":17,
-                        "name":"LoLi 17",
-                        "category":"Rare",
-                        "size":17,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/pRkuVHE.jpg"
+                        "name":"LoLi",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
+                        "image": "https://i.imgur.com/Pyrd3fs.jpg"
                     },
                     {
                         "ID":18,
-                        "name":"LoLi 18",
-                        "category":"Legendary",
-                        "size":18,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/ThqSuDW.jpg"
+                        "name":"LoLi",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
+                        "image": "https://i.imgur.com/EP2QZC8.jpg"
                     },
                     {
                         "ID":19,
-                        "name":"LoLi 19",
-                        "category":"Legendary",
-                        "size":19,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/a5aE7uS.jpg"
+                        "name":"LoLi",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
+                        "image": "https://i.imgur.com/fUTrP3m.jpg"
                     },
                     {
                         "ID":20,
-                        "name":"LoLi 20",
+                        "name":"LoLi",
                         "category":"Mythical",
-                        "size":1000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/YeXuAK8.jpg"
-                    }
-                ]
-            },
-            {   
-                "ID": 1,
-                "name":"SeXy",
-                "creature":[
-                    {
-                        "ID":0,
-                        "name":"SeXy",
-                        "category":"Common",
-                        "size":20,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/AS05y98.jpg"
-                    },
-                    {
-                        "ID":1,
-                        "name":"SeXy 1",
-                        "category":"Common",
-                        "size":21,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/noi50dQ.jpg"
-                    },
-                    {
-                        "ID":2,
-                        "name":"SeXy 2",
-                        "category":"Common",
-                        "size":22,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/IEGi9Lv.jpg"
-                    },
-                    {
-                        "ID":3,
-                        "name":"SeXy 3",
-                        "category":"Common",
-                        "size":23,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/x7VhzQ4.jpg"
-                    },
-                    {
-                        "ID":4,
-                        "name":"SeXy 4",
-                        "category":"Common",
-                        "size":24,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/kpFHwEr.jpg"
-                    },
-                    {
-                        "ID":5,
-                        "name":"SeXy 5",
-                        "category":"Common",
-                        "size":25,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/IHMIIbG.jpg"
-                    },
-                    {
-                        "ID":6,
-                        "name":"SeXy 6",
-                        "category":"Common",
-                        "size":26,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/ux8jg6Y.jpg"
-                    },
-                    {
-                        "ID":7,
-                        "name":"SeXy 7",
-                        "category":"Common",
-                        "size":27,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/ibJj8ne.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"SeXy 8",
-                        "category":"Common",
-                        "size":28,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/ueZRxsc.jpg"
-                    },
-                    {
-                        "ID":9,
-                        "name":"SeXy 9",
-                        "category":"Common",
-                        "size":29,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/B1yOlJQ.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"SeXy 10",
-                        "category":"Uncommon",
-                        "size":30,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/XDzAaPG.jpg"
-                    },
-                    {
-                        "ID":11,
-                        "name":"SeXy 11",
-                        "category":"Uncommon",
-                        "size":31,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/kvkZ2Ap.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"SeXy 12",
-                        "category":"Uncommon",
-                        "size":32,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/moOzy2d.jpg"
-                    },
-                    {
-                        "ID":13,
-                        "name":"SeXy 13",
-                        "category":"Uncommon",
-                        "size":33,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/lICISUz.jpg"
-                    },
-                    {
-                        "ID":14,
-                        "name":"SeXy 14",
-                        "category":"Uncommon",
-                        "size":34,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/wmY5hEc.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"SeXy 15",
-                        "category":"Rare",
-                        "size":35,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/PD4JyJ8.jpg"
-                    },
-                    {
-                        "ID":16,
-                        "name":"SeXy 16",
-                        "category":"Rare",
-                        "size":36,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/NS2J3TF.jpg"
-                    },
-                    {
-                        "ID":17,
-                        "name":"SeXy 17",
-                        "category":"Rare",
-                        "size":37,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/gCQJW8d.jpg"
-                    },
-                    {
-                        "ID":18,
-                        "name":"SeXy 18",
-                        "category":"Legendary",
-                        "size":38,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/8tBujuT.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"SeXy 19",
-                        "category":"Legendary",
-                        "size":39,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/QYQsnpO.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"SeXy 20",
-                        "category":"Mythical",
-                        "size":4000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/ntoZD3L.jpg"
-                    }
-                ]
-            },
-            {   
-                "ID": 2,
-                "name":"Gái",
-                "creature":[
-                    {
-                        "ID":0,
-                        "name":"Girl",
-                        "category":"Common",
-                        "size":40,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/ua0J94b.jpg"
-                    },
-                    {
-                        "ID":1,
-                        "name":"Girl 1",
-                        "category":"Common",
-                        "size":41,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/XlQzjIV.jpg"
-                    },
-                    {
-                        "ID":2,
-                        "name":"Girl 2",
-                        "category":"Common",
-                        "size":42,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/6zLXyF9.jpg"
-                    },
-                    {
-                        "ID":3,
-                        "name":"Girl 3",
-                        "category":"Common",
-                        "size":43,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/Ssltp03.jpg"
-                    },
-                    {
-                        "ID":4,
-                        "name":"Girl 4",
-                        "category":"Common",
-                        "size":44,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/qYcuAHb.jpg"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Girl 5",
-                        "category":"Common",
-                        "size":45,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/ebRyhTf.jpg"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Girl 6",
-                        "category":"Common",
-                        "size":46,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/yULyPuW.jpg"
-                    },
-                    {
-                        "ID":7,
-                        "name":"Girl 7",
-                        "category":"Common",
-                        "size":47,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/YD756Fk.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"Girl 8",
-                        "category":"Common",
-                        "size":48,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/yBNvlHV.jpg"
-                    },
-                    {
-                        "ID":9,
-                        "name":"Girl 9",
-                        "category":"Common",
-                        "size":49,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/VoMWdTk.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"Girl 10",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/SxmCIUH.jpg"
-                    },
-                    {
-                        "ID":11,
-                        "name":"Girl 11",
-                        "category":"Uncommon",
-                        "size":51,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/FwSxHJj.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"Girl 12",
-                        "category":"Uncommon",
-                        "size":52,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/AtmG7R3.jpg"
-                    },
-                    {
-                        "ID":13,
-                        "name":"Girl 13",
-                        "category":"Uncommon",
-                        "size":53,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/jNGGh5t.jpg"
-                    },
-                    {
-                        "ID":14,
-                        "name":"Girl 14",
-                        "category":"Uncommon",
-                        "size":54,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/VmtnA4L.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"Girl 15",
-                        "category":"Rare",
-                        "size":55,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/mVzjx2A.jpg"
-                    },
-                    {
-                        "ID":16,
-                        "name":"Girl 16",
-                        "category":"Rare",
-                        "size":56,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/sYSRWi8.jpg"
-                    },
-                    {
-                        "ID":17,
-                        "name":"Girl 17",
-                        "category":"Rare",
-                        "size":57,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/3VDftHx.jpg"
-                    },
-                    {
-                        "ID":18,
-                        "name":"Girl 18",
-                        "category":"Legendary",
-                        "size":58,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/9DKGyNL.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"Girl 19",
-                        "category":"Legendary",
-                        "size":59,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/xXailB4.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"Girl 20",
-                        "category":"Mythical",
-                        "size":6000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/hOEmOcs.jpg"
-                    }
-                ]
-            },
-            {   
-                "ID": 3,
-                "name":"Anime",
-                "creature":[
-                    {
-                        "ID":0,
-                        "name":"Anime",
-                        "category":"Common",
-                        "size":60,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/GpJIdRW.jpg"
-                    },
-                    {
-                        "ID":1,
-                        "name":"Anime 1",
-                        "category":"Common",
-                        "size":61,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/xoj8qZP.jpg"
-                    },
-                    {
-                        "ID":2,
-                        "name":"Anime 2",
-                        "category":"Common",
-                        "size":62,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/BXcBf5h.jpg"
-                    },
-                    {
-                        "ID":3,
-                        "name":"Anime 3",
-                        "category":"Common",
-                        "size":63,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/eZvAmqj.jpg"
-                    },
-                    {
-                        "ID":4,
-                        "name":"Anime 4",
-                        "category":"Common",
-                        "size":64,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/GJlo4l7.jpg"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Anime 5",
-                        "category":"Common",
-                        "size":65,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/a7FsfYD.jpg"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Anime 6",
-                        "category":"Common",
-                        "size":66,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/SbAAQtV.jpg"
-                    },
-                    {
-                        "ID":7,
-                        "name":"Anime 7",
-                        "category":"Common",
-                        "size":67,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/p8ytcIy.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"Anime 8",
-                        "category":"Common",
-                        "size":68,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/XTuTo6A.jpg"
-                    },
-                    {
-                        "ID":9,
-                        "name":"Anime 9",
-                        "category":"Common",
-                        "size":69,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/c0aBom0.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"Anime 10",
-                        "category":"Uncommon",
-                        "size":70,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/lC5VS7c.jpg"
-                    },
-                    {
-                        "ID":11,
-                        "name":"Anime 11",
-                        "category":"Uncommon",
-                        "size":71,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/Ivg3m72.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"Anime 12",
-                        "category":"Uncommon",
-                        "size":72,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/Xvpkpgx.jpg"
-                    },
-                    {
-                        "ID":13,
-                        "name":"Anime 13",
-                        "category":"Uncommon",
-                        "size":73,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/CYkAqOP.jpg"
-                    },
-                    {
-                        "ID":14,
-                        "name":"Anime 14",
-                        "category":"Uncommon",
-                        "size":74,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/sHeXvJ6.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"Anime 15",
-                        "category":"Rare",
-                        "size":75,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/GzGlTmV.jpg"
-                    },
-                    {
-                        "ID":16,
-                        "name":"Anime 16",
-                        "category":"Rare",
-                        "size":76,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/DqWKIoK.jpg"
-                    },
-                    {
-                        "ID":17,
-                        "name":"Anime 17",
-                        "category":"Rare",
-                        "size":77,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/bc2kJTP.jpg"
-                    },
-                    {
-                        "ID":18,
-                        "name":"Anime 18",
-                        "category":"Legendary",
-                        "size":78,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/2pJtzWg.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"Anime 19",
-                        "category":"Legendary",
-                        "size":79,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/0cT4RoU.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"Anime 20",
-                        "category":"Mythical",
-                        "size":8000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/ANFf2LM.jpg"
+                        "size":49999,
+                        "sell":1999999,
+                        "image": "https://i.imgur.com/M9peyMS.jpg"
                     },
                     {
                         "ID":21,
-                        "name":"Anime 21",
+                        "name":"LoLi",
                         "category":"Common",
-                        "size":61,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/7gMp7ig.jpg"
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/ZpvAoba.jpg"
                     },
                     {
                         "ID":22,
-                        "name":"Anime 22",
+                        "name":"LoLi",
                         "category":"Common",
-                        "size":62,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/6n54uNi.jpg"
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/KqKHmrx.jpg"
                     },
                     {
                         "ID":23,
-                        "name":"Anime 23",
+                        "name":"LoLi",
                         "category":"Common",
-                        "size":63,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/9EdbXZb.jpg"
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/yF0tGMA.jpg"
                     },
                     {
                         "ID":24,
-                        "name":"Anime 24",
+                        "name":"LoLi",
                         "category":"Common",
-                        "size":64,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/8j2lyQP.jpg"
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/ncEZh9k.jpg"
                     },
                     {
                         "ID":25,
-                        "name":"Anime 25",
+                        "name":"LoLi",
                         "category":"Common",
-                        "size":65,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/BfjUR6l.jpg"
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/r3txQSm.jpg"
                     },
                     {
                         "ID":26,
-                        "name":"Anime 26",
+                        "name":"LoLi",
                         "category":"Common",
-                        "size":66,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/wkfWlUM.jpg"
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/7nGF7O5.jpg"
                     },
                     {
                         "ID":27,
-                        "name":"Anime 27",
+                        "name":"LoLi",
                         "category":"Common",
-                        "size":67,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/AysCE37.jpg"
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/CGkg1mu.jpg"
                     },
                     {
                         "ID":28,
-                        "name":"Anime 28",
+                        "name":"LoLi",
                         "category":"Common",
-                        "size":68,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/DeXKCZ2.jpg"
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/GGSNrsz.jpg"
                     },
                     {
                         "ID":29,
-                        "name":"Anime 29",
+                        "name":"LoLi",
                         "category":"Common",
-                        "size":69,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/2egYdpI.jpg"
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/dQBXxMX.jpg"
                     },
                     {
                         "ID":30,
-                        "name":"Anime 30",
-                        "category":"Uncommon",
-                        "size":70,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/r9JBgXf.jpg"
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/SHhrrGA.jpg"
                     },
                     {
                         "ID":31,
-                        "name":"Anime 31",
-                        "category":"Uncommon",
-                        "size":71,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/6pT3HCc.jpg"
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/kRdqezI.jpg"
                     },
                     {
                         "ID":32,
-                        "name":"Anime 32",
-                        "category":"Uncommon",
-                        "size":72,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/7KPfgTW.jpg"
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/PEv2Anz.jpg"
                     },
                     {
                         "ID":33,
-                        "name":"Anime 33",
-                        "category":"Uncommon",
-                        "size":73,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/JMQtVXf.jpg"
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/TSYktWp.jpg"
                     },
                     {
                         "ID":34,
-                        "name":"Anime 34",
-                        "category":"Uncommon",
-                        "size":74,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/A5Dow89.jpg"
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/gF6KhBt.jpg"
                     },
                     {
                         "ID":35,
-                        "name":"Anime 35",
-                        "category":"Rare",
-                        "size":75,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/4pUsAnG.jpg"
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/M2ktTnZ.jpg"
                     },
                     {
                         "ID":36,
-                        "name":"Anime 36",
-                        "category":"Rare",
-                        "size":76,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/1ct4DKC.jpg"
+                        "name":"LoLi",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/jXDembu.jpg"
                     },
                     {
                         "ID":37,
-                        "name":"Anime 37",
-                        "category":"Rare",
-                        "size":77,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/HMOZGXR.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/mB2Wf0S.jpg"
                     },
                     {
                         "ID":38,
-                        "name":"Anime 38",
-                        "category":"Legendary",
-                        "size":78,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/vWPrRn2.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/OLxjceC.jpg"
                     },
                     {
                         "ID":39,
-                        "name":"Anime 39",
-                        "category":"Legendary",
-                        "size":79,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/xs63fk0.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/S3pTCDF.jpg"
                     },
                     {
                         "ID":40,
-                        "name":"Anime 40",
-                        "category":"Mythical",
-                        "size":8000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/apmyeCz.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/QQoPruW.jpg"
                     },
                     {
                         "ID":41,
-                        "name":"Anime 41",
-                        "category":"Common",
-                        "size":61,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/q551c4B.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/vR4a0o3.jpg"
                     },
                     {
                         "ID":42,
-                        "name":"Anime 42",
-                        "category":"Common",
-                        "size":62,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/bTYF6RN.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/vZg0cww.jpg"
                     },
                     {
                         "ID":43,
-                        "name":"Anime 43",
-                        "category":"Common",
-                        "size":63,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/QEIucYl.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/D8I0mmP.jpg"
                     },
                     {
                         "ID":44,
-                        "name":"Anime 44",
-                        "category":"Common",
-                        "size":64,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/zjgJff2.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/aUQlE09.jpg"
                     },
                     {
                         "ID":45,
-                        "name":"Anime 45",
-                        "category":"Common",
-                        "size":65,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/kkNGdqY.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/c65cdRB.jpg"
                     },
                     {
                         "ID":46,
-                        "name":"Anime 46",
-                        "category":"Common",
-                        "size":66,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/2aDyJdV.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/faRBfkB.jpg"
                     },
                     {
                         "ID":47,
-                        "name":"Anime 47",
-                        "category":"Common",
-                        "size":67,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/skNsLmB.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/cs5ZQhx.jpg"
                     },
                     {
                         "ID":48,
-                        "name":"Anime 48",
-                        "category":"Common",
-                        "size":68,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/2gXlDob.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/Lir7SWG.jpg"
                     },
                     {
                         "ID":49,
-                        "name":"Anime 49",
-                        "category":"Common",
-                        "size":69,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/y1Lj9df.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/BAq0lbp.jpg"
                     },
                     {
                         "ID":50,
-                        "name":"Anime 0",
+                        "name":"LoLi",
                         "category":"Uncommon",
-                        "size":70,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/mQTNy0P.jpg"
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/dPDaKVO.jpg"
                     },
                     {
                         "ID":51,
-                        "name":"Anime 51",
+                        "name":"LoLi",
                         "category":"Uncommon",
-                        "size":71,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/agB033V.jpg"
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/D0PjNTP.jpg"
                     },
                     {
                         "ID":52,
-                        "name":"Anime 52",
-                        "category":"Uncommon",
-                        "size":72,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/uxThtYv.jpg"
+                        "name":"LoLi",
+                        "category":"Uncommbon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/CtBNEyw.jpg"
                     },
                     {
                         "ID":53,
-                        "name":"Anime 53",
-                        "category":"Uncommon",
-                        "size":73,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/ENaJMhq.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/CtBNEyw.jpg"
                     },
                     {
                         "ID":54,
-                        "name":"Anime 54",
-                        "category":"Uncommon",
-                        "size":74,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/4aJfxn4.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/g2bAesT.jpg"
                     },
                     {
                         "ID":55,
-                        "name":"Anime 55",
+                        "name":"LoLi",
                         "category":"Rare",
-                        "size":75,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/M8XI3O9.jpg"
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/IjVM46x.jpg"
                     },
                     {
-                        "ID":6,
-                        "name":"Anime 56",
+                        "ID":56,
+                        "name":"LoLi",
                         "category":"Rare",
-                        "size":76,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/CoXmRMK.jpg"
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/f2pHfsF.jpg"
                     },
                     {
                         "ID":57,
-                        "name":"Anime 57",
+                        "name":"LoLi",
                         "category":"Rare",
-                        "size":77,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/ds79v8Z.jpg"
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/NT1dR9Y.jpg"
                     },
                     {
                         "ID":58,
-                        "name":"Anime 58",
-                        "category":"Legendary",
-                        "size":78,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/FNuYY23.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/YPoocdo.jpg"
                     },
                     {
                         "ID":59,
-                        "name":"Anime 59",
-                        "category":"Legendary",
-                        "size":79,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/W1ETtxx.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/JECs6Yf.jpg"
                     },
                     {
                         "ID":60,
-                        "name":"Anime 60",
-                        "category":"Mythical",
-                        "size":8000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/k7IVv2r.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/euujgFP.jpg"
                     },
                     {
                         "ID":61,
-                        "name":"Anime 61",
-                        "category":"Common",
-                        "size":61,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/XtDiMAd.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/81Yy5hK.jpg"
                     },
                     {
                         "ID":62,
-                        "name":"Anime 62",
-                        "category":"Common",
-                        "size":62,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/jGvmxPc.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/q1iRlJT.jpg"
                     },
                     {
                         "ID":63,
-                        "name":"Anime 63",
-                        "category":"Common",
-                        "size":63,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/hDr27od.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/DKvjfwa.jpg"
                     },
                     {
                         "ID":64,
-                        "name":"Anime 64",
-                        "category":"Common",
-                        "size":64,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/FAv3VTc.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/urg7pIS.jpg"
                     },
                     {
                         "ID":65,
-                        "name":"Anime 65",
-                        "category":"Common",
-                        "size":65,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/cyX7czZ.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/FMTLyzf.jpg"
                     },
                     {
                         "ID":66,
-                        "name":"Anime 66",
-                        "category":"Common",
-                        "size":66,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/r1x0Un6.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/ihz84ij.jpg"
                     },
                     {
                         "ID":67,
-                        "name":"Anime 67",
-                        "category":"Common",
-                        "size":67,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/1A1iDLl.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/1by9Uv0.jpg"
                     },
                     {
                         "ID":68,
-                        "name":"Anime 68",
-                        "category":"Common",
-                        "size":68,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/vHVeqTz.jpg"
+                        "name":"LoLi",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
+                        "image": "https://i.imgur.com/bkIfoDa.jpg"
                     },
                     {
                         "ID":69,
-                        "name":"Anime 69",
-                        "category":"Common",
-                        "size":69,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/9mYqRn6.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/QYzfTJd.jpg"
                     },
                     {
                         "ID":70,
-                        "name":"Anime 70",
-                        "category":"Uncommon",
-                        "size":70,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/xwK1Mkq.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/o5iWrNt.jpg"
                     },
                     {
                         "ID":71,
-                        "name":"Anime 71",
-                        "category":"Uncommon",
-                        "size":71,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/lWfIMbT.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/WKdRGLS.jpg"
                     },
                     {
                         "ID":72,
-                        "name":"Anime 72",
-                        "category":"Uncommon",
-                        "size":72,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/ZuCogQg.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/03lO1wP.jpg"
                     },
                     {
                         "ID":73,
-                        "name":"Anime 73",
-                        "category":"Uncommon",
-                        "size":73,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/R7uXggS.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/h8jOilH.jpg"
                     },
                     {
                         "ID":74,
-                        "name":"Anime 74",
-                        "category":"Uncommon",
-                        "size":74,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/YNSAMit.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/wjxnJXN.jpg"
                     },
                     {
                         "ID":75,
-                        "name":"Anime 75",
-                        "category":"Rare",
-                        "size":75,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/5Bgrs9m.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/yzGWsBt.jpg"
                     },
                     {
                         "ID":76,
-                        "name":"Anime 76",
-                        "category":"Rare",
-                        "size":76,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/z6ciEay.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500, 
+                        "sell":599999,
+                        "image": "https://i.imgur.com/PtZ1wjR.jpg"
                     },
                     {
                         "ID":77,
-                        "name":"Anime 77",
-                        "category":"Rare",
-                        "size":77,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/8uytmZE.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/UqwbbxK.jpg"
                     },
                     {
                         "ID":78,
-                        "name":"Anime 78",
-                        "category":"Legendary",
-                        "size":78,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/ESjH8Nu.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/e0OwvQp.jpg"
                     },
                     {
                         "ID":79,
-                        "name":"Anime 79",
-                        "category":"Legendary",
-                        "size":79,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/3jKaDab.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/V3IA2CH.jpg"
                     },
                     {
                         "ID":80,
-                        "name":"Anime 80",
-                        "category":"Mythical",
-                        "size":8000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/NPCLsCM.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/6XhaARO.jpg"
                     },
                     {
                         "ID":81,
-                        "name":"Anime 81",
-                        "category":"Common",
-                        "size":61,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/oO3cYUw.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/PtDG0Ts.jpg"
                     },
                     {
                         "ID":82,
-                        "name":"Anime 82",
-                        "category":"Common",
-                        "size":62,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/wItWvf3.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/MbIEt5H.jpg"
                     },
                     {
                         "ID":83,
-                        "name":"Anime 83",
-                        "category":"Common",
-                        "size":63,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/HmZR5PY.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/yYhp1Yn.jpg"
                     },
                     {
                         "ID":84,
-                        "name":"Anime 84",
-                        "category":"Common",
-                        "size":64,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/H55o9qW.jpg"
+                        "name":"LoLi",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/WgvolFT.jpg"
                     },
                     {
                         "ID":85,
-                        "name":"Anime 85",
-                        "category":"Common",
-                        "size":65,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/3VzLI1M.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/hwCqZB1.jpg"
                     },
                     {
                         "ID":86,
-                        "name":"Anime 86",
-                        "category":"Common",
-                        "size":66,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/oKCzO4w.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/maRm4CV.jpg"
                     },
                     {
                         "ID":87,
-                        "name":"Anime 87",
-                        "category":"Common",
-                        "size":67,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/tDzEVu2.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/X8JW9JB.jpg"
                     },
                     {
                         "ID":88,
-                        "name":"Anime 88",
-                        "category":"Common",
-                        "size":68,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/ktlHgkr.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/Xnox5pC.jpg"
                     },
                     {
                         "ID":89,
-                        "name":"Anime 89",
-                        "category":"Common",
-                        "size":69,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/iNwUs72.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/64dUN9b.jpg"
                     },
                     {
                         "ID":90,
-                        "name":"Anime 90",
-                        "category":"Uncommon",
-                        "size":70,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/AbKTYNn.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/mdSEaHR.jpg"
                     },
                     {
                         "ID":91,
-                        "name":"Anime 91",
-                        "category":"Uncommon",
-                        "size":71,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/iULpphn.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/jfufDtG.jpg"
                     },
                     {
                         "ID":92,
-                        "name":"Anime 92",
-                        "category":"Uncommon",
-                        "size":72,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/R7GnHzp.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/ERstKMp.jpg"
                     },
                     {
                         "ID":93,
-                        "name":"Anime 93",
-                        "category":"Uncommon",
-                        "size":73,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/qpq35v4.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/e2eyMYi.jpg"
                     },
                     {
                         "ID":94,
-                        "name":"Anime 94",
-                        "category":"Uncommon",
-                        "size":74,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/8XENatT.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/dRkANUF.jpg"
                     },
                     {
                         "ID":95,
-                        "name":"Anime 95",
-                        "category":"Rare",
-                        "size":75,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/WyWP7hw.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/BtfYn9k.jpg"
                     },
                     {
                         "ID":96,
-                        "name":"Anime 96",
-                        "category":"Rare",
-                        "size":76,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/jm4ySvX.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/1fHxDE4.jpg"
                     },
                     {
                         "ID":97,
-                        "name":"Anime 97",
-                        "category":"Rare",
-                        "size":77,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/Li8rRTv.jpg"
+                        "name":"LoLi",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/4IyURce.jpg"
                     },
                     {
                         "ID":98,
-                        "name":"Anime 98",
+                        "name":"LoLi",
                         "category":"Legendary",
-                        "size":78,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/b6mgItn.jpg"
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/cy8rSdo.jpg"
                     },
                     {
                         "ID":99,
-                        "name":"Anime 99",
+                        "name":"LoLi",
                         "category":"Legendary",
-                        "size":79,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/1NuOOW6.jpg"
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/gbt6fZt.jpg"
                     },
                     {
                         "ID":100,
-                        "name":"Anime 100",
-                        "category":"Mythical",
-                        "size":8000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/MLwRc1D.jpg"
-                    }
-                ]
-            },
-            {   
-                "ID": 4,
-                "name":"chibi",
-                "creature":[
-                    {
-                        "ID":0,
-                        "name":"Chibi",
-                        "category":"Common",
-                        "size":60,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/ULt9uAQ.jpg"
-                    },
-                    {
-                        "ID":1,
-                        "name":"Chibi 1",
-                        "category":"Common",
-                        "size":61,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/BtjJ9mn.jpg"
-                    },
-                    {
-                        "ID":2,
-                        "name":"Chibi 2",
-                        "category":"Common",
-                        "size":62,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/9Ucs2ex.jpg"
-                    },
-                    {
-                        "ID":3,
-                        "name":"Chibi 3",
-                        "category":"Common",
-                        "size":63,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/eDe8nXa.jpg"
-                    },
-                    {
-                        "ID":4,
-                        "name":"Chibi 4",
-                        "category":"Common",
-                        "size":64,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/jzRDT6V.jpg"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Chibi 5",
-                        "category":"Common",
-                        "size":65,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/WePewgA.jpg"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Chibi 6",
-                        "category":"Common",
-                        "size":66,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/ahbYkgd.jpg"
-                    },
-                    {
-                        "ID":7,
-                        "name":"Chibi 7",
-                        "category":"Common",
-                        "size":67,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/iI9oZ82.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"Chibi 8",
-                        "category":"Common",
-                        "size":68,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/8gk127y.jpg"
-                    },
-                    {
-                        "ID":9,
-                        "name":"Chibi 9",
-                        "category":"Common",
-                        "size":69,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/yxXGRpj.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"Chibi 1 0",
-                        "category":"Uncommon",
-                        "size":70,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/TEfbSyD.jpg"
-                    },
-                    {
-                        "ID":11,
-                        "name":"Chibi 1 1",
-                        "category":"Uncommon",
-                        "size":71,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/SYe4Ik5.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"Chibi 12",
-                        "category":"Uncommon",
-                        "size":72,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/JyqED7X.jpg"
-                    },
-                    {
-                        "ID":13,
-                        "name":"Chibi 13",
-                        "category":"Uncommon",
-                        "size":73,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/FkF1NRB.jpg"
-                    },
-                    {
-                        "ID":14,
-                        "name":"Chibi 14",
-                        "category":"Uncommon",
-                        "size":74,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/p0YgskL.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"Chibi 15",
-                        "category":"Rare",
-                        "size":75,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/d26pHaz.jpg"
-                    },
-                    {
-                        "ID":16,
-                        "name":"Chibi 16",
-                        "category":"Rare",
-                        "size":76,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/Dcfyok6.jpg"
-                    },
-                    {
-                        "ID":17,
-                        "name":"Chibi 17",
-                        "category":"Rare",
-                        "size":77,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/qx1bpYL.jpg"
-                    },
-                    {
-                        "ID":18,
-                        "name":"Chibi 18",
+                        "name":"LoLi",
                         "category":"Legendary",
-                        "size":78,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/7xLXLkI.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"Chibi 19",
-                        "category":"Legendary",
-                        "size":79,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/bIV8vg0.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"Chibi 20",
-                        "category":"Mythical",
-                        "size":8000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/edb1K0t.jpg"
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/WhP74mf.jpg"
                     }
                 ]
             }
         ]
     },
     {
-        "location":"Saver  XXX",
+        "location":"Sector Zero",
         "area":[
             {   
                 "ID": 0,
-                "name":"Giản Hòa ",
-                "rate": 95,
+                "name":"Shallow Twisty Bridges – Twisty Bridges",
                 "creature":[
                     {
                         "ID":0,
-                        "name":"BuKu",
+                        "name":"Arctic Peeper",
                         "category":"Common",
-                        "size":100,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/0p8Gjr3.jpg"
-                    },
-                    {
-                        "ID":1,
-                        "name":"BuKu 1",
-                        "category":"Common",
-                        "size":101,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/AQ9dTRI.jpg"
-                    },
-                    {
-                        "ID":2,
-                        "name":"BuKu 2",
-                        "category":"Common",
-                        "size":102,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/2Z9IG5K.jpg"
-                    },
-                    {
-                        "ID":3,
-                        "name":"BuKu 3",
-                        "category":"Common",
-                        "size":103,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/b02H03H.jpg"
-                    },
-                    {
-                        "ID":4,
-                        "name":"BuKu 4",
-                        "category":"Common",
-                        "size":104,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/q9ceioJ.jpg"
-                    },
-                    {
-                        "ID":5,
-                        "name":"BuKu 5",
-                        "category":"Common",
-                        "size":105,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/8KnBMlM.jpg"
-                    },
-                    {
-                        "ID":6,
-                        "name":"BuKu 6",
-                        "category":"Common",
-                        "size":106,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/OqZZqql.jpg"
-                    },
-                    {
-                        "ID":7,
-                        "name":"BuKu 7",
-                        "category":"Common",
-                        "size":107,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/6PM8Qor.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"BuKu 8",
-                        "category":"Common",
-                        "size":108,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/jZCDvlY.jpg"
-                    },
-                    {
-                        "ID":9,
-                        "name":"BuKu 9",
-                        "category":"Common",
-                        "size":109,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/PbgEm0K.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"BuKu 10",
-                        "category":"Uncommon",
-                        "size":110,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/GgDRfyb.jpg"
-                    },
-                    {
-                        "ID":11,
-                        "name":"BuKu 11",
-                        "category":"Uncommon",
-                        "size":111,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/8ZK4r4l.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"BuKu 12",
-                        "category":"Uncommon",
-                        "size":112,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/n9k10S4.jpg"
-                    },
-                    {
-                        "ID":13,
-                        "name":"BuKu 13",
-                        "category":"Uncommon",
-                        "size":113,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/qVcsTHz.jpg"
-                    },
-                    {
-                        "ID":14,
-                        "name":"BuKu 14",
-                        "category":"Uncommon",
-                        "size":114,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/VTa7TGA.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"BuKu 15",
-                        "category":"Rare",
-                        "size":115,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/wiqpC9O.jpg"
-                    },
-                    {
-                        "ID":16,
-                        "name":"BuKu 16",
-                        "category":"Rare",
-                        "size":116,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/2qwbDjZ.jpg"
-                    },
-                    {
-                        "ID":17,
-                        "name":"BuKu 17",
-                        "category":"Rare",
-                        "size":117,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/K7cnbkF.jpg"
-                    },
-                    {
-                        "ID":18,
-                        "name":"BuKu 18",
-                        "category":"Legendary",
-                        "size":118,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/fXtsuAI.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"BuKu 19",
-                        "category":"Legendary",
-                        "size":119,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/MQbSg40.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"BuKu 20",
-                        "category":"Mythical",
-                        "size":20000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/U4PMy5i.jpg"
-                                        }
-                ]
-            },
-            {   
-                "ID": 1,
-                "name":"Đảo HenTai",
-                "creature":[
-                    {
-                        "ID":0,
-                        "name":"Hentai",
-                        "category":"Common",
-                        "size":200,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/lO33KRi.jpg"
-                    },
-                    {
-                        "ID":1,
-                        "name":"Hentai 1",
-                        "category":"Common",
-                        "size":201,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/ctiUEDm.jpg"
-                    },
-                    {
-                        "ID":2,
-                        "name":"Hentai 2",
-                        "category":"Common",
-                        "size":202,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/eyLw9j1.jpg"
-                    },
-                    {
-                        "ID":3,
-                        "name":"Hentai 3",
-                        "category":"Common",
-                        "size":203,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/UA0A8oV.jpg"
-                    },
-                    {
-                        "ID":4,
-                        "name":"Hentai 4",
-                        "category":"Common",
-                        "size":204,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/KhvcBMD.jpg"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Hentai 5",
-                        "category":"Common",
-                        "size":205,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/ktUAWw9.jpg"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Hentai 6",
-                        "category":"Common",
-                        "size":206,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/rWmvSLc.jpg"
-                    },
-                    {
-                        "ID":7,
-                        "name":"Hentai 7",
-                        "category":"Common",
-                        "size":207,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/BMCK9DV.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"Hentai 8",
-                        "category":"Common",
-                        "size":208,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/86ZAv2p.jpg"
-                    },
-                    {
-                        "ID":9,
-                        "name":"Hentai 9",
-                        "category":"Common",
-                        "size":209,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/AlItGPw.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"Hentai 10",
-                        "category":"Uncommon",
-                        "size":210,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/7gXntls.jpg"
-                    },
-                    {
-                        "ID":11,
-                        "name":"Hentai 11",
-                        "category":"Uncommon",
-                        "size":211,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/Ul1NoFA.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"Hentai 12",
-                        "category":"Uncommon",
-                        "size":212,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/Fk200Eh.jpg"
-                    },
-                    {
-                        "ID":13,
-                        "name":"Hentai 13",
-                        "category":"Uncommon",
-                        "size":213,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/aRQVf8t.jpg"
-                    },
-                    {
-                        "ID":14,
-                        "name":"Hentai 14",
-                        "category":"Uncommon",
-                        "size":214,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/RjTmPDe.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"Hentai 15",
-                        "category":"Rare",
-                        "size":215,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/sGz3mcm.jpg"
-                    },
-                    {
-                        "ID":16,
-                        "name":"Hentai 16",
-                        "category":"Rare",
-                        "size":216,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/FzoTrqx.jpg"
-                    },
-                    {
-                        "ID":17,
-                        "name":"Hentai 17",
-                        "category":"Rare",
-                        "size":217,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/5NArsYf.jpg"
-                    },
-                    {
-                        "ID":18,
-                        "name":"Hentai 18",
-                        "category":"Legendary",
-                        "size":218,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/vukcUKQ.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"Hentai 19",
-                        "category":"Legendary",
-                        "size":219,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/KLMd7Gn.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"Hentai 20",
-                        "category":"Mythical",
-                        "size":22000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/R9mQ1HB.jpg"
-                    }
-                ]
-            },
-            {   
-                "ID": 2,
-                "name":"Đảo Nude",
-                "creature":[
-                    {
-                        "ID":0,
-                        "name":"Nude",
-                        "category":"Common",
-                        "size":300,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/ephnRxi.jpg"
-                    },
-                    {
-                        "ID":1,
-                        "name":"Nude 1",
-                        "category":"Common",
-                        "size":301,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/AaBQAPx.jpg"
-                    },
-                    {
-                        "ID":2,
-                        "name":"Nude 2",
-                        "category":"Common",
-                        "size":302,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/k6UjCLj.jpg"
-                    },
-                    {
-                        "ID":3,
-                        "name":"Nude 3",
-                        "category":"Common",
-                        "size":303,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/g4rm8PA.jpg"
-                    },
-                    {
-                        "ID":4,
-                        "name":"Nude 4",
-                        "category":"Common",
-                        "size":304,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/Mi1oOky.jpg"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Nude 5",
-                        "category":"Common",
-                        "size":305,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/jISCpWe.jpg"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Nude 6",
-                        "category":"Common",
-                        "size":306,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/MyE4O8M.jpg"
-                    },
-                    {
-                        "ID":7,
-                        "name":"Nude 7",
-                        "category":"Common",
-                        "size":307,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/dZdtliv.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"Nude 8",
-                        "category":"Common",
-                        "size":308,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/t7gnCqc.jpg"
-                    },
-                    {
-                        "ID":9,
-                        "name":"Nude 9",
-                        "category":"Common",
-                        "size":309,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/tiKA91x.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"Nude 10",
-                        "category":"Uncommon",
-                        "size":310,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/cw3Q3ks.jpg"
-                    },
-                    {
-                        "ID":11,
-                        "name":"Nude 11",
-                        "category":"Uncommon",
-                        "size":311,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/JDtx0ZH.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"Nude 12",
-                        "category":"Uncommon",
-                        "size":312,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/MctiECZ.jpg"
-                    },
-                    {
-                        "ID":13,
-                        "name":"Nude 13",
-                        "category":"Uncommon",
-                        "size":313,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/RfzB3Mp.jpg"
-                    },
-                    {
-                        "ID":14,
-                        "name":"Nude 14",
-                        "category":"Uncommon",
-                        "size":314,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/7E1I8dA.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"Nude 15",
-                        "category":"Rare",
-                        "size":315,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/Su8JlFZ.jpg"
-                    },
-                    {
-                        "ID":16,
-                        "name":"Nude 16",
-                        "category":"Rare",
-                        "size":316,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/eKDRbmE.jpg"
-                    },
-                    {
-                        "ID":17,
-                        "name":"Nude 17",
-                        "category":"Rare",
-                        "size":317,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/90io6Vn.jpg"
-                    },
-                    {
-                        "ID":18,
-                        "name":"Nude 18",
-                        "category":"Legendary",
-                        "size":318,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/rr2VRVZ.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"Nude 19",
-                        "category":"Legendary",
-                        "size":319,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/kfQbsZO.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"Nude 20",
-                        "category":"Mythical",
-                        "size":32000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/JXi7KUV.jpg"
-                    }
-                ]
-            },
-            {   
-                "ID": 3,
-                "name":"Đảo L🤔",
-                "creature":[
-                    {
-                        "ID":0,
-                        "name":"L🤔",
-                        "category":"Common",
-                        "size":400,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/ryx5Byn.jpg"
-                    },
-                    {
-                        "ID":1,
-                        "name":"L🤔 1",
-                        "category":"Common",
-                        "size":401,
-                        "sell":10000,
-                        "image": "https://i.imgur.com/HNSFTR6.jpg"
-                    },
-                    {
-                        "ID":2,
-                        "name":"L🤔 2",
-                        "category":"Common",
-                        "size":402,
-                        "sell":12000,
-                        "image": "https://i.imgur.com/rxwGgG8.jpg"
-                    },
-                    {
-                        "ID":3,
-                        "name":"L🤔 3",
-                        "category":"Common",
-                        "size":403,
-                        "sell":15000,
-                        "image": "https://i.imgur.com/O5Sj5fp.jpg"
-                    },
-                    {
-                        "ID":4,
-                        "name":"L🤔 4",
-                        "category":"Common",
-                        "size":404,
-                        "sell":20000,
-                        "image": "https://i.imgur.com/7QBk1Lh.jpg"
-                    },
-                    {
-                        "ID":5,
-                        "name":"L🤔 5",
-                        "category":"Common",
-                        "size":405,
-                        "sell":25000,
-                        "image": "https://i.imgur.com/eGvd7QM.jpg"
-                    },
-                    {
-                        "ID":6,
-                        "name":"L🤔 6",
-                        "category":"Common",
-                        "size":406,
-                        "sell":30000,
-                        "image": "https://i.imgur.com/wB8heQ1.jpg"
-                    },
-                    {
-                        "ID":7,
-                        "name":"L🤔 7",
-                        "category":"Common",
-                        "size":407,
-                        "sell":35000,
-                        "image": "https://i.imgur.com/F3K4beK.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"L🤔 8",
-                        "category":"Common",
-                        "size":408,
-                        "sell":40000,
-                        "image": "https://i.imgur.com/PAuIst6.jpg"
-
-                    },
-                    {
-                        "ID":9,
-                        "name":"L🤔 9",
-                        "category":"Common",
-                        "size":409,
-                        "sell":45000,
-                        "image": "https://i.imgur.com/Ay7pPz2.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"L🤔 10",
-                        "category":"Uncommon",
-                        "size":410,
-                        "sell":50000,
-                        "image": "https://i.imgur.com/A05vuHr.jpg"
-                    },
-                    {
-                        "ID":11,
-                        "name":"L🤔 11",
-                        "category":"Uncommon",
-                        "size":411,
-                        "sell":60000,
-                        "image": "https://i.imgur.com/XB6zFl7.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"L🤔 12",
-                        "category":"Uncommon",
-                        "size":412,
-                        "sell":70000,
-                        "image": "https://i.imgur.com/LzkYXXt.jpg"
-                    },
-                    {
-                        "ID":13,
-                        "name":"L🤔 13",
-                        "category":"Uncommon",
-                        "size":413,
-                        "sell":80000,
-                        "image": "https://i.imgur.com/TBTLkcD.jpg"
-                    },
-                    {
-                        "ID":14,
-                        "name":"L🤔 14",
-                        "category":"Uncommon",
-                        "size":414,
-                        "sell":90000,
-                        "image": "https://i.imgur.com/lbiVH8h.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"L🤔 15",
-                        "category":"Rare",
-                        "size":415,
-                        "sell":100000,
-                        "image": "https://i.imgur.com/T8Hil6v.jpg"
-                    },
-                    {
-                        "ID":16,
-                        "name":"L🤔 16",
-                        "category":"Rare",
-                        "size":416,
-                        "sell":300000,
-                        "image": "https://i.imgur.com/gbcrqWQ.jpg"
-                    },
-                    {
-                        "ID":17,
-                        "name":"L🤔 17",
-                        "category":"Rare",
-                        "size":417,
-                        "sell":500000,
-                        "image": "https://i.imgur.com/PyrBmZE.jpg"
-                    },
-                    {
-                        "ID":18,
-                        "name":"L🤔 18",
-                        "category":"Legendary",
-                        "size":418,
-                        "sell":749999,
-                        "image": "https://i.imgur.com/hgn6pFz.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"L🤔 19",
-                        "category":"Legendary",
-                        "size":419,
-                        "sell":999999,
-                        "image": "https://i.imgur.com/dXIK2Up.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"L🤔 20",
-                        "category":"Mythical",
-                        "size":42000,
-                        "sell":5000000,
-                        "image": "https://i.imgur.com/83D8xND.jpg"
+                        "size":34,
+                        "sell":200,
+                        "image": "https://i.imgur.com/Qsx7khe.png"
                     }
                 ]
             }
