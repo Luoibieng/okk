@@ -809,809 +809,809 @@
                 ]
             },
             {   
-                "ID": 2,
-                "name":"Echhi",
+                "ID": 1,
+                "name":"Ecchiiii",
                 "creature":[
                     {
                         "ID":1,
-                        "name":"Ecchiii",
+                        "name":"Ecchiiiiiii",
                         "category":"Unknown",
                         "size":99999,
                         "sell":9999999,
-                        "image": "https://i.imgur.com/2EMChbE.jpg"
-                    },
-                    {
-                        "ID":2,
-                        "name":"Ecchiii",
-                        "category":"Unknown",
-                        "size":99999,
-                        "sell":9999999,
-                        "image": "https://i.imgur.com/yuLDNaf.jpg"
-                    },
-                    {
-                        "ID":3,
-                        "name":"Ecchiii",
-                        "category":"Unknown",
-                        "size":99999,
-                        "sell":9999999,
-                        "image": "https://i.imgur.com/qOXOu3N.jpg"
-                    },
-                    {
-                        "ID":4,
-                        "name":"Ecchiii",
-                        "category":"Unknown",
-                        "size":99999,
-                        "sell":9999999,
-                        "image": "https://i.imgur.com/R471RiW.jpg"
-                    },
-                    {
-                        "ID":5,
-                        "name":"Ecchiii",
-                        "category":"Etherial",
-                        "size":89999,
-                        "sell":7999999,
-                        "image": "https://i.imgur.com/S4jFJvZ.jpg"
-                    },
-                    {
-                        "ID":6,
-                        "name":"Ecchiii",
-                        "category":"Etherial",
-                        "size":89999,
-                        "sell":7999999,
-                        "image": "https://i.imgur.com/cA7cXDY.jpg"
-                    },
-                    {
-                        "ID":7,
-                        "name":"Ecchiii",
-                        "category":"Etherial",
-                        "size":89999,
-                        "sell":7999999,
-                        "image": "https://i.imgur.com/l2Q91GL.jpg"
-                    },
-                    {
-                        "ID":8,
-                        "name":"Ecchiii",
-                        "category":"Etherial",
-                        "size":89999,
-                        "sell":7999999,
-                        "image": "https://i.imgur.com/uCG1vfX.jpg"
-                    },
-                    {
-                        "ID":9,
-                        "name":"Ecchiii",
-                        "category":"Spectral",
-                        "size":799 99,
-                        "sell":4999999,
-                        "image": "https://i.imgur.com/SPxs0o1.jpg"
-                    },
-                    {
-                        "ID":10,
-                        "name":"Ecchiii",
-                        "category":"Spectral",
-                        "size":79999,
-                        "sell":4999999,
-                        "image": "https://i.imgur.com/AcdnUs7.jpg"
-                    },
-                    {
-                        "ID":11,
-                        "name":"Ecchiii",
-                        "category":"Spectral",
-                        "size":79999,
-                        "sell":4999999,
-                        "image": "https://i.imgur.com/GpKmtr3.jpg"
-                    },
-                    {
-                        "ID":12,
-                        "name":"Ecchiii",
-                        "category":"Spectral",
-                        "size":79999,
-                        "sell":4999999,
-                        "image": "https://i.imgur.com/IfFrjDq.jpg"
-                    },
-                    {
-                        "ID":13,
-                        "name":"Ecchiii",
-                        "category":"Spectral",
-                        "size":79999,
-                        "sell":4999999,
-                        "image": "https://i.imgur.com/PrGVitC.jpg"
-                    },
-                    {
-                        "ID":14,
-                        "name":"Ecchiii",
-                        "category":"Spectral",
-                        "size":79999,
-                        "sell":4999999,
-                        "image": "https://i.imgur.com/0236WK3.jpg"
-                    },
-                    {
-                        "ID":15,
-                        "name":"Ecchiii",
-                        "category":"Mythical",
-                        "size":49999,
-                        "sell":1999999,
-                        "image": "https://i.imgur.com/3PWbPI3.jpg"
-                    },
-                    {
-                        "ID":16,
-                        "name":"Ecchiii",
-                        "category":"Mythical",
-                        "size":49999,
-                        "sell":1999999,
-                        "image": "https://i.imgur.com/xMOr6rH.jpg"
-                    },
-                    {
-                        "ID":17,
-                        "name":"Ecchiii",
-                        "category":"Mythical",
-                        "size":49999,
-                        "sell":1999999,
-                        "image": "https://i.imgur.com/auTMxBh.jpg"
-                    },
-                    {
-                        "ID":18,
-                        "name":"Ecchiii",
-                        "category":"Mythical",
-                        "size":49999,
-                        "sell":1999999,
-                        "image": "https://i.imgur.com/wccOqCc.jpg"
-                    },
-                    {
-                        "ID":19,
-                        "name":"Ecchiii",
-                        "category":"Mythical",
-                        "size":49999,
-                        "sell":1999999,
-                        "image": "https://i.imgur.com/23clwzk.jpg"
-                    },
-                    {
-                        "ID":20,
-                        "name":"Ecchiii",
-                        "category":"Mythical",
-                        "size":49999,
-                        "sell":1999999,
-                        "image": "https://i.imgur.com/ITYsMGx.jpg"
-                    },
-                    {
-                        "ID":21,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
-                        "image": "https://i.imgur.com/bNwvpZK.jpg"
-                    },
-                    {
-                        "ID":22,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
-                        "image": "https://i.imgur.com/ND1B5sy.jpg"
-                    },
-                    {
-                        "ID":23,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
-                        "image": "https://i.imgur.com/DIAVPgV.jpg"
-                    },
-                    {
-                        "ID":24,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
-                        "image": "https://i.imgur.com/CZBywDO.jpg"
-                    },
-                    {
-                        "ID":25,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
-                        "image": "https://i.imgur.com/mwIAdoQ.jpg"
-                    },
-                    {
-                        "ID":26,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
                         "image": "https://i.imgur.com/xS5JaLw.jpg"
                     },
                     {
-                        "ID":27,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":2,
+                        "name":"Ecchiiiiiii",
+                        "category":"Unknown",
+                        "size":99999,
+                        "sell":9999999,
                         "image": "https://i.imgur.com/75272QB.jpg"
                     },
                     {
-                        "ID":28,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":3,
+                        "name":"Ecchiiiiiii",
+                        "category":"Unknown",
+                        "size":99999,
+                        "sell":9999999,
                         "image": "https://i.imgur.com/K4SzMOE.jpg"
                     },
                     {
-                        "ID":29,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":4,
+                        "name":"Ecchiiiiiii",
+                        "category":"Unknown",
+                        "size":99999,
+                        "sell":9999999,
                         "image": "https://i.imgur.com/Jw2tuNc.jpg"
                     },
                     {
-                        "ID":30,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":5,
+                        "name":"Ecchiiiiiii",
+                        "category":"Etherial",
+                        "size":89999,
+                        "sell":7999999,
                         "image": "https://i.imgur.com/dowK8T4.jpg"
                     },
                     {
-                        "ID":31,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":6,
+                        "name":"Ecchiiiiiii",
+                        "category":"Etherial",
+                        "size":89999,
+                        "sell":7999999,
                         "image": "https://i.imgur.com/CtRU3Ly.jpg"
                     },
                     {
-                        "ID":32,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":7,
+                        "name":"Ecchiiiiiii",
+                        "category":"Etherial",
+                        "size":89999,
+                        "sell":7999999,
                         "image": "https://i.imgur.com/8lrlvdB.jpg"
                     },
                     {
-                        "ID":33,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":8,
+                        "name":"Ecchiiiiiii",
+                        "category":"Etherial",
+                        "size":89999,
+                        "sell":7999999,
                         "image": "https://i.imgur.com/hPLPS0S.jpg"
                     },
                     {
-                        "ID":34,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":9,
+                        "name":"Ecchiiiiiii",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
                         "image": "https://i.imgur.com/HDFjT0O.jpg"
                     },
                     {
-                        "ID":35,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":10,
+                        "name":"Ecchiiiiiii",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
                         "image": "https://i.imgur.com/LonUMFM.jpg"
                     },
                     {
-                        "ID":36,
-                        "name":"Ecchiii",
-                        "category":"Common",
-                        "size":10,
-                        "sell":49999,
+                        "ID":11,
+                        "name":"Ecchiiiiiii",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
                         "image": "https://i.imgur.com/xsB31ho.jpg"
                     },
                     {
-                        "ID":37,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":12,
+                        "name":"Ecchiiiiiii",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
                         "image": "https://i.imgur.com/6YKnFk2.jpg"
                     },
                     {
-                        "ID":38,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":13,
+                        "name":"Ecchiiiiiii",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
                         "image": "https://i.imgur.com/8AkzUkn.jpg"
                     },
                     {
-                        "ID":39,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":14,
+                        "name":"Ecchiiiiiii",
+                        "category":"Spectral",
+                        "size":79999,
+                        "sell":4999999,
                         "image": "https://i.imgur.com/rb1X6Bi.jpg"
                     },
                     {
-                        "ID":40,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":15,
+                        "name":"Ecchiiiiiii",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
                         "image": "https://i.imgur.com/XdsVsza.jpg"
                     },
                     {
-                        "ID":41,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":16,
+                        "name":"Ecchiiiiiii",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
                         "image": "https://i.imgur.com/8HUcejY.jpg"
                     },
                     {
-                        "ID":42,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":17,
+                        "name":"Ecchiiiiiii",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
                         "image": "https://i.imgur.com/1kjCZoL.jpg"
                     },
                     {
-                        "ID":43,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":18,
+                        "name":"Ecchiiiiiii",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
                         "image": "https://i.imgur.com/yih0DDf.jpg"
                     },
                     {
-                        "ID":44,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":19,
+                        "name":"Ecchiiiiiii",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
                         "image": "https://i.imgur.com/1yO5Ej8.jpg"
                     },
                     {
-                        "ID":45,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":20,
+                        "name":"Ecchiiiiiii",
+                        "category":"Mythical",
+                        "size":49999,
+                        "sell":1999999,
                         "image": "https://i.imgur.com/Tlh20hN.jpg"
                     },
                     {
-                        "ID":46,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":21,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
                         "image": "https://i.imgur.com/tO1B0F9.jpg"
                     },
                     {
-                        "ID":47,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":22,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
                         "image": "https://i.imgur.com/M791jSI.jpg"
                     },
                     {
-                        "ID":48,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":23,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
                         "image": "https://i.imgur.com/tiZF5Et.jpg"
                     },
                     {
-                        "ID":49,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":24,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
                         "image": "https://i.imgur.com/LRKvOKI.jpg"
                     },
                     {
-                        "ID":50,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
+                        "ID":25,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
                         "image": "https://i.imgur.com/MSvLyTB.jpg"
                     },
                     {
+                        "ID":26,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/2EMChbE.jpg"
+                    },
+                    {
+                        "ID":27,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/yuLDNaf.jpg"
+                    },
+                    {
+                        "ID":28,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/qOXOu3N.jpg"
+                    },
+                    {
+                        "ID":29,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/R471RiW.jpg"
+                    },
+                    {
+                        "ID":30,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/S4jFJvZ.jpg"
+                    },
+                    {
+                        "ID":31,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/cA7cXDY.jpg"
+                    },
+                    {
+                        "ID":32,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/l2Q91GL.jpg"
+                    },
+                    {
+                        "ID":33,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/uCG1vfX.jpg"
+                    },
+                    {
+                        "ID":34,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/SPxs0o1.jpg" 
+                    },
+                    {
+                        "ID":35,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/AcdnUs7.jpg"
+                    },
+                    {
+                        "ID":36,
+                        "name":"Ecchiiiiiii",
+                        "category":"Common",
+                        "size":10,
+                        "sell":49999,
+                        "image": "https://i.imgur.com/GpKmtr3.jpg"
+                    },
+                    {
+                        "ID":37,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/IfFrjDq.jpg"
+                    },
+                    {
+                        "ID":38,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/DIAVPgV.jpg"
+                    },
+                    {
+                        "ID":39,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/PrGVitC.jpg"
+                    },
+                    {
+                        "ID":40,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/0236WK3.jpg"
+                    },
+                    {
+                        "ID":41,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/3PWbPI3.jpg"
+                    },
+                    {
+                        "ID":42,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/xMOr6rH.jpg"
+                    },
+                    {
+                        "ID":43,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/auTMxBh.jpg"
+                    },
+                    {
+                        "ID":44,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/wccOqCc.jpg"
+                    },
+                    {
+                        "ID":45,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/23clwzk.jpg"
+                    },
+                    {
+                        "ID":46,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/ITYsMGx.jpg"
+                    },
+                    {
+                        "ID":47,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/bNwvpZK.jpg"
+                    },
+                    {
+                        "ID":48,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/ND1B5sy.jpg"
+                    },
+                    {
+                        "ID":49,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/CZBywDO.jpg"
+                    },
+                    {
+                        "ID":50,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
+                        "image": "https://i.imgur.com/mwIAdoQ.jpg"
+                    },
+                    {
                         "ID":51,
-                        "name":"Ecchiii",
+                        "name":"Ecchiiiiiii",
                         "category":"Uncommon",
                         "size":50,
                         "sell":199999,
-                        "image": "https://i.imgur.com/VdHTZ4v.jpg"
-                    },
-                    {
-                        "ID":52,
-                        "name":"Ecchiii",
-                        "category":"Uncommon",
-                        "size":50,
-                        "sell":199999,
-                        "image": "https://i.imgur.com/SPAtfOY.jpg"
-                    },
-                    {
-                        "ID":53,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/ouqZlpl.jpg"
-                    },
-                    {
-                        "ID":54,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/3LVouct.jpg"
-                    },
-                    {
-                        "ID":55,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/P4epbzA.jpg"
-                    },
-                    {
-                        "ID":56,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/A9qrXwD.jpg"
-                    },
-                    {
-                        "ID":57,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/pe6mLKx.jpg"
-                    },
-                    {
-                        "ID":58,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/RdZ1L08.jpg"
-                    },
-                    {
-                        "ID":59,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/SqUmjaW.jpg"
-                    },
-                    {
-                        "ID":60,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/23VREIO.jpg"
-                    },
-                    {
-                        "ID":61,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/siaCN5m.jpg"
-                    },
-                    {
-                        "ID":62,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/VLCEywy.jpg"
-                    },
-                    {
-                        "ID":63,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/cfdLYys.jpg"
-                    },
-                    {
-                        "ID":64,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/LxvKH9f.jpg"
-                    },
-                    {
-                        "ID":65,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/Paa9vZq.jpg"
-                    },
-                    {
-                        "ID":66,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/2xs5TBD.jpg"
-                    },
-                    {
-                        "ID":67,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/0hbh45o.jpg"
-                    },
-                    {
-                        "ID":68,
-                        "name":"Ecchiii",
-                        "category":"Rare",
-                        "size":100,
-                        "sell":399999,
-                        "image": "https://i.imgur.com/FIoWyKv.jpg"
-                    },
-                    {
-                        "ID":69,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
-                        "image": "https://i.imgur.com/0BBDKkb.jpg"
-                    },
-                    {
-                        "ID":70,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
-                        "image": "https://i.imgur.com/Uo53yLF.jpg"
-                    },
-                    {
-                        "ID":71,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
-                        "image": "https://i.imgur.com/KQ0rHoP.jpg"
-                    },
-                    {
-                        "ID":72,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
-                        "image": "https://i.imgur.com/oFBHifF.jpg"
-                    },
-                    {
-                        "ID":73,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
-                        "image": "https://i.imgur.com/65MoUMH.jpg"
-                    },
-                    {
-                        "ID":74,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
-                        "image": "https://i.imgur.com/wryXy8C.jpg"
-                    },
-                    {
-                        "ID":75,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
-                        "image": "https://i.imgur.com/I3pwGPM.jpg"
-                    },
-                    {
-                        "ID":76,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
                         "image": "https://i.imgur.com/NBUO4HU.jpg"
                     },
                     {
-                        "ID":77,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
+                        "ID":52,
+                        "name":"Ecchiiiiiii",
+                        "category":"Uncommon",
+                        "size":50,
+                        "sell":199999,
                         "image": "https://i.imgur.com/6GtZYDQ.jpg"
                     },
                     {
-                        "ID":78,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
+                        "ID":53,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/jgX47Xf.jpg"
                     },
                     {
-                        "ID":79,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
+                        "ID":54,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/JJd0KWR.jpg"
                     },
                     {
-                        "ID":80,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
+                        "ID":55,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/D5h5Feo.jpg"
                     },
                     {
-                        "ID":81,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
+                        "ID":56,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/tzmhOBQ.jpg"
                     },
                     {
-                        "ID":82,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
+                        "ID":57,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/oSZYhSd.jpg"
                     },
                     {
-                        "ID":83,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
+                        "ID":58,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/G8O0cWT.jpg"
                     },
                     {
-                        "ID":84,
-                        "name":"Ecchiii",
-                        "category":"Epic",
-                        "size":500,
-                        "sell":599999,
+                        "ID":59,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/Ol5aC30.jpg"
                     },
                     {
-                        "ID":85,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":60,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/xuqPNSi.jpg"
                     },
                     {
-                        "ID":86,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":61,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/8hH07cI.jpg"
                     },
                     {
-                        "ID":87,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":62,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/zvsjKfP.jpg"
                     },
                     {
-                        "ID":88,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":63,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/A5hKwZA.jpg"
                     },
                     {
-                        "ID":89,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":64,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/5GbEnGX.jpg"
                     },
                     {
-                        "ID":90,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":65,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/bv4oHco.jpg"
                     },
                     {
-                        "ID":91,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":66,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/Kswpqmq.jpg"
                     },
                     {
-                        "ID":92,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":67,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/ydLrU7Z.jpg"
                     },
                     {
-                        "ID":93,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":68,
+                        "name":"Ecchiiiiiii",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":399999,
                         "image": "https://i.imgur.com/UC9uir7.jpg"
                     },
                     {
-                        "ID":94,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
-                        "image": "https://i.imgur.com/xNLjwoB.jpg" 
+                        "ID":69,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/xNLjwoB.jpg"
                     },
                     {
-                        "ID":95,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":70,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
                         "image": "https://i.imgur.com/6IeUubT.jpg"
                     },
                     {
-                        "ID":96,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":71,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
                         "image": "https://i.imgur.com/ECo0dZF.jpg"
                     },
                     {
-                        "ID":97,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":72,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
                         "image": "https://i.imgur.com/SyhLCKI.jpg"
                     },
                     {
-                        "ID":98,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":73,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
                         "image": "https://i.imgur.com/vQzvQd6.jpg"
                     },
                     {
-                        "ID":99,
-                        "name":"Ecchiii",
-                        "category":"Legendary",
-                        "size":1000,
-                        "sell":799999,
+                        "ID":74,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
                         "image": "https://i.imgur.com/m4ZQjER.jpg"
                     },
                     {
-                        "ID":100,
-                        "name":"Ecchiii",
+                        "ID":75,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/jRoDqUD.jpg"
+                    },
+                    {
+                        "ID":76,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/VdHTZ4v.jpg"
+                    },
+                    {
+                        "ID":77,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/SPAtfOY.jpg"
+                    },
+                    {
+                        "ID":78,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/ouqZlpl.jpg"
+                    },
+                    {
+                        "ID":79,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/3LVouct.jpg"
+                    },
+                    {
+                        "ID":80,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/P4epbzA.jpg"
+                    },
+                    {
+                        "ID":81,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/A9qrXwD.jpg"
+                    },
+                    {
+                        "ID":82,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/pe6mLKx.jpg"
+                    },
+                    {
+                        "ID":83,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/RdZ1L08.jpg"
+                    },
+                    {
+                        "ID":84,
+                        "name":"Ecchiiiiiii",
+                        "category":"Epic",
+                        "size":500,
+                        "sell":599999,
+                        "image": "https://i.imgur.com/SqUmjaW.jpg"
+                    },
+                    {
+                        "ID":85,
+                        "name":"Ecchiiiiiii",
                         "category":"Legendary",
                         "size":1000,
                         "sell":799999,
-                        "image": "https://i.imgur.com/jRoDqUD.jpg"
-                     }
+                        "image": "https://i.imgur.com/23VREIO.jpg"
+                    },
+                    {
+                        "ID":86,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/siaCN5m.jpg"
+                    },
+                    {
+                        "ID":87,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/VLCEywy.jpg"
+                    },
+                    {
+                        "ID":88,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/cfdLYys.jpg"
+                    },
+                    {
+                        "ID":89,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/LxvKH9f.jpg"
+                    },
+                    {
+                        "ID":90,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/Paa9vZq.jpg"
+                    },
+                    {
+                        "ID":91,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/2xs5TBD.jpg"
+                    },
+                    {
+                        "ID":92,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/0hbh45o.jpg"
+                    },
+                    {
+                        "ID":93,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/FIoWyKv.jpg"
+                    },
+                    {
+                        "ID":94,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/0BBDKkb.jpg"
+                    },
+                    {
+                        "ID":95,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/Uo53yLF.jpg"
+                    },
+                    {
+                        "ID":96,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/KQ0rHoP.jpg"
+                    },
+                    {
+                        "ID":97,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/oFBHifF.jpg"
+                    },
+                    {
+                        "ID":98,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/65MoUMH.jpg"
+                    },
+                    {
+                        "ID":99,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/wryXy8C.jpg"
+                    },
+                    {
+                        "ID":100,
+                        "name":"Ecchiiiiiii",
+                        "category":"Legendary",
+                        "size":1000,
+                        "sell":799999,
+                        "image": "https://i.imgur.com/I3pwGPM.jpg"
+                    }
                 ]
             }
         ]
