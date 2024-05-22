@@ -1,71 +1,71 @@
 [
 	{
 		"name": "SexToy",
-		"price": 100000,
-		"durability": 50,
+		"price": 1,
+		"durability": 50000000,
 		"countdown": 2,
 		"image": "https://i.imgur.com/1mD3Bzl.jpg"
 	},
 	{
 		"name": " SexToy 1",
-		"price": 200000,
+		"price": 500000,
 		"durability": 100,
 		"countdown": 2,
 		"image": "https://i.imgur.com/hRrqngo.jpg"
 	},
 	{
 		"name": " SexToy 2",
-		"price": 500000,
-		"durability": 200,
+		"price": 1000000,
+		"durability": 250,
 		"countdown": 2,
 		"image": "https://i.imgur.com/H585pvi.jpg"
 	},
 	{
 		"name": " SexToy 3",
-		"price": 1200000,
+		"price": 5000000,
 		"durability": 500,
 		"countdown": 2,
 		"image": "https://i.imgur.com/f3qpwPO.jpg"
 	},
 	{
 		"name": " SexToy 4",
-		"price": 2500000,
-		"durability": 1000,
+		"price": 10000000,
+		"durability": 750,
 		"countdown": 2,
 		"image": "https://i.imgur.com/FjEH9os.jpg"
 	},
 	{
 		"name": " SexToy 5",
-		"price": 5000000,
-		"durability": 2000,
+		"price": 20000000,
+		"durability": 1000,
 		"countdown": 2,
 		"image": "https://i.imgur.com/lzEw7FW.jpg"
 	},
 	{
 		"name": " SexToy 6",
-		"price": 10000000,
-		"durability": 3000,
+		"price": 45000000,
+		"durability": 2000,
 		"countdown": 1,
 		"image": "https://i.imgur.com/KQ1qFAf.jpg"
 	},
 	{
 		"name": " SexToy 7",
-		"price": 20000000,
+		"price": 60000000,
 		"durability": 4000,
 		"countdown": 1,
 		"image": "https://i.imgur.com/xMjh4mP.jpg"
 	},
 	 {
 		"name": " SexToy 8",
-		"price": 50000000,
-		"durability": 5000,
+		"price": 85000000,
+		"durability": 6000,
 		"countdown": 1,
 		"image": "https://i.imgur.com/zNjut6y.jpg"
 	},
 	{
 		"name": " SexToy 9",
 		"price": 100000000,
-		"durability": 6000,
+		"durability": 8000,
 		"countdown": 1,
 		"image": "https://i.imgur.com/oFxZcky.jpg"
 	}
