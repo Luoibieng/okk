@@ -4010,7 +4010,7 @@
             },
             {   
                 "ID": 1,
-                "name":"Ck Zin",
+                "name":"Ck_Zin",
                 "creature":[
                     {
                         "ID":1,
@@ -4810,7 +4810,7 @@
                         "category":"Common",
                         "size":11,
                         "sell":1,
-                        "image": "https://files.catbox.moe/p3y9m8.jpeg"
+                        "image": "https://files.catbox.moe/p3y9m8.jpeg "
                     }
                 ]
             }
