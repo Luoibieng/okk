@@ -8,7 +8,7 @@
                 "creature":[
                     {
                         "ID":1,
-                        "name":"XXX 1",
+                        "name":"LoLi 1",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -16,7 +16,7 @@
                     },
                     {
                         "ID":2,
-                        "name":"XXX 2",
+                        "name":"LoLi 2",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -24,7 +24,7 @@
                     },
                     {
                         "ID":3,
-                        "name":"XXX 3",
+                        "name":"LoLi 3",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -32,7 +32,7 @@
                     },
                     {
                         "ID":4,
-                        "name":"XXX 4",
+                        "name":"LoLi 4",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -40,7 +40,7 @@
                     },
                     {
                         "ID":5,
-                        "name":"XXX 5",
+                        "name":"LoLi 5",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -48,7 +48,7 @@
                     },
                     {
                         "ID":6,
-                        "name":"XXX 6",
+                        "name":"LoLi 6",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -56,7 +56,7 @@
                     },
                     {
                         "ID":7,
-                        "name":"XXX 7",
+                        "name":"LoLi 7",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -64,7 +64,7 @@
                     },
                     {
                         "ID":8,
-                        "name":"XXX 8",
+                        "name":"LoLi 8",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -72,7 +72,7 @@
                     },
                     {
                         "ID":9,
-                        "name":"XXX 9",
+                        "name":"LoLi 9",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -80,7 +80,7 @@
                     },
                     {
                         "ID":10,
-                        "name":"XXX 10",
+                        "name":"LoLi 10",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -88,7 +88,7 @@
                     },
                     {
                         "ID":11,
-                        "name":"XXX 11",
+                        "name":"LoLi 11",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -96,7 +96,7 @@
                     },
                     {
                         "ID":12,
-                        "name":"XXX 12",
+                        "name":"LoLi 12",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -104,7 +104,7 @@
                     },
                     {
                         "ID":13,
-                        "name":"XXX 13",
+                        "name":"LoLi 13",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -112,7 +112,7 @@
                     },
                     {
                         "ID":14,
-                        "name":"XXX 14",
+                        "name":"LoLi 14",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -120,7 +120,7 @@
                     },
                     {
                         "ID":15,
-                        "name":"XXX 15",
+                        "name":"LoLi 15",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -128,7 +128,7 @@
                     },
                     {
                         "ID":16,
-                        "name":"XXX 16",
+                        "name":"LoLi 16",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -136,7 +136,7 @@
                     },
                     {
                         "ID":17,
-                        "name":"XXX 17",
+                        "name":"LoLi 17",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -144,7 +144,7 @@
                     },
                     {
                         "ID":18,
-                        "name":"XXX 18",
+                        "name":"LoLi 18",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -152,7 +152,7 @@
                     },
                     {
                         "ID":19,
-                        "name":"XXX 19",
+                        "name":"LoLi 19",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -160,7 +160,7 @@
                     },
                     {
                         "ID":20,
-                        "name":"XXX 20",
+                        "name":"LoLi 20",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -168,7 +168,7 @@
                     },
                     {
                         "ID":21,
-                        "name":"XXX 21",
+                        "name":"LoLi 21",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -176,7 +176,7 @@
                     },
                     {
                         "ID":22,
-                        "name":"XXX 22",
+                        "name":"LoLi 22",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -184,7 +184,7 @@
                     },
                     {
                         "ID":23,
-                        "name":"XXX 23",
+                        "name":"LoLi 23",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -192,7 +192,7 @@
                     },
                     {
                         "ID":24,
-                        "name":"XXX 24",
+                        "name":"LoLi 24",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -200,7 +200,7 @@
                     },
                     {
                         "ID":25,
-                        "name":"XXX 25",
+                        "name":"LoLi 25",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -208,7 +208,7 @@
                     },
                     {
                         "ID":26,
-                        "name":"XXX 26",
+                        "name":"LoLi 26",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -216,7 +216,7 @@
                     },
                     {
                         "ID":27,
-                        "name":"XXX 27",
+                        "name":"LoLi 27",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -224,7 +224,7 @@
                     },
                     {
                         "ID":28,
-                        "name":"XXX 28",
+                        "name":"LoLi 28",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -232,7 +232,7 @@
                     },
                     {
                         "ID":29,
-                        "name":"XXX 29",
+                        "name":"LoLi 29",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -240,7 +240,7 @@
                     },
                     {
                         "ID":30,
-                        "name":"XXX 30",
+                        "name":"LoLi 30",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -248,7 +248,7 @@
                     },
                     {
                         "ID":31,
-                        "name":"XXX 31",
+                        "name":"LoLi 31",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -256,7 +256,7 @@
                     },
                     {
                         "ID":32,
-                        "name":"XXX 32",
+                        "name":"LoLi 32",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -264,7 +264,7 @@
                     },
                     {
                         "ID":33,
-                        "name":"XXX 33",
+                        "name":"LoLi 33",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -272,7 +272,7 @@
                     },
                     {
                         "ID":34,
-                        "name":"XXX 34",
+                        "name":"LoLi 34",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -280,7 +280,7 @@
                     },
                     {
                         "ID":35,
-                        "name":"XXX 35",
+                        "name":"LoLi 35",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -288,7 +288,7 @@
                     },
                     {
                         "ID":36,
-                        "name":"XXX 36",
+                        "name":"LoLi 36",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -296,7 +296,7 @@
                     },
                     {
                         "ID":37,
-                        "name":"XXX 37",
+                        "name":"LoLi 37",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -304,7 +304,7 @@
                     },
                     {
                         "ID":38,
-                        "name":"XXX 38",
+                        "name":"LoLi 38",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -312,7 +312,7 @@
                     },
                     {
                         "ID":39,
-                        "name":"XXX 39",
+                        "name":"LoLi 39",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -320,7 +320,7 @@
                     },
                     {
                         "ID":40,
-                        "name":"XXX 40",
+                        "name":"LoLi 40",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -328,7 +328,7 @@
                     },
                     {
                         "ID":41,
-                        "name":"XXX 41",
+                        "name":"LoLi 41",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -336,7 +336,7 @@
                     },
                     {
                         "ID":42,
-                        "name":"XXX 42",
+                        "name":"LoLi 42",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -344,7 +344,7 @@
                     },
                     {
                         "ID":43,
-                        "name":"XXX 43",
+                        "name":"LoLi 43",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -352,7 +352,7 @@
                     },
                     {
                         "ID":44,
-                        "name":"XXX 44",
+                        "name":"LoLi 44",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -360,7 +360,7 @@
                     },
                     {
                         "ID":45,
-                        "name":"XXX 45",
+                        "name":"LoLi 45",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -368,7 +368,7 @@
                     },
                     {
                         "ID":46,
-                        "name":"XXX 46",
+                        "name":"LoLi 46",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -376,7 +376,7 @@
                     },
                     {
                         "ID":47,
-                        "name":"XXX 47",
+                        "name":"LoLi 47",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -384,7 +384,7 @@
                     },
                     {
                         "ID":48,
-                        "name":"XXX 48",
+                        "name":"LoLi 48",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -392,7 +392,7 @@
                     },
                     {
                         "ID":49,
-                        "name":"XXX 49",
+                        "name":"LoLi 49",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -400,7 +400,7 @@
                     },
                     {
                         "ID":50,
-                        "name":"XXX 50",
+                        "name":"LoLi 50",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -408,7 +408,7 @@
                     },
                     {
                         "ID":51,
-                        "name":"XXX 51",
+                        "name":"LoLi 51",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -416,7 +416,7 @@
                     },
                     {
                         "ID":52,
-                        "name":"XXX 52",
+                        "name":"LoLi 52",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -424,7 +424,7 @@
                     },
                     {
                         "ID":53,
-                        "name":"XXX 53",
+                        "name":"LoLi 53",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -432,7 +432,7 @@
                     },
                     {
                         "ID":54,
-                        "name":"XXX 54",
+                        "name":"LoLi 54",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -440,7 +440,7 @@
                     },
                     {
                         "ID":55,
-                        "name":"XXX 55",
+                        "name":"LoLi 55",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -448,7 +448,7 @@
                     },
                     {
                         "ID":56,
-                        "name":"XXX 56",
+                        "name":"LoLi 56",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -456,7 +456,7 @@
                     },
                     {
                         "ID":57,
-                        "name":"XXX 57",
+                        "name":"LoLi 57",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -464,7 +464,7 @@
                     },
                     {
                         "ID":58,
-                        "name":"XXX 58",
+                        "name":"LoLi 58",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -472,7 +472,7 @@
                     },
                     {
                         "ID":59,
-                        "name":"XXX 59",
+                        "name":"LoLi 59",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -480,7 +480,7 @@
                     },
                     {
                         "ID":60,
-                        "name":"XXX 60",
+                        "name":"LoLi 60",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -488,7 +488,7 @@
                     },
                     {
                         "ID":61,
-                        "name":"XXX 61",
+                        "name":"LoLi 61",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -496,7 +496,7 @@
                     },
                     {
                         "ID":62,
-                        "name":"XXX 62",
+                        "name":"LoLi 62",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -504,7 +504,7 @@
                     },
                     {
                         "ID":63,
-                        "name":"XXX 63",
+                        "name":"LoLi 63",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -512,7 +512,7 @@
                     },
                     {
                         "ID":64,
-                        "name":"XXX 64",
+                        "name":"LoLi 64",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -520,7 +520,7 @@
                     },
                     {
                         "ID":65,
-                        "name":"XXX 65",
+                        "name":"LoLi 65",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -528,7 +528,7 @@
                     },
                     {
                         "ID":66,
-                        "name":"XXX 66",
+                        "name":"LoLi 66",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -536,7 +536,7 @@
                     },
                     {
                         "ID":67,
-                        "name":"XXX 67",
+                        "name":"LoLi 67",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -544,7 +544,7 @@
                     },
                     {
                         "ID":68,
-                        "name":"XXX 68",
+                        "name":"LoLi 68",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -552,7 +552,7 @@
                     },
                     {
                         "ID":69,
-                        "name":"XXX 69",
+                        "name":"LoLi 69",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -560,7 +560,7 @@
                     },
                     {
                         "ID":70,
-                        "name":"XXX 70",
+                        "name":"LoLi 70",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -568,7 +568,7 @@
                     },
                     {
                         "ID":71,
-                        "name":"XXX 71",
+                        "name":"LoLi 71",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -576,7 +576,7 @@
                     },
                     {
                         "ID":72,
-                        "name":"XXX 72",
+                        "name":"LoLi 72",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -584,7 +584,7 @@
                     },
                     {
                         "ID":73,
-                        "name":"XXX 73",
+                        "name":"LoLi 73",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -592,7 +592,7 @@
                     },
                     {
                         "ID":74,
-                        "name":"XXX 74",
+                        "name":"LoLi 74",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -600,7 +600,7 @@
                     },
                     {
                         "ID":75,
-                        "name":"XXX 75",
+                        "name":"LoLi 75",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -608,7 +608,7 @@
                     },
                     {
                         "ID":76,
-                        "name":"XXX 76",
+                        "name":"LoLi 76",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -616,7 +616,7 @@
                     },
                     {
                         "ID":77,
-                        "name":"XXX 77",
+                        "name":"LoLi 77",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -624,7 +624,7 @@
                     },
                     {
                         "ID":78,
-                        "name":"XXX 78",
+                        "name":"LoLi 78",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -632,7 +632,7 @@
                     },
                     {
                         "ID":79,
-                        "name":"XXX 79",
+                        "name":"LoLi 79",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -640,7 +640,7 @@
                     },
                     {
                         "ID":80,
-                        "name":"XXX 80",
+                        "name":"LoLi 80",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -648,7 +648,7 @@
                     },
                     {
                         "ID":81,
-                        "name":"XXX 81",
+                        "name":"LoLi 81",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -656,7 +656,7 @@
                     },
                     {
                         "ID":82,
-                        "name":"XXX 82",
+                        "name":"LoLi 82",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -664,7 +664,7 @@
                     },
                     {
                         "ID":83,
-                        "name":"XXX 83",
+                        "name":"LoLi 83",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -672,7 +672,7 @@
                     },
                     {
                         "ID":84,
-                        "name":"XXX 84",
+                        "name":"LoLi 84",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -680,7 +680,7 @@
                     },
                     {
                         "ID":85,
-                        "name":"XXX 85",
+                        "name":"LoLi 85",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -688,7 +688,7 @@
                     },
                     {
                         "ID":86,
-                        "name":"XXX 86",
+                        "name":"LoLi 86",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -696,7 +696,7 @@
                     },
                     {
                         "ID":87,
-                        "name":"XXX 87",
+                        "name":"LoLi 87",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -704,7 +704,7 @@
                     },
                     {
                         "ID":88,
-                        "name":"XXX 88",
+                        "name":"LoLi 88",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -712,7 +712,7 @@
                     },
                     {
                         "ID":89,
-                        "name":"XXX 89",
+                        "name":"LoLi 89",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -720,7 +720,7 @@
                     },
                     {
                         "ID":90,
-                        "name":"XXX 90",
+                        "name":"LoLi 90",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -728,7 +728,7 @@
                     },
                     {
                         "ID":91,
-                        "name":"XXX 91",
+                        "name":"LoLi 91",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -736,7 +736,7 @@
                     },
                     {
                         "ID":92,
-                        "name":"XXX 92",
+                        "name":"LoLi 92",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -744,7 +744,7 @@
                     },
                     {
                         "ID":93,
-                        "name":"XXX 93",
+                        "name":"LoLi 93",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -752,7 +752,7 @@
                     },
                     {
                         "ID":94,
-                        "name":"XXX 94",
+                        "name":"LoLi 94",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -760,7 +760,7 @@
                     },
                     {
                         "ID":95,
-                        "name":"XXX 95",
+                        "name":"LoLi 95",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -768,7 +768,7 @@
                     },
                     {
                         "ID":96,
-                        "name":"XXX 96",
+                        "name":"LoLi 96",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -776,7 +776,7 @@
                     },
                     {
                         "ID":97,
-                        "name":"XXX 97",
+                        "name":"LoLi 97",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -784,7 +784,7 @@
                     },
                     {
                         "ID":98,
-                        "name":"XXX 98",
+                        "name":"LoLi 98",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -792,7 +792,7 @@
                     },
                     {
                         "ID":99,
-                        "name":"XXX 99",
+                        "name":"LoLi 99",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -800,7 +800,7 @@
                     },
                     {
                         "ID":100,
-                        "name":"XXX 100",
+                        "name":"LoLi 100",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -808,7 +808,7 @@
                     },
                     {
                         "ID":101,
-                        "name":"XXX 101",
+                        "name":"LoLi 101",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -816,7 +816,7 @@
                     },
                     {
                         "ID":102,
-                        "name":"XXX 102",
+                        "name":"LoLi 102",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -824,7 +824,7 @@
                     },
                     {
                         "ID":103,
-                        "name":"XXX 103",
+                        "name":"LoLi 103",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -832,7 +832,7 @@
                     },
                     {
                         "ID":104,
-                        "name":"XXX 104",
+                        "name":"LoLi 104",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -840,7 +840,7 @@
                     },
                     {
                         "ID":105,
-                        "name":"XXX 105",
+                        "name":"LoLi 105",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -848,7 +848,7 @@
                     },
                     {
                         "ID":106,
-                        "name":"XXX 106",
+                        "name":"LoLi 106",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -856,7 +856,7 @@
                     },
                     {
                         "ID":107,
-                        "name":"XXX 107",
+                        "name":"LoLi 107",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -864,7 +864,7 @@
                     },
                     {
                         "ID":108,
-                        "name":"XXX 108",
+                        "name":"LoLi 108",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -872,7 +872,7 @@
                     },
                     {
                         "ID":109,
-                        "name":"XXX 109",
+                        "name":"LoLi 109",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -880,7 +880,7 @@
                     },
                     {
                         "ID":110,
-                        "name":"XXX 110",
+                        "name":"LoLi 110",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -888,7 +888,7 @@
                     },
                     {
                         "ID":111,
-                        "name":"XXX 111",
+                        "name":"LoLi 111",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -896,7 +896,7 @@
                     },
                     {
                         "ID":112,
-                        "name":"XXX 112",
+                        "name":"LoLi 112",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -904,7 +904,7 @@
                     },
                     {
                         "ID":113,
-                        "name":"XXX 113",
+                        "name":"LoLi 113",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -912,7 +912,7 @@
                     },
                     {
                         "ID":114,
-                        "name":"XXX 114",
+                        "name":"LoLi 114",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -920,7 +920,7 @@
                     },
                     {
                         "ID":115,
-                        "name":"XXX 115",
+                        "name":"LoLi 115",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -928,7 +928,7 @@
                     },
                     {
                         "ID":116,
-                        "name":"XXX 116",
+                        "name":"LoLi 116",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -936,7 +936,7 @@
                     },
                     {
                         "ID":117,
-                        "name":"XXX 117",
+                        "name":"LoLi 117",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -944,7 +944,7 @@
                     },
                     {
                         "ID":118,
-                        "name":"XXX 118",
+                        "name":"LoLi 118",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -952,7 +952,7 @@
                     },
                     {
                         "ID":119,
-                        "name":"XXX 119",
+                        "name":"LoLi 119",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -960,7 +960,7 @@
                     },
                     {
                         "ID":120,
-                        "name":"XXX 120",
+                        "name":"LoLi 120",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -968,7 +968,7 @@
                     },
                     {
                         "ID":121,
-                        "name":"XXX 121",
+                        "name":"LoLi 121",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -976,7 +976,7 @@
                     },
                     {
                         "ID":122,
-                        "name":"XXX 122",
+                        "name":"LoLi 122",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -984,7 +984,7 @@
                     },
                     {
                         "ID":123,
-                        "name":"XXX 123",
+                        "name":"LoLi 123",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -992,7 +992,7 @@
                     },
                     {
                         "ID":124,
-                        "name":"XXX 124",
+                        "name":"LoLi 124",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1000,7 +1000,7 @@
                     },
                     {
                         "ID":125,
-                        "name":"XXX 125",
+                        "name":"LoLi 125",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1008,7 +1008,7 @@
                     },
                     {
                         "ID":126,
-                        "name":"XXX 126",
+                        "name":"LoLi 126",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1016,7 +1016,7 @@
                     },
                     {
                         "ID":127,
-                        "name":"XXX 127",
+                        "name":"LoLi 127",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1024,7 +1024,7 @@
                     },
                     {
                         "ID":128,
-                        "name":"XXX 128",
+                        "name":"LoLi 128",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1032,7 +1032,7 @@
                     },
                     {
                         "ID":129,
-                        "name":"XXX 129",
+                        "name":"LoLi 129",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1040,7 +1040,7 @@
                     },
                     {
                         "ID":130,
-                        "name":"XXX 130",
+                        "name":"LoLi 130",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1048,7 +1048,7 @@
                     },
                     {
                         "ID":131,
-                        "name":"XXX 131",
+                        "name":"LoLi 131",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1056,7 +1056,7 @@
                     },
                     {
                         "ID":132,
-                        "name":"XXX 132",
+                        "name":"LoLi 132",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1064,7 +1064,7 @@
                     },
                     {
                         "ID":133,
-                        "name":"XXX 133",
+                        "name":"LoLi 133",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1072,7 +1072,7 @@
                     },
                     {
                         "ID":134,
-                        "name":"XXX 134",
+                        "name":"LoLi 134",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1080,7 +1080,7 @@
                     },
                     {
                         "ID":135,
-                        "name":"XXX 135",
+                        "name":"LoLi 135",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1088,7 +1088,7 @@
                     },
                     {
                         "ID":136,
-                        "name":"XXX 136",
+                        "name":"LoLi 136",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1096,7 +1096,7 @@
                     },
                     {
                         "ID":137,
-                        "name":"XXX 137",
+                        "name":"LoLi 137",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1104,7 +1104,7 @@
                     },
                     {
                         "ID":138,
-                        "name":"XXX 138",
+                        "name":"LoLi 138",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1112,7 +1112,7 @@
                     },
                     {
                         "ID":139,
-                        "name":"XXX 139",
+                        "name":"LoLi 139",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1120,7 +1120,7 @@
                     },
                     {
                         "ID":140,
-                        "name":"XXX 140",
+                        "name":"LoLi 140",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1128,7 +1128,7 @@
                     },
                     {
                         "ID":141,
-                        "name":"XXX 141",
+                        "name":"LoLi 141",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1136,7 +1136,7 @@
                     },
                     {
                         "ID":142,
-                        "name":"XXX 142",
+                        "name":"LoLi 142",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1144,7 +1144,7 @@
                     },
                     {
                         "ID":143,
-                        "name":"XXX 143",
+                        "name":"LoLi 143",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1152,7 +1152,7 @@
                     },
                     {
                         "ID":144,
-                        "name":"XXX 144",
+                        "name":"LoLi 144",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1160,7 +1160,7 @@
                     },
                     {
                         "ID":145,
-                        "name":"XXX 145",
+                        "name":"LoLi 145",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1168,7 +1168,7 @@
                     },
                     {
                         "ID":146,
-                        "name":"XXX 146",
+                        "name":"LoLi 146",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1176,7 +1176,7 @@
                     },
                     {
                         "ID":147,
-                        "name":"XXX 147",
+                        "name":"LoLi 147",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1184,7 +1184,7 @@
                     },
                     {
                         "ID":148,
-                        "name":"XXX 148",
+                        "name":"LoLi 148",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1192,7 +1192,7 @@
                     },
                     {
                         "ID":149,
-                        "name":"XXX 149",
+                        "name":"LoLi 149",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1200,7 +1200,7 @@
                     },
                     {
                         "ID":150,
-                        "name":"XXX 150",
+                        "name":"LoLi 150",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1208,7 +1208,7 @@
                     },
                     {
                         "ID":151,
-                        "name":"XXX 151",
+                        "name":"LoLi 151",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1216,7 +1216,7 @@
                     },
                     {
                         "ID":152,
-                        "name":"XXX 152",
+                        "name":"LoLi 152",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1224,7 +1224,7 @@
                     },
                     {
                         "ID":153,
-                        "name":"XXX 153",
+                        "name":"LoLi 153",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1232,7 +1232,7 @@
                     },
                     {
                         "ID":154,
-                        "name":"XXX 154",
+                        "name":"LoLi 154",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1240,7 +1240,7 @@
                     },
                     {
                         "ID":155,
-                        "name":"XXX 155",
+                        "name":"LoLi 155",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1248,7 +1248,7 @@
                     },
                     {
                         "ID":156,
-                        "name":"XXX 156",
+                        "name":"LoLi 156",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1256,7 +1256,7 @@
                     },
                     {
                         "ID":157,
-                        "name":"XXX 157",
+                        "name":"LoLi 157",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1264,7 +1264,7 @@
                     },
                     {
                         "ID":158,
-                        "name":"XXX 158",
+                        "name":"LoLi 158",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1272,7 +1272,7 @@
                     },
                     {
                         "ID":159,
-                        "name":"XXX 159",
+                        "name":"LoLi 159",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1280,7 +1280,7 @@
                     },
                     {
                         "ID":160,
-                        "name":"XXX 160",
+                        "name":"LoLi 160",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1288,7 +1288,7 @@
                     },
                     {
                         "ID":161,
-                        "name":"XXX 161",
+                        "name":"LoLi 161",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1296,7 +1296,7 @@
                     },
                     {
                         "ID":162,
-                        "name":"XXX 162",
+                        "name":"LoLi 162",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1304,7 +1304,7 @@
                     },
                     {
                         "ID":163,
-                        "name":"XXX 163",
+                        "name":"LoLi 163",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1312,7 +1312,7 @@
                     },
                     {
                         "ID":164,
-                        "name":"XXX 164",
+                        "name":"LoLi 164",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1320,7 +1320,7 @@
                     },
                     {
                         "ID":165,
-                        "name":"XXX 165",
+                        "name":"LoLi 165",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1328,7 +1328,7 @@
                     },
                     {
                         "ID":166,
-                        "name":"XXX 166",
+                        "name":"LoLi 166",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1336,7 +1336,7 @@
                     },
                     {
                         "ID":167,
-                        "name":"XXX 167",
+                        "name":"LoLi 167",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1344,7 +1344,7 @@
                     },
                     {
                         "ID":168,
-                        "name":"XXX 168",
+                        "name":"LoLi 168",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1352,7 +1352,7 @@
                     },
                     {
                         "ID":169,
-                        "name":"XXX 169",
+                        "name":"LoLi 169",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1360,7 +1360,7 @@
                     },
                     {
                         "ID":170,
-                        "name":"XXX 170",
+                        "name":"LoLi 170",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1368,7 +1368,7 @@
                     },
                     {
                         "ID":171,
-                        "name":"XXX 171",
+                        "name":"LoLi 171",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1376,7 +1376,7 @@
                     },
                     {
                         "ID":172,
-                        "name":"XXX 172",
+                        "name":"LoLi 172",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1384,7 +1384,7 @@
                     },
                     {
                         "ID":173,
-                        "name":"XXX 173",
+                        "name":"LoLi 173",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1392,7 +1392,7 @@
                     },
                     {
                         "ID":174,
-                        "name":"XXX 174",
+                        "name":"LoLi 174",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1400,7 +1400,7 @@
                     },
                     {
                         "ID":175,
-                        "name":"XXX 175",
+                        "name":"LoLi 175",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1408,7 +1408,7 @@
                     },
                     {
                         "ID":176,
-                        "name":"XXX 176",
+                        "name":"LoLi 176",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1416,7 +1416,7 @@
                     },
                     {
                         "ID":177,
-                        "name":"XXX 177",
+                        "name":"LoLi 177",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1424,7 +1424,7 @@
                     },
                     {
                         "ID":178,
-                        "name":"XXX 178",
+                        "name":"LoLi 178",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1432,7 +1432,7 @@
                     },
                     {
                         "ID":179,
-                        "name":"XXX 179",
+                        "name":"LoLi 179",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1440,7 +1440,7 @@
                     },
                     {
                         "ID":180,
-                        "name":"XXX 180",
+                        "name":"LoLi 180",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -1448,7 +1448,7 @@
                     },
                     {
                         "ID":181,
-                        "name":"XXX 181",
+                        "name":"LoLi 181",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1456,7 +1456,7 @@
                     },
                     {
                         "ID":182,
-                        "name":"XXX 182",
+                        "name":"LoLi 182",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1464,7 +1464,7 @@
                     },
                     {
                         "ID":183,
-                        "name":"XXX 183",
+                        "name":"LoLi 183",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1472,7 +1472,7 @@
                     },
                     {
                         "ID":184,
-                        "name":"XXX 184",
+                        "name":"LoLi 184",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1480,7 +1480,7 @@
                     },
                     {
                         "ID":185,
-                        "name":"XXX 185",
+                        "name":"LoLi 185",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1488,7 +1488,7 @@
                     },
                     {
                         "ID":186,
-                        "name":"XXX 186",
+                        "name":"LoLi 186",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1496,7 +1496,7 @@
                     },
                     {
                         "ID":187,
-                        "name":"XXX 187",
+                        "name":"LoLi 187",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1504,7 +1504,7 @@
                     },
                     {
                         "ID":188,
-                        "name":"XXX 188",
+                        "name":"LoLi 188",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1512,7 +1512,7 @@
                     },
                     {
                         "ID":189,
-                        "name":"XXX 189",
+                        "name":"LoLi 189",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1520,7 +1520,7 @@
                     },
                     {
                         "ID":190,
-                        "name":"XXX 190",
+                        "name":"LoLi 190",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1528,7 +1528,7 @@
                     },
                     {
                         "ID":191,
-                        "name":"XXX 191",
+                        "name":"LoLi 191",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1536,7 +1536,7 @@
                     },
                     {
                         "ID":192,
-                        "name":"XXX 192",
+                        "name":"LoLi 192",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1544,7 +1544,7 @@
                     },
                     {
                         "ID":193,
-                        "name":"XXX 193",
+                        "name":"LoLi 193",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1552,7 +1552,7 @@
                     },
                     {
                         "ID":194,
-                        "name":"XXX 194",
+                        "name":"LoLi 194",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1560,7 +1560,7 @@
                     },
                     {
                         "ID":195,
-                        "name":"XXX 195",
+                        "name":"LoLi 195",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1568,7 +1568,7 @@
                     },
                     {
                         "ID":196,
-                        "name":"XXX 196",
+                        "name":"LoLi 196",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1576,7 +1576,7 @@
                     },
                     {
                         "ID":197,
-                        "name":"XXX 197",
+                        "name":"LoLi 197",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1584,7 +1584,7 @@
                     },
                     {
                         "ID":198,
-                        "name":"XXX 198",
+                        "name":"LoLi 198",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1592,7 +1592,7 @@
                     },
                     {
                         "ID":199,
-                        "name":"XXX 199",
+                        "name":"LoLi 199",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -1600,7 +1600,7 @@
                     },
                     {
                         "ID":200,
-                        "name":"XXX 200",
+                        "name":"LoLi 200",
                         "category":"Common", 
                         "size":11,
                         "sell":1,
@@ -1608,7 +1608,7 @@
                     },
                     {
                         "ID":201,
-                        "name":"XXX 201",
+                        "name":"LoLi 201",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -1616,7 +1616,7 @@
                     },
                     {
                         "ID":202,
-                        "name":"XXX 202",
+                        "name":"LoLi 202",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -1624,7 +1624,7 @@
                     },
                     {
                         "ID":203,
-                        "name":"XXX 203",
+                        "name":"LoLi 203",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -1632,7 +1632,7 @@
                     },
                     {
                         "ID":204,
-                        "name":"XXX 204",
+                        "name":"LoLi 204",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -1640,7 +1640,7 @@
                     },
                     {
                         "ID":205,
-                        "name":"XXX 205",
+                        "name":"LoLi 205",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -1648,7 +1648,7 @@
                     },
                     {
                         "ID":206,
-                        "name":"XXX 206",
+                        "name":"LoLi 206",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -1656,7 +1656,7 @@
                     },
                     {
                         "ID":207,
-                        "name":"XXX 207",
+                        "name":"LoLi 207",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -1664,7 +1664,7 @@
                     },
                     {
                         "ID":208,
-                        "name":"XXX 208",
+                        "name":"LoLi 208",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -1672,7 +1672,7 @@
                     },
                     {
                         "ID":209,
-                        "name":"XXX 209",
+                        "name":"LoLi 209",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -1680,7 +1680,7 @@
                     },
                     {
                         "ID":210,
-                        "name":"XXX 210",
+                        "name":"LoLi 210",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -1688,7 +1688,7 @@
                     },
                     {
                         "ID":211,
-                        "name":"XXX 211",
+                        "name":"LoLi 211",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1696,7 +1696,7 @@
                     },
                     {
                         "ID":212,
-                        "name":"XXX 212",
+                        "name":"LoLi 212",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1704,7 +1704,7 @@
                     },
                     {
                         "ID":213,
-                        "name":"XXX 213",
+                        "name":"LoLi 213",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1712,7 +1712,7 @@
                     },
                     {
                         "ID":214,
-                        "name":"XXX 214",
+                        "name":"LoLi 214",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1720,7 +1720,7 @@
                     },
                     {
                         "ID":215,
-                        "name":"XXX 215",
+                        "name":"LoLi 215",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1728,7 +1728,7 @@
                     },
                     {
                         "ID":216,
-                        "name":"XXX 216",
+                        "name":"LoLi 216",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1736,7 +1736,7 @@
                     },
                     {
                         "ID":217,
-                        "name":"XXX 217",
+                        "name":"LoLi 217",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1744,7 +1744,7 @@
                     },
                     {
                         "ID":218,
-                        "name":"XXX 218",
+                        "name":"LoLi 218",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1752,7 +1752,7 @@
                     },
                     {
                         "ID":219,
-                        "name":"XXX 219",
+                        "name":"LoLi 219",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1760,7 +1760,7 @@
                     },
                     {
                         "ID":220,
-                        "name":"XXX 220",
+                        "name":"LoLi 220",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -1768,7 +1768,7 @@
                     },
                     {
                         "ID":221,
-                        "name":"XXX 221",
+                        "name":"LoLi 221",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1776,7 +1776,7 @@
                     },
                     {
                         "ID":222,
-                        "name":"XXX 222",
+                        "name":"LoLi 222",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1784,7 +1784,7 @@
                     },
                     {
                         "ID":223,
-                        "name":"XXX 223",
+                        "name":"LoLi 223",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1792,7 +1792,7 @@
                     },
                     {
                         "ID":224,
-                        "name":"XXX 224",
+                        "name":"LoLi 224",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1800,7 +1800,7 @@
                     },
                     {
                         "ID":225,
-                        "name":"XXX 225",
+                        "name":"LoLi 225",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1808,7 +1808,7 @@
                     },
                     {
                         "ID":226,
-                        "name":"XXX 226",
+                        "name":"LoLi 226",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1816,7 +1816,7 @@
                     },
                     {
                         "ID":227,
-                        "name":"XXX 227",
+                        "name":"LoLi 227",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1824,7 +1824,7 @@
                     },
                     {
                         "ID":228,
-                        "name":"XXX 228",
+                        "name":"LoLi 228",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1832,7 +1832,7 @@
                     },
                     {
                         "ID":229,
-                        "name":"XXX 229",
+                        "name":"LoLi 229",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1840,7 +1840,7 @@
                     },
                     {
                         "ID":230,
-                        "name":"XXX 230",
+                        "name":"LoLi 230",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -1848,7 +1848,7 @@
                     },
                     {
                         "ID":231,
-                        "name":"XXX 231",
+                        "name":"LoLi 231",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1856,7 +1856,7 @@
                     },
                     {
                         "ID":232,
-                        "name":"XXX 232",
+                        "name":"LoLi 232",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1864,7 +1864,7 @@
                     },
                     {
                         "ID":233,
-                        "name":"XXX 233",
+                        "name":"LoLi 233",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1872,7 +1872,7 @@
                     },
                     {
                         "ID":234,
-                        "name":"XXX 234",
+                        "name":"LoLi 234",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1880,7 +1880,7 @@
                     },
                     {
                         "ID":235,
-                        "name":"XXX 235",
+                        "name":"LoLi 235",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1888,7 +1888,7 @@
                     },
                     {
                         "ID":236,
-                        "name":"XXX 236",
+                        "name":"LoLi 236",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1896,7 +1896,7 @@
                     },
                     {
                         "ID":237,
-                        "name":"XXX 237",
+                        "name":"LoLi 237",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1904,7 +1904,7 @@
                     },
                     {
                         "ID":238,
-                        "name":"XXX 238",
+                        "name":"LoLi 238",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1912,7 +1912,7 @@
                     },
                     {
                         "ID":239,
-                        "name":"XXX 239",
+                        "name":"LoLi 239",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1920,7 +1920,7 @@
                     },
                     {
                         "ID":240,
-                        "name":"XXX 240",
+                        "name":"LoLi 240",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1928,7 +1928,7 @@
                     },
                     {
                         "ID":241,
-                        "name":"XXX 241",
+                        "name":"LoLi 241",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1936,7 +1936,7 @@
                     },
                     {
                         "ID":242,
-                        "name":"XXX 242",
+                        "name":"LoLi 242",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1944,7 +1944,7 @@
                     },
                     {
                         "ID":243,
-                        "name":"XXX 243",
+                        "name":"LoLi 243",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1952,7 +1952,7 @@
                     },
                     {
                         "ID":244,
-                        "name":"XXX 244",
+                        "name":"LoLi 244",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1960,7 +1960,7 @@
                     },
                     {
                         "ID":245,
-                        "name":"XXX 245",
+                        "name":"LoLi 245",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -1968,7 +1968,7 @@
                     },
                     {
                         "ID":246,
-                        "name":"XXX 246",
+                        "name":"LoLi 246",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1976,7 +1976,7 @@
                     },
                     {
                         "ID":247,
-                        "name":"XXX 247",
+                        "name":"LoLi 247",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1984,7 +1984,7 @@
                     },
                     {
                         "ID":248,
-                        "name":"XXX 248",
+                        "name":"LoLi 248",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -1992,7 +1992,7 @@
                     },
                     {
                         "ID":249,
-                        "name":"XXX 249",
+                        "name":"LoLi 249",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2000,7 +2000,7 @@
                     },
                     {
                         "ID":250,
-                        "name":"XXX 250",
+                        "name":"LoLi 250",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2008,7 +2008,7 @@
                     },
                     {
                         "ID":251,
-                        "name":"XXX 251",
+                        "name":"LoLi 251",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2016,7 +2016,7 @@
                     },
                     {
                         "ID":252,
-                        "name":"XXX 252",
+                        "name":"LoLi 252",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2024,7 +2024,7 @@
                     },
                     {
                         "ID":253,
-                        "name":"XXX 253",
+                        "name":"LoLi 253",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2032,7 +2032,7 @@
                     },
                     {
                         "ID":254,
-                        "name":"XXX 254",
+                        "name":"LoLi 254",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2040,7 +2040,7 @@
                     },
                     {
                         "ID":255,
-                        "name":"XXX 255",
+                        "name":"LoLi 255",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2048,7 +2048,7 @@
                     },
                     {
                         "ID":256,
-                        "name":"XXX 256",
+                        "name":"LoLi 256",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2056,7 +2056,7 @@
                     },
                     {
                         "ID":257,
-                        "name":"XXX 257",
+                        "name":"LoLi 257",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2064,7 +2064,7 @@
                     },
                     {
                         "ID":258,
-                        "name":"XXX 258",
+                        "name":"LoLi 258",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2072,7 +2072,7 @@
                     },
                     {
                         "ID":259,
-                        "name":"XXX 259",
+                        "name":"LoLi 259",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2080,7 +2080,7 @@
                     },
                     {
                         "ID":260,
-                        "name":"XXX 260",
+                        "name":"LoLi 260",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2088,7 +2088,7 @@
                     },
                     {
                         "ID":261,
-                        "name":"XXX 261",
+                        "name":"LoLi 261",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2096,7 +2096,7 @@
                     },
                     {
                         "ID":262,
-                        "name":"XXX 262",
+                        "name":"LoLi 262",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2104,7 +2104,7 @@
                     },
                     {
                         "ID":263,
-                        "name":"XXX 263",
+                        "name":"LoLi 263",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2112,7 +2112,7 @@
                     },
                     {
                         "ID":264,
-                        "name":"XXX 264",
+                        "name":"LoLi 264",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2120,7 +2120,7 @@
                     },
                     {
                         "ID":265,
-                        "name":"XXX 265",
+                        "name":"LoLi 265",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2128,7 +2128,7 @@
                     },
                     {
                         "ID":266,
-                        "name":"XXX 266",
+                        "name":"LoLi 266",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2136,7 +2136,7 @@
                     },
                     {
                         "ID":267,
-                        "name":"XXX 267",
+                        "name":"LoLi 267",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2144,7 +2144,7 @@
                     },
                     {
                         "ID":268,
-                        "name":"XXX 268",
+                        "name":"LoLi 268",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2152,7 +2152,7 @@
                     },
                     {
                         "ID":269,
-                        "name":"XXX 269",
+                        "name":"LoLi 269",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2160,7 +2160,7 @@
                     },
                     {
                         "ID":270,
-                        "name":"XXX 270",
+                        "name":"LoLi 270",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2168,7 +2168,7 @@
                     },
                     {
                         "ID":271,
-                        "name":"XXX 271",
+                        "name":"LoLi 271",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2176,7 +2176,7 @@
                     },
                     {
                         "ID":272,
-                        "name":"XXX 272",
+                        "name":"LoLi 272",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2184,7 +2184,7 @@
                     },
                     {
                         "ID":273,
-                        "name":"XXX 273",
+                        "name":"LoLi 273",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2192,7 +2192,7 @@
                     },
                     {
                         "ID":274,
-                        "name":"XXX 274",
+                        "name":"LoLi 274",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2200,7 +2200,7 @@
                     },
                     {
                         "ID":275,
-                        "name":"XXX 275",
+                        "name":"LoLi 275",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2208,7 +2208,7 @@
                     },
                     {
                         "ID":276,
-                        "name":"XXX 276",
+                        "name":"LoLi 276",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2216,7 +2216,7 @@
                     },
                     {
                         "ID":277,
-                        "name":"XXX 277",
+                        "name":"LoLi 277",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2224,7 +2224,7 @@
                     },
                     {
                         "ID":278,
-                        "name":"XXX 278",
+                        "name":"LoLi 278",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2232,7 +2232,7 @@
                     },
                     {
                         "ID":279,
-                        "name":"XXX 279",
+                        "name":"LoLi 279",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2240,7 +2240,7 @@
                     },
                     {
                         "ID":280,
-                        "name":"XXX 280",
+                        "name":"LoLi 280",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2248,7 +2248,7 @@
                     },
                     {
                         "ID":281,
-                        "name":"XXX 281",
+                        "name":"LoLi 281",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2256,7 +2256,7 @@
                     },
                     {
                         "ID":282,
-                        "name":"XXX 282",
+                        "name":"LoLi 282",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2264,7 +2264,7 @@
                     },
                     {
                         "ID":283,
-                        "name":"XXX 283",
+                        "name":"LoLi 283",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2272,7 +2272,7 @@
                     },
                     {
                         "ID":284,
-                        "name":"XXX 284",
+                        "name":"LoLi 284",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2280,7 +2280,7 @@
                     },
                     {
                         "ID":285,
-                        "name":"XXX 285",
+                        "name":"LoLi 285",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2288,7 +2288,7 @@
                     },
                     {
                         "ID":286,
-                        "name":"XXX 286",
+                        "name":"LoLi 286",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2296,7 +2296,7 @@
                     },
                     {
                         "ID":287,
-                        "name":"XXX 287",
+                        "name":"LoLi 287",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2304,7 +2304,7 @@
                     },
                     {
                         "ID":288,
-                        "name":"XXX 288",
+                        "name":"LoLi 288",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2312,7 +2312,7 @@
                     },
                     {
                         "ID":289,
-                        "name":"XXX 289",
+                        "name":"LoLi 289",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2320,7 +2320,7 @@
                     },
                     {
                         "ID":290,
-                        "name":"XXX 290",
+                        "name":"LoLi 290",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2328,7 +2328,7 @@
                     },
                     {
                         "ID":291,
-                        "name":"XXX 291",
+                        "name":"LoLi 291",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2336,7 +2336,7 @@
                     },
                     {
                         "ID":292,
-                        "name":"XXX 292",
+                        "name":"LoLi 292",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2344,7 +2344,7 @@
                     },
                     {
                         "ID":293,
-                        "name":"XXX 293",
+                        "name":"LoLi 293",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2352,7 +2352,7 @@
                     },
                     {
                         "ID":294,
-                        "name":"XXX 294",
+                        "name":"LoLi 294",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2360,7 +2360,7 @@
                     },
                     {
                         "ID":295,
-                        "name":"XXX 295",
+                        "name":"LoLi 295",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2368,7 +2368,7 @@
                     },
                     {
                         "ID":296,
-                        "name":"XXX 296",
+                        "name":"LoLi 296",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2376,7 +2376,7 @@
                     },
                     {
                         "ID":297,
-                        "name":"XXX 297",
+                        "name":"LoLi 297",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2384,7 +2384,7 @@
                     },
                     {
                         "ID":298,
-                        "name":"XXX 298",
+                        "name":"LoLi 298",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2392,7 +2392,7 @@
                     },
                     {
                         "ID":299,
-                        "name":"XXX 299",
+                        "name":"LoLi 299",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2400,7 +2400,7 @@
                     },
                     {
                         "ID":300,
-                        "name":"XXX 300",
+                        "name":"LoLi 300",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -2408,7 +2408,7 @@
                     },
                     {
                         "ID":301,
-                        "name":"XXX 301",
+                        "name":"LoLi 301",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -2416,7 +2416,7 @@
                     },
                     {
                         "ID":302,
-                        "name":"XXX 302",
+                        "name":"LoLi 302",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -2424,7 +2424,7 @@
                     },
                     {
                         "ID":303,
-                        "name":"XXX 303",
+                        "name":"LoLi 303",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -2432,7 +2432,7 @@
                     },
                     {
                         "ID":304,
-                        "name":"XXX 304",
+                        "name":"LoLi 304",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -2440,7 +2440,7 @@
                     },
                     {
                         "ID":305,
-                        "name":"XXX 305",
+                        "name":"LoLi 305",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -2448,7 +2448,7 @@
                     },
                     {
                         "ID":306,
-                        "name":"XXX 306",
+                        "name":"LoLi 306",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -2456,7 +2456,7 @@
                     },
                     {
                         "ID":307,
-                        "name":"XXX 307",
+                        "name":"LoLi 307",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -2464,7 +2464,7 @@
                     },
                     {
                         "ID":308,
-                        "name":"XXX 308",
+                        "name":"LoLi 308",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -2472,7 +2472,7 @@
                     },
                     {
                         "ID":309,
-                        "name":"XXX 309",
+                        "name":"LoLi 309",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -2480,7 +2480,7 @@
                     },
                     {
                         "ID":310,
-                        "name":"XXX 310",
+                        "name":"LoLi 310",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -2488,7 +2488,7 @@
                     },
                     {
                         "ID":311,
-                        "name":"XXX 311",
+                        "name":"LoLi 311",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2496,7 +2496,7 @@
                     },
                     {
                         "ID":312,
-                        "name":"XXX 312",
+                        "name":"LoLi 312",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2504,7 +2504,7 @@
                     },
                     {
                         "ID":313,
-                        "name":"XXX 313",
+                        "name":"LoLi 313",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2512,7 +2512,7 @@
                     },
                     {
                         "ID":314,
-                        "name":"XXX 314",
+                        "name":"LoLi 314",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2520,7 +2520,7 @@
                     },
                     {
                         "ID":315,
-                        "name":"XXX 315",
+                        "name":"LoLi 315",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2528,7 +2528,7 @@
                     },
                     {
                         "ID":316,
-                        "name":"XXX 316",
+                        "name":"LoLi 316",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2536,7 +2536,7 @@
                     },
                     {
                         "ID":317,
-                        "name":"XXX 317",
+                        "name":"LoLi 317",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2544,7 +2544,7 @@
                     },
                     {
                         "ID":318,
-                        "name":"XXX 318",
+                        "name":"LoLi 318",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2552,7 +2552,7 @@
                     },
                     {
                         "ID":319,
-                        "name":"XXX 319",
+                        "name":"LoLi 319",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2560,7 +2560,7 @@
                     },
                     {
                         "ID":320,
-                        "name":"XXX 320",
+                        "name":"LoLi 320",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -2568,7 +2568,7 @@
                     },
                     {
                         "ID":321,
-                        "name":"XXX 321",
+                        "name":"LoLi 321",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2576,7 +2576,7 @@
                     },
                     {
                         "ID":322,
-                        "name":"XXX 322",
+                        "name":"LoLi 322",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2584,7 +2584,7 @@
                     },
                     {
                         "ID":323,
-                        "name":"XXX 323",
+                        "name":"LoLi 323",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2592,7 +2592,7 @@
                     },
                     {
                         "ID":324,
-                        "name":"XXX 324",
+                        "name":"LoLi 324",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2600,7 +2600,7 @@
                     },
                     {
                         "ID":325,
-                        "name":"XXX 325",
+                        "name":"LoLi 325",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2608,7 +2608,7 @@
                     },
                     {
                         "ID":326,
-                        "name":"XXX 326",
+                        "name":"LoLi 326",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2616,7 +2616,7 @@
                     },
                     {
                         "ID":327,
-                        "name":"XXX 327",
+                        "name":"LoLi 327",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2624,7 +2624,7 @@
                     },
                     {
                         "ID":328,
-                        "name":"XXX 328",
+                        "name":"LoLi 328",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2632,7 +2632,7 @@
                     },
                     {
                         "ID":329,
-                        "name":"XXX 329",
+                        "name":"LoLi 329",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2640,7 +2640,7 @@
                     },
                     {
                         "ID":330,
-                        "name":"XXX 330",
+                        "name":"LoLi 330",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -2648,7 +2648,7 @@
                     },
                     {
                         "ID":331,
-                        "name":"XXX 331",
+                        "name":"LoLi 331",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2656,7 +2656,7 @@
                     },
                     {
                         "ID":332,
-                        "name":"XXX 332",
+                        "name":"LoLi 332",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2664,7 +2664,7 @@
                     },
                     {
                         "ID":333,
-                        "name":"XXX 333",
+                        "name":"LoLi 333",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2672,7 +2672,7 @@
                     },
                     {
                         "ID":334,
-                        "name":"XXX 334",
+                        "name":"LoLi 334",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2680,7 +2680,7 @@
                     },
                     {
                         "ID":335,
-                        "name":"XXX 335",
+                        "name":"LoLi 335",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2688,7 +2688,7 @@
                     },
                     {
                         "ID":336,
-                        "name":"XXX 336",
+                        "name":"LoLi 336",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2696,7 +2696,7 @@
                     },
                     {
                         "ID":337,
-                        "name":"XXX 337",
+                        "name":"LoLi 337",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2704,7 +2704,7 @@
                     },
                     {
                         "ID":338,
-                        "name":"XXX 338",
+                        "name":"LoLi 338",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2712,7 +2712,7 @@
                     },
                     {
                         "ID":339,
-                        "name":"XXX 339",
+                        "name":"LoLi 339",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2720,7 +2720,7 @@
                     },
                     {
                         "ID":340,
-                        "name":"XXX 340",
+                        "name":"LoLi 340",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2728,7 +2728,7 @@
                     },
                     {
                         "ID":341,
-                        "name":"XXX 341",
+                        "name":"LoLi 341",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2736,7 +2736,7 @@
                     },
                     {
                         "ID":342,
-                        "name":"XXX 342",
+                        "name":"LoLi 342",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2744,7 +2744,7 @@
                     },
                     {
                         "ID":343,
-                        "name":"XXX 343",
+                        "name":"LoLi 343",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2752,7 +2752,7 @@
                     },
                     {
                         "ID":344,
-                        "name":"XXX 344",
+                        "name":"LoLi 344",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2760,7 +2760,7 @@
                     },
                     {
                         "ID":345,
-                        "name":"XXX 345",
+                        "name":"LoLi 345",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -2768,7 +2768,7 @@
                     },
                     {
                         "ID":346,
-                        "name":"XXX 346",
+                        "name":"LoLi 346",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2776,7 +2776,7 @@
                     },
                     {
                         "ID":347,
-                        "name":"XXX 347",
+                        "name":"LoLi 347",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2784,7 +2784,7 @@
                     },
                     {
                         "ID":348,
-                        "name":"XXX 348",
+                        "name":"LoLi 348",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2792,7 +2792,7 @@
                     },
                     {
                         "ID":349,
-                        "name":"XXX 349",
+                        "name":"LoLi 349",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2800,7 +2800,7 @@
                     },
                     {
                         "ID":350,
-                        "name":"XXX 350",
+                        "name":"LoLi 350",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2808,7 +2808,7 @@
                     },
                     {
                         "ID":351,
-                        "name":"XXX 351",
+                        "name":"LoLi 351",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2816,7 +2816,7 @@
                     },
                     {
                         "ID":352,
-                        "name":"XXX 352",
+                        "name":"LoLi 352",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2824,7 +2824,7 @@
                     },
                     {
                         "ID":353,
-                        "name":"XXX 353",
+                        "name":"LoLi 353",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2832,7 +2832,7 @@
                     },
                     {
                         "ID":354,
-                        "name":"XXX 354",
+                        "name":"LoLi 354",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2840,7 +2840,7 @@
                     },
                     {
                         "ID":355,
-                        "name":"XXX 355",
+                        "name":"LoLi 355",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2848,7 +2848,7 @@
                     },
                     {
                         "ID":356,
-                        "name":"XXX 356",
+                        "name":"LoLi 356",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2856,7 +2856,7 @@
                     },
                     {
                         "ID":357,
-                        "name":"XXX 357",
+                        "name":"LoLi 357",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2864,7 +2864,7 @@
                     },
                     {
                         "ID":358,
-                        "name":"XXX 358",
+                        "name":"LoLi 358",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2872,7 +2872,7 @@
                     },
                     {
                         "ID":359,
-                        "name":"XXX 359",
+                        "name":"LoLi 359",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2880,7 +2880,7 @@
                     },
                     {
                         "ID":360,
-                        "name":"XXX 360",
+                        "name":"LoLi 360",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -2888,7 +2888,7 @@
                     },
                     {
                         "ID":361,
-                        "name":"XXX 361",
+                        "name":"LoLi 361",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2896,7 +2896,7 @@
                     },
                     {
                         "ID":362,
-                        "name":"XXX 362",
+                        "name":"LoLi 362",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2904,7 +2904,7 @@
                     },
                     {
                         "ID":363,
-                        "name":"XXX 363",
+                        "name":"LoLi 363",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2912,7 +2912,7 @@
                     },
                     {
                         "ID":364,
-                        "name":"XXX 364",
+                        "name":"LoLi 364",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2920,7 +2920,7 @@
                     },
                     {
                         "ID":365,
-                        "name":"XXX 365",
+                        "name":"LoLi 365",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2928,7 +2928,7 @@
                     },
                     {
                         "ID":366,
-                        "name":"XXX 366",
+                        "name":"LoLi 366",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2936,7 +2936,7 @@
                     },
                     {
                         "ID":367,
-                        "name":"XXX 367",
+                        "name":"LoLi 367",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2944,7 +2944,7 @@
                     },
                     {
                         "ID":368,
-                        "name":"XXX 368",
+                        "name":"LoLi 368",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2952,7 +2952,7 @@
                     },
                     {
                         "ID":369,
-                        "name":"XXX 369",
+                        "name":"LoLi 369",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2960,7 +2960,7 @@
                     },
                     {
                         "ID":370,
-                        "name":"XXX 370",
+                        "name":"LoLi 370",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2968,7 +2968,7 @@
                     },
                     {
                         "ID":371,
-                        "name":"XXX 371",
+                        "name":"LoLi 371",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2976,7 +2976,7 @@
                     },
                     {
                         "ID":372,
-                        "name":"XXX 372",
+                        "name":"LoLi 372",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2984,7 +2984,7 @@
                     },
                     {
                         "ID":373,
-                        "name":"XXX 373",
+                        "name":"LoLi 373",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -2992,7 +2992,7 @@
                     },
                     {
                         "ID":374,
-                        "name":"XXX 374",
+                        "name":"LoLi 374",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3000,7 +3000,7 @@
                     },
                     {
                         "ID":375,
-                        "name":"XXX 375",
+                        "name":"LoLi 375",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3008,7 +3008,7 @@
                     },
                     {
                         "ID":376,
-                        "name":"XXX 376",
+                        "name":"LoLi 376",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3016,7 +3016,7 @@
                     },
                     {
                         "ID":377,
-                        "name":"XXX 377",
+                        "name":"LoLi 377",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3024,7 +3024,7 @@
                     },
                     {
                         "ID":378,
-                        "name":"XXX 378",
+                        "name":"LoLi 378",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3032,7 +3032,7 @@
                     },
                     {
                         "ID":379,
-                        "name":"XXX 379",
+                        "name":"LoLi 379",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3040,7 +3040,7 @@
                     },
                     {
                         "ID":380,
-                        "name":"XXX 380",
+                        "name":"LoLi 380",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3048,7 +3048,7 @@
                     },
                     {
                         "ID":381,
-                        "name":"XXX 381",
+                        "name":"LoLi 381",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3056,7 +3056,7 @@
                     },
                     {
                         "ID":382,
-                        "name":"XXX 382",
+                        "name":"LoLi 382",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3064,7 +3064,7 @@
                     },
                     {
                         "ID":383,
-                        "name":"XXX 383",
+                        "name":"LoLi 383",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3072,7 +3072,7 @@
                     },
                     {
                         "ID":384,
-                        "name":"XXX 384",
+                        "name":"LoLi 384",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3080,7 +3080,7 @@
                     },
                     {
                         "ID":385,
-                        "name":"XXX 385",
+                        "name":"LoLi 385",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3088,7 +3088,7 @@
                     },
                     {
                         "ID":386,
-                        "name":"XXX 386",
+                        "name":"LoLi 386",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3096,7 +3096,7 @@
                     },
                     {
                         "ID":387,
-                        "name":"XXX 387",
+                        "name":"LoLi 387",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3104,7 +3104,7 @@
                     },
                     {
                         "ID":388,
-                        "name":"XXX 388",
+                        "name":"LoLi 388",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3112,7 +3112,7 @@
                     },
                     {
                         "ID":389,
-                        "name":"XXX 389",
+                        "name":"LoLi 389",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3120,7 +3120,7 @@
                     },
                     {
                         "ID":390,
-                        "name":"XXX 390",
+                        "name":"LoLi 390",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3128,7 +3128,7 @@
                     },
                     {
                         "ID":391,
-                        "name":"XXX 391",
+                        "name":"LoLi 391",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3136,7 +3136,7 @@
                     },
                     {
                         "ID":392,
-                        "name":"XXX 392",
+                        "name":"LoLi 392",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3144,7 +3144,7 @@
                     },
                     {
                         "ID":393,
-                        "name":"XXX 393",
+                        "name":"LoLi 393",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3152,7 +3152,7 @@
                     },
                     {
                         "ID":394,
-                        "name":"XXX 394",
+                        "name":"LoLi 394",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3160,7 +3160,7 @@
                     },
                     {
                         "ID":395,
-                        "name":"XXX 395",
+                        "name":"LoLi 395",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3168,7 +3168,7 @@
                     },
                     {
                         "ID":396,
-                        "name":"XXX 396",
+                        "name":"LoLi 396",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3176,7 +3176,7 @@
                     },
                     {
                         "ID":397,
-                        "name":"XXX 397",
+                        "name":"LoLi 397",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3184,7 +3184,7 @@
                     },
                     {
                         "ID":398,
-                        "name":"XXX 398",
+                        "name":"LoLi 398",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3192,7 +3192,7 @@
                     },
                     {
                         "ID":399,
-                        "name":"XXX 399",
+                        "name":"LoLi 399",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3200,7 +3200,7 @@
                     },
                     {
                         "ID":400,
-                        "name":"XXX 400",
+                        "name":"LoLi 400",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3208,7 +3208,7 @@
                     },
                     {
                         "ID":401,
-                        "name":"XXX 401",
+                        "name":"LoLi 401",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -3216,7 +3216,7 @@
                     },
                     {
                         "ID":402,
-                        "name":"XXX 402",
+                        "name":"LoLi 402",
                         "category":"Unknown",
                         "size":10,
                         "sell":10,
@@ -3224,7 +3224,7 @@
                     },
                     {
                         "ID":403,
-                        "name":"XXX 403",
+                        "name":"LoLi 403",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -3232,7 +3232,7 @@
                     },
                     {
                         "ID":404,
-                        "name":"XXX 404",
+                        "name":"LoLi 404",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -3240,7 +3240,7 @@
                     },
                     {
                         "ID":405,
-                        "name":"XXX 405",
+                        "name":"LoLi 405",
                         "category":"Etherial",
                         "size":9,
                         "sell":9,
@@ -3248,7 +3248,7 @@
                     },
                     {
                         "ID":406,
-                        "name":"XXX 406",
+                        "name":"LoLi 406",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -3256,7 +3256,7 @@
                     },
                     {
                         "ID":407,
-                        "name":"XXX 407",
+                        "name":"LoLi 407",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -3264,7 +3264,7 @@
                     },
                     {
                         "ID":408,
-                        "name":"XXX 408",
+                        "name":"LoLi 408",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -3272,7 +3272,7 @@
                     },
                     {
                         "ID":409,
-                        "name":"XXX 409",
+                        "name":"LoLi 409",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -3280,7 +3280,7 @@
                     },
                     {
                         "ID":410,
-                        "name":"XXX 410",
+                        "name":"LoLi 410",
                         "category":"Spectral",
                         "size":88,
                         "sell":8,
@@ -3288,7 +3288,7 @@
                     },
                     {
                         "ID":411,
-                        "name":"XXX 411",
+                        "name":"LoLi 411",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3296,7 +3296,7 @@
                     },
                     {
                         "ID":412,
-                        "name":"XXX 412",
+                        "name":"LoLi 412",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3304,7 +3304,7 @@
                     },
                     {
                         "ID":413,
-                        "name":"XXX 413",
+                        "name":"LoLi 413",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3312,7 +3312,7 @@
                     },
                     {
                         "ID":414,
-                        "name":"XXX 414",
+                        "name":"LoLi 414",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3320,7 +3320,7 @@
                     },
                     {
                         "ID":415,
-                        "name":"XXX 415",
+                        "name":"LoLi 415",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3328,7 +3328,7 @@
                     },
                     {
                         "ID":416,
-                        "name":"XXX 416",
+                        "name":"LoLi 416",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3336,7 +3336,7 @@
                     },
                     {
                         "ID":417,
-                        "name":"XXX 417",
+                        "name":"LoLi 417",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3344,7 +3344,7 @@
                     },
                     {
                         "ID":418,
-                        "name":"XXX 418",
+                        "name":"LoLi 418",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3352,7 +3352,7 @@
                     },
                     {
                         "ID":419,
-                        "name":"XXX 419",
+                        "name":"LoLi 419",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3360,7 +3360,7 @@
                     },
                     {
                         "ID":420,
-                        "name":"XXX 420",
+                        "name":"LoLi 420",
                         "category":"Mythical",
                         "size":66,
                         "sell":6,
@@ -3368,7 +3368,7 @@
                     },
                     {
                         "ID":421,
-                        "name":"XXX 421",
+                        "name":"LoLi 421",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3376,7 +3376,7 @@
                     },
                     {
                         "ID":422,
-                        "name":"XXX 422",
+                        "name":"LoLi 422",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3384,7 +3384,7 @@
                     },
                     {
                         "ID":423,
-                        "name":"XXX 423",
+                        "name":"LoLi 423",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3392,7 +3392,7 @@
                     },
                     {
                         "ID":424,
-                        "name":"XXX 424",
+                        "name":"LoLi 424",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3400,7 +3400,7 @@
                     },
                     {
                         "ID":425,
-                        "name":"XXX 425",
+                        "name":"LoLi 425",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3408,7 +3408,7 @@
                     },
                     {
                         "ID":426,
-                        "name":"XXX 426",
+                        "name":"LoLi 426",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3416,7 +3416,7 @@
                     },
                     {
                         "ID":427,
-                        "name":"XXX 427",
+                        "name":"LoLi 427",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3424,7 +3424,7 @@
                     },
                     {
                         "ID":428,
-                        "name":"XXX 428",
+                        "name":"LoLi 428",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3432,7 +3432,7 @@
                     },
                     {
                         "ID":429,
-                        "name":"XXX 429",
+                        "name":"LoLi 429",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3440,7 +3440,7 @@
                     },
                     {
                         "ID":430,
-                        "name":"XXX 430",
+                        "name":"LoLi 430",
                         "category":"Legendary",
                         "size":55,
                         "sell":5,
@@ -3448,7 +3448,7 @@
                     },
                     {
                         "ID":431,
-                        "name":"XXX 431",
+                        "name":"LoLi 431",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3456,7 +3456,7 @@
                     },
                     {
                         "ID":432,
-                        "name":"XXX 432",
+                        "name":"LoLi 432",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3464,7 +3464,7 @@
                     },
                     {
                         "ID":433,
-                        "name":"XXX 433",
+                        "name":"LoLi 433",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3472,7 +3472,7 @@
                     },
                     {
                         "ID":434,
-                        "name":"XXX 434",
+                        "name":"LoLi 434",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3480,7 +3480,7 @@
                     },
                     {
                         "ID":435,
-                        "name":"XXX 435",
+                        "name":"LoLi 435",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3488,7 +3488,7 @@
                     },
                     {
                         "ID":436,
-                        "name":"XXX 436",
+                        "name":"LoLi 436",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3496,7 +3496,7 @@
                     },
                     {
                         "ID":437,
-                        "name":"XXX 437",
+                        "name":"LoLi 437",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3504,7 +3504,7 @@
                     },
                     {
                         "ID":438,
-                        "name":"XXX 438",
+                        "name":"LoLi 438",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3512,7 +3512,7 @@
                     },
                     {
                         "ID":439,
-                        "name":"XXX 439",
+                        "name":"LoLi 439",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3520,7 +3520,7 @@
                     },
                     {
                         "ID":440,
-                        "name":"XXX 440",
+                        "name":"LoLi 440",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3528,7 +3528,7 @@
                     },
                     {
                         "ID":441,
-                        "name":"XXX 441",
+                        "name":"LoLi 441",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3536,7 +3536,7 @@
                     },
                     {
                         "ID":442,
-                        "name":"XXX 442",
+                        "name":"LoLi 442",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3544,7 +3544,7 @@
                     },
                     {
                         "ID":443,
-                        "name":"XXX 443",
+                        "name":"LoLi 443",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3552,7 +3552,7 @@
                     },
                     {
                         "ID":444,
-                        "name":"XXX 444",
+                        "name":"LoLi 444",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3560,7 +3560,7 @@
                     },
                     {
                         "ID":445,
-                        "name":"XXX 445",
+                        "name":"LoLi 445",
                         "category":"Epic",
                         "size":44,
                         "sell":4,
@@ -3568,7 +3568,7 @@
                     },
                     {
                         "ID":446,
-                        "name":"XXX 446",
+                        "name":"LoLi 446",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3576,7 +3576,7 @@
                     },
                     {
                         "ID":447,
-                        "name":"XXX 447",
+                        "name":"LoLi 447",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3584,7 +3584,7 @@
                     },
                     {
                         "ID":448,
-                        "name":"XXX 448",
+                        "name":"LoLi 448",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3592,7 +3592,7 @@
                     },
                     {
                         "ID":449,
-                        "name":"XXX 449",
+                        "name":"LoLi 449",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3600,7 +3600,7 @@
                     },
                     {
                         "ID":450,
-                        "name":"XXX 450",
+                        "name":"LoLi 450",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3608,7 +3608,7 @@
                     },
                     {
                         "ID":451,
-                        "name":"XXX 451",
+                        "name":"LoLi 451",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3616,7 +3616,7 @@
                     },
                     {
                         "ID":452,
-                        "name":"XXX 452",
+                        "name":"LoLi 452",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3624,7 +3624,7 @@
                     },
                     {
                         "ID":453,
-                        "name":"XXX 453",
+                        "name":"LoLi 453",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3632,7 +3632,7 @@
                     },
                     {
                         "ID":454,
-                        "name":"XXX 454",
+                        "name":"LoLi 454",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3640,7 +3640,7 @@
                     },
                     {
                         "ID":455,
-                        "name":"XXX 455",
+                        "name":"LoLi 455",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3648,7 +3648,7 @@
                     },
                     {
                         "ID":456,
-                        "name":"XXX 456",
+                        "name":"LoLi 456",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3656,7 +3656,7 @@
                     },
                     {
                         "ID":457,
-                        "name":"XXX 457",
+                        "name":"LoLi 457",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3664,7 +3664,7 @@
                     },
                     {
                         "ID":458,
-                        "name":"XXX 458",
+                        "name":"LoLi 458",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3672,7 +3672,7 @@
                     },
                     {
                         "ID":459,
-                        "name":"XXX 459",
+                        "name":"LoLi 459",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3680,7 +3680,7 @@
                     },
                     {
                         "ID":460,
-                        "name":"XXX 460",
+                        "name":"LoLi 460",
                         "category":"Rare",
                         "size":33,
                         "sell":3,
@@ -3688,7 +3688,7 @@
                     },
                     {
                         "ID":461,
-                        "name":"XXX 461",
+                        "name":"LoLi 461",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3696,7 +3696,7 @@
                     },
                     {
                         "ID":462,
-                        "name":"XXX 462",
+                        "name":"LoLi 462",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3704,7 +3704,7 @@
                     },
                     {
                         "ID":463,
-                        "name":"XXX 463",
+                        "name":"LoLi 463",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3712,7 +3712,7 @@
                     },
                     {
                         "ID":464,
-                        "name":"XXX 464",
+                        "name":"LoLi 464",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3720,7 +3720,7 @@
                     },
                     {
                         "ID":465,
-                        "name":"XXX 465",
+                        "name":"LoLi 465",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3728,7 +3728,7 @@
                     },
                     {
                         "ID":466,
-                        "name":"XXX 466",
+                        "name":"LoLi 466",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3736,7 +3736,7 @@
                     },
                     {
                         "ID":467,
-                        "name":"XXX 467",
+                        "name":"LoLi 467",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3744,7 +3744,7 @@
                     },
                     {
                         "ID":468,
-                        "name":"XXX 468",
+                        "name":"LoLi 468",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3752,7 +3752,7 @@
                     },
                     {
                         "ID":469,
-                        "name":"XXX 469",
+                        "name":"LoLi 469",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3760,7 +3760,7 @@
                     },
                     {
                         "ID":470,
-                        "name":"XXX 470",
+                        "name":"LoLi 470",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3768,7 +3768,7 @@
                     },
                     {
                         "ID":471,
-                        "name":"XXX 471",
+                        "name":"LoLi 471",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3776,7 +3776,7 @@
                     },
                     {
                         "ID":472,
-                        "name":"XXX 472",
+                        "name":"LoLi 472",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3784,7 +3784,7 @@
                     },
                     {
                         "ID":473,
-                        "name":"XXX 473",
+                        "name":"LoLi 473",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3792,7 +3792,7 @@
                     },
                     {
                         "ID":474,
-                        "name":"XXX 474",
+                        "name":"LoLi 474",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3800,7 +3800,7 @@
                     },
                     {
                         "ID":475,
-                        "name":"XXX 475",
+                        "name":"LoLi 475",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3808,7 +3808,7 @@
                     },
                     {
                         "ID":476,
-                        "name":"XXX 476",
+                        "name":"LoLi 476",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3816,7 +3816,7 @@
                     },
                     {
                         "ID":477,
-                        "name":"XXX 477",
+                        "name":"LoLi 477",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3824,7 +3824,7 @@
                     },
                     {
                         "ID":478,
-                        "name":"XXX 478",
+                        "name":"LoLi 478",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3832,7 +3832,7 @@
                     },
                     {
                         "ID":479,
-                        "name":"XXX 479",
+                        "name":"LoLi 479",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3840,7 +3840,7 @@
                     },
                     {
                         "ID":480,
-                        "name":"XXX 480",
+                        "name":"LoLi 480",
                         "category":"Uncommon",
                         "size":22,
                         "sell":2,
@@ -3848,7 +3848,7 @@
                     },
                     {
                         "ID":481,
-                        "name":"XXX 481",
+                        "name":"LoLi 481",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3856,7 +3856,7 @@
                     },
                     {
                         "ID":482,
-                        "name":"XXX 482",
+                        "name":"LoLi 482",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3864,7 +3864,7 @@
                     },
                     {
                         "ID":483,
-                        "name":"XXX 483",
+                        "name":"LoLi 483",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3872,7 +3872,7 @@
                     },
                     {
                         "ID":484,
-                        "name":"XXX 484",
+                        "name":"LoLi 484",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3880,7 +3880,7 @@
                     },
                     {
                         "ID":485,
-                        "name":"XXX 485",
+                        "name":"LoLi 485",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3888,7 +3888,7 @@
                     },
                     {
                         "ID":486,
-                        "name":"XXX 486",
+                        "name":"LoLi 486",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3896,7 +3896,7 @@
                     },
                     {
                         "ID":487,
-                        "name":"XXX 487",
+                        "name":"LoLi 487",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3904,7 +3904,7 @@
                     },
                     {
                         "ID":488,
-                        "name":"XXX 488",
+                        "name":"LoLi 488",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3912,7 +3912,7 @@
                     },
                     {
                         "ID":489,
-                        "name":"XXX 489",
+                        "name":"LoLi 489",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3920,7 +3920,7 @@
                     },
                     {
                         "ID":490,
-                        "name":"XXX 490",
+                        "name":"LoLi 490",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3928,7 +3928,7 @@
                     },
                     {
                         "ID":491,
-                        "name":"XXX 491",
+                        "name":"LoLi 491",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3936,7 +3936,7 @@
                     },
                     {
                         "ID":492,
-                        "name":"XXX 492",
+                        "name":"LoLi 492",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3944,7 +3944,7 @@
                     },
                     {
                         "ID":493,
-                        "name":"XXX 493",
+                        "name":"LoLi 493",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3952,7 +3952,7 @@
                     },
                     {
                         "ID":494,
-                        "name":"XXX 494",
+                        "name":"LoLi 494",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3960,7 +3960,7 @@
                     },
                     {
                         "ID":495,
-                        "name":"XXX 495",
+                        "name":"LoLi 495",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3968,7 +3968,7 @@
                     },
                     {
                         "ID":496,
-                        "name":"XXX 496",
+                        "name":"LoLi 496",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3976,7 +3976,7 @@
                     },
                     {
                         "ID":497,
-                        "name":"XXX 497",
+                        "name":"LoLi 497",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3984,7 +3984,7 @@
                     },
                     {
                         "ID":498,
-                        "name":"XXX 498",
+                        "name":"LoLi 498",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -3992,7 +3992,7 @@
                     },
                     {
                         "ID":499,
-                        "name":"XXX 499",
+                        "name":"LoLi 499",
                         "category":"Common",
                         "size":11, 
                         "sell":1,
@@ -4000,7 +4000,7 @@
                     },
                     {
                         "ID":500,
-                        "name":"XXX 500",
+                        "name":"LoLi 500",
                         "category":"Common",
                         "size":11,
                         "sell":1,
@@ -4023,7 +4023,7 @@
                         "category":"Unknown",
                         "size":99999,
                         "sell":10,
-                        "image": "https://i.imgur.com/ieCg2dh.jpg"
+                        "image": "https://i.imgur.com/ieCg2dh.jpg "
                     }
                 ]
             }
