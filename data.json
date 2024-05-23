@@ -4023,7 +4023,818 @@
                         "category":"Unknown",
                         "size":99999,
                         "sell":10,
-                        "image": "https://i.imgur.com/ieCg2dh.jpg "
+                        "image": "https://i.imgur.com/ieCg2dh.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "location":"Saver Riêng",
+        "area":[
+            {   
+                "ID": 0,
+                "name":"Ck Zin",
+                "creature":[
+                    {
+                        "ID":1,
+                        "name":"Scara 1",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/vg9k42.jpeg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Scara 2",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/tw95rc.jpeg"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Scara 3",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/rw3cj1.jpeg"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Scara 4",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/b17iff.jpeg"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Scara 5",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/jxm87j.jpeg"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Scara 6",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/6lrccm.jpeg"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Scara 7",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/f2xics.jpeg"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Scara 8",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/ovrxpb.jpeg"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Scara 9",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/6qezh2.jpeg"
+                    },
+                    {
+                        "ID":10,
+                        "name":"Scara 10",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/7myjyb.jpeg"
+                    },
+                    {
+                        "ID":11,
+                        "name":"Scara 11",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/551go0.jpeg"
+                    },
+                    {
+                        "ID":12,
+                        "name":"Scara 12",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/dvgf57.jpeg"
+                    },
+                    {
+                        "ID":13,
+                        "name":"Scara 13",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/u80mi8.jpeg"
+                    },
+                    {
+                        "ID":14,
+                        "name":"Scara 14",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/fbp268.jpeg"
+                    },
+                    {
+                        "ID":15,
+                        "name":"Scara 15",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/4fqhs6.jpeg"
+                    },
+                    {
+                        "ID":16,
+                        "name":"Scara 16",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/nm9kz2.jpeg"
+                    },
+                    {
+                        "ID":17,
+                        "name":"Scara 17",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/hoh9tz.jpeg"
+                    },
+                    {
+                        "ID":18,
+                        "name":"Scara 18",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/y1hr2d.jpeg"
+                    },
+                    {
+                        "ID":19,
+                        "name":"Scara 19",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/m4chct.jpeg"
+                    },
+                    {
+                        "ID":20,
+                        "name":"Scara 20",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/0ut634.jpeg"
+                    },
+                    {
+                        "ID":21,
+                        "name":"Scara 21",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/h6froh.jpeg"
+                    },
+                    {
+                        "ID":22,
+                        "name":"Scara 22",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/y9sg2x.jpeg"
+                    },
+                    {
+                        "ID":23,
+                        "name":"Scara 23",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/gxu71x.jpeg"
+                    },
+                    {
+                        "ID":24,
+                        "name":"Scara 24",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/6ke5gf.jpeg"
+                    },
+                    {
+                        "ID":25,
+                        "name":"Scara 25",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/vtlwv0.jpeg"
+                    },
+                    {
+                        "ID":26,
+                        "name":"Scara 26",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/rf2nt8.jpeg"
+                    },
+                    {
+                        "ID":27,
+                        "name":"Scara 27",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/whipfr.jpeg"
+                    },
+                    {
+                        "ID":28,
+                        "name":"Scara 28",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/0k2v8d.jpeg"
+                    },
+                    {
+                        "ID":29,
+                        "name":"Scara 29",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/aaba6g.jpeg"
+                    },
+                    {
+                        "ID":30,
+                        "name":"Scara 30",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/k1qz6o.jpeg"
+                    },
+                    {
+                        "ID":31,
+                        "name":"Scara 31",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/tqshr0.jpeg"
+                    },
+                    {
+                        "ID":32,
+                        "name":"Scara 32",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/5i590l.jpeg"
+                    },
+                    {
+                        "ID":33,
+                        "name":"Scara 33",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/wsvnb6.jpeg"
+                    },
+                    {
+                        "ID":34,
+                        "name":"Scara 34",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/9ndyp5.jpeg"
+                    },
+                    {
+                        "ID":35,
+                        "name":"Scara 35",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/mp0xwu.jpeg"
+                    },
+                    {
+                        "ID":36,
+                        "name":"Scara 36",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/7cdl6u.jpeg"
+                    },
+                    {
+                        "ID":37,
+                        "name":"Scara 37",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/drmrev.jpeg"
+                    },
+                    {
+                        "ID":38,
+                        "name":"Scara 38",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/pojt6g.jpeg"
+                    },
+                    {
+                        "ID":39,
+                        "name":"Scara 39",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/385ffh.jpeg"
+                    },
+                    {
+                        "ID":40,
+                        "name":"Scara 40",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/u3tufe.jpeg"
+                    },
+                    {
+                        "ID":41,
+                        "name":"Scara 41",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/awy7e8.jpeg"
+                    },
+                    {
+                        "ID":42,
+                        "name":"Scara 42",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/6vyqb4.jpeg"
+                    },
+                    {
+                        "ID":43,
+                        "name":"Scara 43",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/bame2n.jpeg"
+                    },
+                    {
+                        "ID":44,
+                        "name":"Scara 44",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/qw2lgg.jpeg"
+                    },
+                    {
+                        "ID":45,
+                        "name":"Scara 45",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/9lrh6s.jpeg"
+                    },
+                    {
+                        "ID":46,
+                        "name":"Scara 46",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/mnck0e.jpeg"
+                    },
+                    {
+                        "ID":47,
+                        "name":"Scara 47",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/dk3yer.jpeg"
+                    },
+                    {
+                        "ID":48,
+                        "name":"Scara 48",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/ui3exx.jpeg"
+                    },
+                    {
+                        "ID":49,
+                        "name":"Scara 49",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/o9fhtr.jpeg"
+                    },
+                    {
+                        "ID":50,
+                        "name":"Scara 50",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/9elket.jpeg"
+                    },
+                    {
+                        "ID":51,
+                        "name":"Scara 51",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/2rk25g.jpeg"
+                    },
+                    {
+                        "ID":52,
+                        "name":"Scara 52",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/73wyzw.jpeg"
+                    },
+                    {
+                        "ID":53,
+                        "name":"Scara 53",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/9zmpz7.jpeg"
+                    },
+                    {
+                        "ID":54,
+                        "name":"Scara 54",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/086o4f.jpeg"
+                    },
+                    {
+                        "ID":55,
+                        "name":"Scara 55",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/5zfkgg.jpeg"
+                    },
+                    {
+                        "ID":56,
+                        "name":"Scara 56",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/cjib38.jpeg"
+                    },
+                    {
+                        "ID":57,
+                        "name":"Scara 57",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/dl26vf.jpeg"
+                    },
+                    {
+                        "ID":58,
+                        "name":"Scara 58",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/esan28.jpeg"
+                    },
+                    {
+                        "ID":59,
+                        "name":"Scara 59",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/rwp0xu.jpeg"
+                    },
+                    {
+                        "ID":60,
+                        "name":"Scara 60",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/954qc5.jpeg"
+                    },
+                    {
+                        "ID":61,
+                        "name":"Scara 61",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/0uz307.jpeg"
+                    },
+                    {
+                        "ID":62,
+                        "name":"Scara 62",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/inwxm9.jpeg"
+                    },
+                    {
+                        "ID":63,
+                        "name":"Scara 63",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/6z9yrq.jpeg"
+                    },
+                    {
+                        "ID":64,
+                        "name":"Scara 64",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/a7eh4p.jpeg"
+                    },
+                    {
+                        "ID":65,
+                        "name":"Scara 65",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/7wyirv.jpeg"
+                    },
+                    {
+                        "ID":66,
+                        "name":"Scara 66",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/g1jqki.jpeg"
+                    },
+                    {
+                        "ID":67,
+                        "name":"Scara 67",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/0wzwgv.jpeg"
+                    },
+                    {
+                        "ID":68,
+                        "name":"Scara 68",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/5txa91.jpeg"
+                    },
+                    {
+                        "ID":69,
+                        "name":"Scara 69",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/0qz5k3.jpeg"
+                    },
+                    {
+                        "ID":70,
+                        "name":"Scara 70",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/p3e9wl.jpeg"
+                    },
+                    {
+                        "ID":71,
+                        "name":"Scara 71",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/mjc2if.jpeg"
+                    },
+                    {
+                        "ID":72,
+                        "name":"Scara 72",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/cqysfc.jpeg"
+                    },
+                    {
+                        "ID":73,
+                        "name":"Scara 73",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/tb7dw3.jpeg"
+                    },
+                    {
+                        "ID":74,
+                        "name":"Scara 74",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/4a8m3y.jpeg"
+                    },
+                    {
+                        "ID":75,
+                        "name":"Scara 75",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/r552ej.jpeg"
+                    },
+                    {
+                        "ID":76,
+                        "name":"Scara 76",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/nrvcp5.jpeg"
+                    },
+                    {
+                        "ID":77,
+                        "name":"Scara 77",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/p3y9m8.jpeg"
+                    },
+                    {
+                        "ID":78,
+                        "name":"Scara 78",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/xmcx7w.jpeg"
+                    },
+                    {
+                        "ID":79,
+                        "name":"Scara 79",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/dslncr.jpeg"
+                    },
+                    {
+                        "ID":80,
+                        "name":"Scara 80",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/5qei8r.jpeg"
+                    },
+                    {
+                        "ID":81,
+                        "name":"Scara 81",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ixforp.jpeg"
+                    },
+                    {
+                        "ID":82,
+                        "name":"Scara 82",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/cktop5.jpeg"
+                    },
+                    {
+                        "ID":83,
+                        "name":"Scara 83",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/6j9h89.jpeg"
+                    },
+                    {
+                        "ID":84,
+                        "name":"Scara 84",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/znzd6o.jpeg"
+                    },
+                    {
+                        "ID":85,
+                        "name":"Scara 85",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ix9jfz.jpeg"
+                    },
+                    {
+                        "ID":86,
+                        "name":"Scara 86",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/uycfbm.jpeg"
+                    },
+                    {
+                        "ID":87,
+                        "name":"Scara 87",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/szc5ay.jpeg"
+                    },
+                    {
+                        "ID":88,
+                        "name":"Scara 88",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/cn41n1.jpeg"
+                    },
+                    {
+                        "ID":89,
+                        "name":"Scara 89",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/p4k9ox.jpeg"
+                    },
+                    {
+                        "ID":90,
+                        "name":"Scara 90",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/1mj3py.jpeg"
+                    },
+                    {
+                        "ID":91,
+                        "name":"Scara 91",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/4dlcv5.jpeg"
+                    },
+                    {
+                        "ID":92,
+                        "name":"Scara 92",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/jw87ye.jpeg"
+                    },
+                    {
+                        "ID":93,
+                        "name":"Scara 93",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/sqd4n8.jpeg"
+                    },
+                    {
+                        "ID":94,
+                        "name":"Scara 94",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/0dzkte.jpeg"
+                    },
+                    {
+                        "ID":95,
+                        "name":"Scara 95",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/3riwo2.jpeg"
+                    },
+                    {
+                        "ID":96,
+                        "name":"Scara 96",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/grqwt6.jpeg"
+                    },
+                    {
+                        "ID":97,
+                        "name":"Scara 97",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/a976fh.jpeg"
+                    },
+                    {
+                        "ID":98,
+                        "name":"Scara 98",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://fioles.catbox.moe/e7i3j1.jpeg"
+                    },
+                    {
+                        "ID":99,
+                        "name":"Scara 99",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/j0pvj3.jpeg"
+                    },
+                    {
+                        "ID":100,
+                        "name":"Scara 100",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/h9iy0u.jpeg "
                     }
                 ]
             }
