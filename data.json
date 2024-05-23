@@ -4007,33 +4007,9 @@
                         "image": "https://files.catbox.moe/7hm109.jpeg"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "location":"Saver TD",
-        "area":[
+            },
             {   
-                "ID": 0,
-                "name":"Girl",
-                "creature":[
-                    {
-                        "ID":1,
-                        "name":"Girl 1",
-                        "category":"Unknown",
-                        "size":99999,
-                        "sell":10,
-                        "image": "https://i.imgur.com/ieCg2dh.jpg"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "location":"Saver RIÊNG",
-        "area":[
-            {   
-                "ID": 0,
+                "ID": 1,
                 "name":"Ck Zin",
                 "creature":[
                     {
@@ -4834,7 +4810,26 @@
                         "category":"Common",
                         "size":11,
                         "sell":1,
-                        "image": " https://files.catbox.moe/p3y9m8.jpeg"
+                        "image": "https://files.catbox.moe/p3y9m8.jpeg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "location":"Saver TD",
+        "area":[
+            {   
+                "ID": 0,
+                "name":"Girl",
+                "creature":[
+                    {
+                        "ID":1,
+                        "name":"Girl 1",
+                        "category":"Unknown",
+                        "size":99999,
+                        "sell":10,
+                        "image": "https://i.imgur.com/ieCg2dh.jpg"
                     }
                 ]
             }
