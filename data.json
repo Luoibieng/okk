@@ -4813,32 +4813,9 @@
                         "image": "https://files.catbox.moe/p3y9m8.jpeg"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "location":"Saver TD",
-        "area":[
+            },
             {   
-                "ID": 0,
-                "name":"Girl",
-                "creature":[
-                    {
-                        "ID":1,
-                        "name":"Girl 1",
-                        "category":"Unknown",
-                        "size":99999,
-                        "sell":10,
-                        "image": "https://i.imgur.com/ieCg2dh.jpg"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "location":"Saver Riêng",
-            {   
-                "ID": 0,
+                "ID": 2,
                 "name":"Lag",
                 "creature":[
                     {
@@ -8841,6 +8818,25 @@
                         "size":11,
                         "sell":1,
                         "image": "https://files.catbox.moe/s9yx7z.jpeg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "location":"Saver TD",
+        "area":[
+            {   
+                "ID": 0,
+                "name":"Girl",
+                "creature":[
+                    {
+                        "ID":1,
+                        "name":"Girl 1",
+                        "category":"Unknown",
+                        "size":99999,
+                        "sell":10,
+                        "image": "https://i.imgur.com/ieCg2dh.jpg"
                     }
                 ]
             }
