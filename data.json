@@ -4810,7 +4810,7 @@
                         "category":"Common",
                         "size":11,
                         "sell":1,
-                        "image": "https://files.catbox.moe/p3y9m8.jpeg "
+                        "image": "https://files.catbox.moe/p3y9m8.jpeg"
                     }
                 ]
             }
@@ -4830,6 +4830,4017 @@
                         "size":99999,
                         "sell":10,
                         "image": "https://i.imgur.com/ieCg2dh.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "location":"Saver Riêng",
+            {   
+                "ID": 0,
+                "name":"Lag",
+                "creature":[
+                    {
+                        "ID":1,
+                        "name":"Múp 1",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/q1tioj.jpeg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Múp 2",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/3qw1ps.jpeg"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Múp 3",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/ezir4i.jpeg"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Múp 4",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/8kyxx3.jpeg"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Múp 5",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/y611rw.jpeg"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Múp 6",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/a0o69p.jpeg"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Múp 7",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/ob8mnu.jpeg"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Múp 8",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/w7u0fi.jpeg"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Múp 9",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/1mbecs.jpeg"
+                    },
+                    {
+                        "ID":10,
+                        "name":"Múp 10",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/3togyy.jpeg"
+                    },
+                    {
+                        "ID":11,
+                        "name":"Múp 11",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/8mmij5.jpeg"
+                    },
+                    {
+                        "ID":12,
+                        "name":"Múp 12",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/246g6s.jpeg"
+                    },
+                    {
+                        "ID":13,
+                        "name":"Múp 13",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/h7resl.jpeg"
+                    },
+                    {
+                        "ID":14,
+                        "name":"Múp 14",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/xbfwce.jpeg"
+                    },
+                    {
+                        "ID":15,
+                        "name":"Múp 15",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/70cvsf.jpeg"
+                    },
+                    {
+                        "ID":16,
+                        "name":"Múp 16",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/6kqaik.jpeg"
+                    },
+                    {
+                        "ID":17,
+                        "name":"Múp 17",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/k0lfd9.jpeg"
+                    },
+                    {
+                        "ID":18,
+                        "name":"Múp 18",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/xjk7x4.jpeg"
+                    },
+                    {
+                        "ID":19,
+                        "name":"Múp 19",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/3hc9h9.jpeg"
+                    },
+                    {
+                        "ID":20,
+                        "name":"Múp 20",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/knmsyg.jpeg"
+                    },
+                    {
+                        "ID":21,
+                        "name":"Múp 21",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/u3qj4b.jpeg"
+                    },
+                    {
+                        "ID":22,
+                        "name":"Múp 22",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/vjioos.jpeg"
+                    },
+                    {
+                        "ID":23,
+                        "name":"Múp 23",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/gbwydr.jpeg"
+                    },
+                    {
+                        "ID":24,
+                        "name":"Múp 24",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/j7m3nq.jpeg"
+                    },
+                    {
+                        "ID":25,
+                        "name":"Múp 25",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/obb8e3.jpeg"
+                    },
+                    {
+                        "ID":26,
+                        "name":"Múp 26",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/gc502w.jpeg"
+                    },
+                    {
+                        "ID":27,
+                        "name":"Múp 27",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/pl8dgt.jpeg"
+                    },
+                    {
+                        "ID":28,
+                        "name":"Múp 28",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/c5qj98.jpeg"
+                    },
+                    {
+                        "ID":29,
+                        "name":"Múp 29",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/3iohz7.jpeg"
+                    },
+                    {
+                        "ID":30,
+                        "name":"Múp 30",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/pyjbo4.jpeg"
+                    },
+                    {
+                        "ID":31,
+                        "name":"Múp 31",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/wra8tc.jpeg"
+                    },
+                    {
+                        "ID":32,
+                        "name":"Múp 32",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/054i10.jpeg"
+                    },
+                    {
+                        "ID":33,
+                        "name":"Múp 33",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/dxd0c9.jpeg"
+                    },
+                    {
+                        "ID":34,
+                        "name":"Múp 34",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/h3q24y.jpeg"
+                    },
+                    {
+                        "ID":35,
+                        "name":"Múp 35",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/36nvh6.jpeg"
+                    },
+                    {
+                        "ID":36,
+                        "name":"Múp 36",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/qqu0fk.jpeg"
+                    },
+                    {
+                        "ID":37,
+                        "name":"Múp 37",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/ldjh5d.jpeg"
+                    },
+                    {
+                        "ID":38,
+                        "name":"Múp 38",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/qtw0v9.jpeg"
+                    },
+                    {
+                        "ID":39,
+                        "name":"Múp 39",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/30xfdo.jpeg"
+                    },
+                    {
+                        "ID":40,
+                        "name":"Múp 40",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/0g4wp9.jpeg"
+                    },
+                    {
+                        "ID":41,
+                        "name":"Múp 41",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/k348kj.jpeg"
+                    },
+                    {
+                        "ID":42,
+                        "name":"Múp 42",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/pbub0y.jpeg"
+                    },
+                    {
+                        "ID":43,
+                        "name":"Múp 43",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/dfljnu.jpeg"
+                    },
+                    {
+                        "ID":44,
+                        "name":"Múp 44",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/ucx633.jpeg"
+                    },
+                    {
+                        "ID":45,
+                        "name":"Múp 45",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/um0yts.jpeg"
+                    },
+                    {
+                        "ID":46,
+                        "name":"Múp 46",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/1ozieb.jpeg"
+                    },
+                    {
+                        "ID":47,
+                        "name":"Múp 47",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/ncarxg.jpeg"
+                    },
+                    {
+                        "ID":48,
+                        "name":"Múp 48",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/5bbq1h.jpeg"
+                    },
+                    {
+                        "ID":49,
+                        "name":"Múp 49",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/bzir6z.jpeg"
+                    },
+                    {
+                        "ID":50,
+                        "name":"Múp 50",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/cv8ta4.jpeg"
+                    },
+                    {
+                        "ID":51,
+                        "name":"Múp 51",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/gjgezv.jpeg"
+                    },
+                    {
+                        "ID":52,
+                        "name":"Múp 52",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/z4ot27.jpeg"
+                    },
+                    {
+                        "ID":53,
+                        "name":"Múp 53",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/r722b6.jpeg"
+                    },
+                    {
+                        "ID":54,
+                        "name":"Múp 54",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/uvbgfp.jpeg"
+                    },
+                    {
+                        "ID":55,
+                        "name":"Múp 55",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/wcndkw.jpeg"
+                    },
+                    {
+                        "ID":56,
+                        "name":"Múp 56",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/lnndnb.jpeg"
+                    },
+                    {
+                        "ID":57,
+                        "name":"Múp 57",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/p5z1wb.jpeg"
+                    },
+                    {
+                        "ID":58,
+                        "name":"Múp 58",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/17jjqk.jpeg"
+                    },
+                    {
+                        "ID":59,
+                        "name":"Múp 59",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/sckkdo.jpeg"
+                    },
+                    {
+                        "ID":60,
+                        "name":"Múp 60",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/7w2y8y.jpeg"
+                    },
+                    {
+                        "ID":61,
+                        "name":"Múp 61",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ejwznl.jpeg"
+                    },
+                    {
+                        "ID":62,
+                        "name":"Múp 62",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/8f44b0.jpeg"
+                    },
+                    {
+                        "ID":63,
+                        "name":"Múp 63",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/hzcx1y.jpeg"
+                    },
+                    {
+                        "ID":64,
+                        "name":"Múp 64",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/8gt0fi.jpeg"
+                    },
+                    {
+                        "ID":65,
+                        "name":"Múp 65",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/k6ex5l.jpeg"
+                    },
+                    {
+                        "ID":66,
+                        "name":"Múp 66",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/7v6v8e.jpeg"
+                    },
+                    {
+                        "ID":67,
+                        "name":"Múp 67",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/85zcll.jpeg"
+                    },
+                    {
+                        "ID":68,
+                        "name":"Múp 68",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/vn2wrr.jpeg"
+                    },
+                    {
+                        "ID":69,
+                        "name":"Múp 69",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ygyhgj.jpeg"
+                    },
+                    {
+                        "ID":70,
+                        "name":"Múp 70",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/9wjiv9.jpeg"
+                    },
+                    {
+                        "ID":71,
+                        "name":"Múp 71",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/tb32ca.jpeg"
+                    },
+                    {
+                        "ID":72,
+                        "name":"Múp 72",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/wpw6qx.jpeg"
+                    },
+                    {
+                        "ID":73,
+                        "name":"Múp 73",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/mihyql.jpeg"
+                    },
+                    {
+                        "ID":74,
+                        "name":"Múp 74",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/shefbf.jpeg"
+                    },
+                    {
+                        "ID":75,
+                        "name":"Múp 75",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/p8osju.jpeg"
+                    },
+                    {
+                        "ID":76,
+                        "name":"Múp 76",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/9n62ml.jpeg"
+                    },
+                    {
+                        "ID":77,
+                        "name":"Múp 77",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/qfv8c9.jpeg"
+                    },
+                    {
+                        "ID":78,
+                        "name":"Múp 78",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/zf7hmc.jpeg"
+                    },
+                    {
+                        "ID":79,
+                        "name":"Múp 79",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/2xbcir.jpeg"
+                    },
+                    {
+                        "ID":80,
+                        "name":"Múp 80",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/e9y2jz.jpeg"
+                    },
+                    {
+                        "ID":81,
+                        "name":"Múp 81",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/s7cvkw.jpeg"
+                    },
+                    {
+                        "ID":82,
+                        "name":"Múp 82",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/bjji4k.jpeg"
+                    },
+                    {
+                        "ID":83,
+                        "name":"Múp 83",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/9aw1u7.jpeg"
+                    },
+                    {
+                        "ID":84,
+                        "name":"Múp 84",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/3zpuif.jpeg"
+                    },
+                    {
+                        "ID":85,
+                        "name":"Múp 85",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/vntpqt.jpeg"
+                    },
+                    {
+                        "ID":86,
+                        "name":"Múp 86",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/hbnhgw.jpeg"
+                    },
+                    {
+                        "ID":87,
+                        "name":"Múp 87",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/yqke60.jpeg"
+                    },
+                    {
+                        "ID":88,
+                        "name":"Múp 88",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/va5g50.jpeg"
+                    },
+                    {
+                        "ID":89,
+                        "name":"Múp 89",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/kattb0.jpeg"
+                    },
+                    {
+                        "ID":90,
+                        "name":"Múp 90",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/50zq71.jpeg"
+                    },
+                    {
+                        "ID":91,
+                        "name":"Múp 91",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/vabo24.jpeg"
+                    },
+                    {
+                        "ID":92,
+                        "name":"Múp 92",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/wmcq2n.jpeg"
+                    },
+                    {
+                        "ID":93,
+                        "name":"Múp 93",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/7web3m.jpeg"
+                    },
+                    {
+                        "ID":94,
+                        "name":"Múp 94",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/5x85t0.jpeg"
+                    },
+                    {
+                        "ID":95,
+                        "name":"Múp 95",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/9bu0ym.jpeg"
+                    },
+                    {
+                        "ID":96,
+                        "name":"Múp 96",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/hufwa8.jpeg"
+                    },
+                    {
+                        "ID":97,
+                        "name":"Múp 97",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/7wpgy1.jpeg"
+                    },
+                    {
+                        "ID":98,
+                        "name":"Múp 98",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/dxmh0q.jpeg"
+                    },
+                    {
+                        "ID":99,
+                        "name":"Múp 99",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ysa362.jpeg"
+                    },
+                    {
+                        "ID":100,
+                        "name":"Múp 100",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/iu68sr.jpeg"
+                    },
+                    {
+                        "ID":101,
+                        "name":"Múp 101",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/p7zsij.jpeg"
+                    },
+                    {
+                        "ID":102,
+                        "name":"Múp 102",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/5dfj7s.jpeg"
+                    },
+                    {
+                        "ID":103,
+                        "name":"Múp 103",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/9gxqy4.jpeg"
+                    },
+                    {
+                        "ID":104,
+                        "name":"Múp 104",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/ryi601.jpeg"
+                    },
+                    {
+                        "ID":105,
+                        "name":"Múp 105",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/8c07do.jpeg"
+                    },
+                    {
+                        "ID":106,
+                        "name":"Múp 106",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/5g5j1y.jpeg"
+                    },
+                    {
+                        "ID":107,
+                        "name":"Múp 107",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/xiwpgp.jpeg"
+                    },
+                    {
+                        "ID":108,
+                        "name":"Múp 108",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/4yuzkn.jpeg"
+                    },
+                    {
+                        "ID":109,
+                        "name":"Múp 109",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/e8skal.jpeg"
+                    },
+                    {
+                        "ID":110,
+                        "name":"Múp 110",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/mg25t7.jpeg"
+                    },
+                    {
+                        "ID":111,
+                        "name":"Múp 111",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/qdnltd.jpeg"
+                    },
+                    {
+                        "ID":112,
+                        "name":"Múp 112",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/c85721.jpeg"
+                    },
+                    {
+                        "ID":113,
+                        "name":"Múp 113",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/v8r7mr.jpeg"
+                    },
+                    {
+                        "ID":114,
+                        "name":"Múp 114",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/i2h93c.jpeg"
+                    },
+                    {
+                        "ID":115,
+                        "name":"Múp 115",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/onc133.jpeg"
+                    },
+                    {
+                        "ID":116,
+                        "name":"Múp 116",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/6l0yqi.jpeg"
+                    },
+                    {
+                        "ID":117,
+                        "name":"Múp 117",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/bemt93.jpeg"
+                    },
+                    {
+                        "ID":118,
+                        "name":"Múp 118",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/d2qp6n.jpeg"
+                    },
+                    {
+                        "ID":119,
+                        "name":"Múp 119",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/1gykz0.jpeg"
+                    },
+                    {
+                        "ID":120,
+                        "name":"Múp 120",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/dmpbwh.jpeg"
+                    },
+                    {
+                        "ID":121,
+                        "name":"Múp 121",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/5s113d.jpeg"
+                    },
+                    {
+                        "ID":122,
+                        "name":"Múp 122",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/2bnqqi.jpeg"
+                    },
+                    {
+                        "ID":123,
+                        "name":"Múp 123",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/fj40rt.jpeg"
+                    },
+                    {
+                        "ID":124,
+                        "name":"Múp 124",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/n99f4r.jpeg"
+                    },
+                    {
+                        "ID":125,
+                        "name":"Múp 125",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/y5y1ut.jpeg"
+                    },
+                    {
+                        "ID":126,
+                        "name":"Múp 126",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/qw3aeb.jpeg"
+                    },
+                    {
+                        "ID":127,
+                        "name":"Múp 127",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/e2rcdk.jpeg"
+                    },
+                    {
+                        "ID":128,
+                        "name":"Múp 128",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/tx9wzv.jpeg"
+                    },
+                    {
+                        "ID":129,
+                        "name":"Múp 129",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/5pahd0.jpeg"
+                    },
+                    {
+                        "ID":130,
+                        "name":"Múp 130",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/wiw4em.jpeg"
+                    },
+                    {
+                        "ID":131,
+                        "name":"Múp 131",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/0id4h7.jpeg"
+                    },
+                    {
+                        "ID":132,
+                        "name":"Múp 132",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/n2odl3.jpeg"
+                    },
+                    {
+                        "ID":133,
+                        "name":"Múp 133",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/ln0otw.jpeg"
+                    },
+                    {
+                        "ID":134,
+                        "name":"Múp 134",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/8nkjrb.jpeg"
+                    },
+                    {
+                        "ID":135,
+                        "name":"Múp 135",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/gek80e.jpeg"
+                    },
+                    {
+                        "ID":136,
+                        "name":"Múp 136",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/fle84j.jpeg"
+                    },
+                    {
+                        "ID":137,
+                        "name":"Múp 137",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/1v5zep.jpeg"
+                    },
+                    {
+                        "ID":138,
+                        "name":"Múp 138",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/eucif5.jpeg"
+                    },
+                    {
+                        "ID":139,
+                        "name":"Múp 139",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/9zdz5t.jpeg"
+                    },
+                    {
+                        "ID":140,
+                        "name":"Múp 140",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/1dw2lm.jpeg"
+                    },
+                    {
+                        "ID":141,
+                        "name":"Múp 141",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/71odcs.jpeg"
+                    },
+                    {
+                        "ID":142,
+                        "name":"Múp 142",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/k6nhn0.jpeg"
+                    },
+                    {
+                        "ID":143,
+                        "name":"Múp 143",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/vp0c5k.jpeg"
+                    },
+                    {
+                        "ID":144,
+                        "name":"Múp 144",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/x7z9am.jpeg"
+                    },
+                    {
+                        "ID":145,
+                        "name":"Múp 145",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/5hglow.jpeg"
+                    },
+                    {
+                        "ID":146,
+                        "name":"Múp 146",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/mk96d6.jpeg"
+                    },
+                    {
+                        "ID":147,
+                        "name":"Múp 147",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/e5ndud.jpeg"
+                    },
+                    {
+                        "ID":148,
+                        "name":"Múp 148",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/m1ia66.jpeg"
+                    },
+                    {
+                        "ID":149,
+                        "name":"Múp 149",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/95lgxg.jpeg"
+                    },
+                    {
+                        "ID":150,
+                        "name":"Múp 150",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/u5uyq1.jpeg"
+                    },
+                    {
+                        "ID":151,
+                        "name":"Múp 151",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/0hgefw.jpeg"
+                    },
+                    {
+                        "ID":152,
+                        "name":"Múp 152",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/97jnom.jpeg"
+                    },
+                    {
+                        "ID":153,
+                        "name":"Múp 153",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/k5wq0r.jpeg"
+                    },
+                    {
+                        "ID":154,
+                        "name":"Múp 154",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/jjcv6h.jpeg"
+                    },
+                    {
+                        "ID":155,
+                        "name":"Múp 155",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/wljou0.jpeg"
+                    },
+                    {
+                        "ID":156,
+                        "name":"Múp 156",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/h90epp.jpeg"
+                    },
+                    {
+                        "ID":157,
+                        "name":"Múp 157",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/er78fr.jpeg"
+                    },
+                    {
+                        "ID":158,
+                        "name":"Múp 158",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/ce1dbf.jpeg"
+                    },
+                    {
+                        "ID":159,
+                        "name":"Múp 159",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/srjrrs.jpeg"
+                    },
+                    {
+                        "ID":160,
+                        "name":"Múp 160",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/65t91l.jpeg"
+                    },
+                    {
+                        "ID":161,
+                        "name":"Múp 161",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/nehp42.jpeg"
+                    },
+                    {
+                        "ID":162,
+                        "name":"Múp 162",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/w4ay10.jpeg"
+                    },
+                    {
+                        "ID":163,
+                        "name":"Múp 163",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/zbr9y8.jpeg"
+                    },
+                    {
+                        "ID":164,
+                        "name":"Múp 164",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/q642n3.jpeg"
+                    },
+                    {
+                        "ID":165,
+                        "name":"Múp 165",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ysuy8a.jpeg"
+                    },
+                    {
+                        "ID":166,
+                        "name":"Múp 166",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/77qfhd.jpeg"
+                    },
+                    {
+                        "ID":167,
+                        "name":"Múp 167",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ysiidc.jpeg"
+                    },
+                    {
+                        "ID":168,
+                        "name":"Múp 168",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/gwys9i.jpeg"
+                    },
+                    {
+                        "ID":169,
+                        "name":"Múp 169",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/8u9mem.jpeg"
+                    },
+                    {
+                        "ID":170,
+                        "name":"Múp 170",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/5dw4tk.jpeg"
+                    },
+                    {
+                        "ID":171,
+                        "name":"Múp 171",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/k58rdu.jpeg"
+                    },
+                    {
+                        "ID":172,
+                        "name":"Múp 172",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/1kpz5n.jpeg"
+                    },
+                    {
+                        "ID":173,
+                        "name":"Múp 173",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/tiehua.jpeg"
+                    },
+                    {
+                        "ID":174,
+                        "name":"Múp 174",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/7c5i6x.jpeg"
+                    },
+                    {
+                        "ID":175,
+                        "name":"Múp 175",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/bobmpl.jpeg"
+                    },
+                    {
+                        "ID":176,
+                        "name":"Múp 176",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/gbhv4o.jpeg"
+                    },
+                    {
+                        "ID":177,
+                        "name":"Múp 177",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ffqvhi.jpeg"
+                    },
+                    {
+                        "ID":178,
+                        "name":"Múp 178",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/jxoej8.jpeg"
+                    },
+                    {
+                        "ID":179,
+                        "name":"Múp 179",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/gnqu9p.jpeg"
+                    },
+                    {
+                        "ID":180,
+                        "name":"Múp 180",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/1gylq2.jpeg"
+                    },
+                    {
+                        "ID":181,
+                        "name":"Múp 181",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/bfb6xo.jpeg"
+                    },
+                    {
+                        "ID":182,
+                        "name":"Múp 182",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/18rxx2.jpeg"
+                    },
+                    {
+                        "ID":183,
+                        "name":"Múp 183",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/d6vk9d.jpeg"
+                    },
+                    {
+                        "ID":184,
+                        "name":"Múp 184",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/4x9zri.jpeg"
+                    },
+                    {
+                        "ID":185,
+                        "name":"Múp 185",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/xomgad.jpeg"
+                    },
+                    {
+                        "ID":186,
+                        "name":"Múp 186",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ppeez3.jpeg"
+                    },
+                    {
+                        "ID":187,
+                        "name":"Múp 187",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/e4l8y8.jpeg"
+                    },
+                    {
+                        "ID":188,
+                        "name":"Múp 188",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/kb1dbu.jpeg"
+                    },
+                    {
+                        "ID":189,
+                        "name":"Múp 189",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ig5msw.jpeg"
+                    },
+                    {
+                        "ID":190,
+                        "name":"Múp 190",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/shn7ue.jpeg"
+                    },
+                    {
+                        "ID":191,
+                        "name":"Múp 191",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/avl1dk.jpeg"
+                    },
+                    {
+                        "ID":192,
+                        "name":"Múp 192",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/j4k7gc.jpeg"
+                    },
+                    {
+                        "ID":193,
+                        "name":"Múp 193",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/n125ez.jpeg"
+                    },
+                    {
+                        "ID":194,
+                        "name":"Múp 194",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ubblfm.jpeg"
+                    },
+                    {
+                        "ID":195,
+                        "name":"Múp 195",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/okvwdj.jpeg"
+                    },
+                    {
+                        "ID":196,
+                        "name":"Múp 196",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/3v1fpv.jpeg"
+                    },
+                    {
+                        "ID":197,
+                        "name":"Múp 197",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/65i5kr.jpeg"
+                    },
+                    {
+                        "ID":198,
+                        "name":"Múp 198",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/gkt3ql.jpeg"
+                    },
+                    {
+                        "ID":199,
+                        "name":"Múp 199",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/fasohz.jpeg"
+                    },
+                    {
+                        "ID":200,
+                        "name":"Múp 200",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/lx7kqn.jpeg"
+                    },
+                    {
+                        "ID":201,
+                        "name":"Múp 201",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/6myuao.jpeg"
+                    },
+                    {
+                        "ID":202,
+                        "name":"Múp 202",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/nh36rm.jpeg"
+                    },
+                    {
+                        "ID":203,
+                        "name":"Múp 203",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/90d6ed.jpeg"
+                    },
+                    {
+                        "ID":204,
+                        "name":"Múp 204",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/vzhri2.jpeg"
+                    },
+                    {
+                        "ID":205,
+                        "name":"Múp 205",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/8910nm.jpeg"
+                    },
+                    {
+                        "ID":206,
+                        "name":"Múp 206",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/cofhi7.jpeg"
+                    },
+                    {
+                        "ID":207,
+                        "name":"Múp 207",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/meu56w.jpeg"
+                    },
+                    {
+                        "ID":208,
+                        "name":"Múp 208",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/ihkymd.jpeg"
+                    },
+                    {
+                        "ID":209,
+                        "name":"Múp 209",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/6wyza9.jpeg"
+                    },
+                    {
+                        "ID":210,
+                        "name":"Múp 210",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/lljlsn.jpeg"
+                    },
+                    {
+                        "ID":211,
+                        "name":"Múp 211",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/jsrvlx.jpeg"
+                    },
+                    {
+                        "ID":212,
+                        "name":"Múp 212",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/lhg5aw.jpeg"
+                    },
+                    {
+                        "ID":213,
+                        "name":"Múp 213",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/8542bh.jpeg"
+                    },
+                    {
+                        "ID":214,
+                        "name":"Múp 214",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/adm1eu.jpeg"
+                    },
+                    {
+                        "ID":215,
+                        "name":"Múp 215",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/m8b7ht.jpeg"
+                    },
+                    {
+                        "ID":216,
+                        "name":"Múp 216",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/al1wsq.jpeg"
+                    },
+                    {
+                        "ID":217,
+                        "name":"Múp 217",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/m3qe4e.jpeg"
+                    },
+                    {
+                        "ID":218,
+                        "name":"Múp 218",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/4e6i8z.jpeg"
+                    },
+                    {
+                        "ID":219,
+                        "name":"Múp 219",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/vo0xqh.jpeg"
+                    },
+                    {
+                        "ID":220,
+                        "name":"Múp 220",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/ftry43.jpeg"
+                    },
+                    {
+                        "ID":221,
+                        "name":"Múp 221",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/8xjhwn.jpeg"
+                    },
+                    {
+                        "ID":222,
+                        "name":"Múp 222",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/ifc6mc.jpeg"
+                    },
+                    {
+                        "ID":223,
+                        "name":"Múp 223",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/iqmem5.jpeg"
+                    },
+                    {
+                        "ID":224,
+                        "name":"Múp 224",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/aun5i8.jpeg"
+                    },
+                    {
+                        "ID":225,
+                        "name":"Múp 225",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/uerwzs.jpeg"
+                    },
+                    {
+                        "ID":226,
+                        "name":"Múp 226",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/qttj4e.jpeg"
+                    },
+                    {
+                        "ID":227,
+                        "name":"Múp 227",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/1z58b6.jpeg"
+                    },
+                    {
+                        "ID":228,
+                        "name":"Múp 228",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/sz08gi.jpeg"
+                    },
+                    {
+                        "ID":229,
+                        "name":"Múp 229",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/0evea8.jpeg"
+                    },
+                    {
+                        "ID":230,
+                        "name":"Múp 230",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/h1x82r.jpeg"
+                    },
+                    {
+                        "ID":231,
+                        "name":"Múp 231",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/09ogcl.jpeg"
+                    },
+                    {
+                        "ID":232,
+                        "name":"Múp 232",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/kffqs1.jpeg"
+                    },
+                    {
+                        "ID":233,
+                        "name":"Múp 233",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/m8qk0i.jpeg"
+                    },
+                    {
+                        "ID":234,
+                        "name":"Múp 234",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/lggcth.jpeg"
+                    },
+                    {
+                        "ID":235,
+                        "name":"Múp 235",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/c2ih1b.jpeg"
+                    },
+                    {
+                        "ID":236,
+                        "name":"Múp 236",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/8kdssm.jpeg"
+                    },
+                    {
+                        "ID":237,
+                        "name":"Múp 237",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/mqtxmr.jpeg"
+                    },
+                    {
+                        "ID":238,
+                        "name":"Múp 238",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/jh1aqw.jpeg"
+                    },
+                    {
+                        "ID":239,
+                        "name":"Múp 239",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/v9ggj6.jpeg"
+                    },
+                    {
+                        "ID":240,
+                        "name":"Múp 240",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/8bi0lu.jpeg"
+                    },
+                    {
+                        "ID":241,
+                        "name":"Múp 241",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/a0iwn2.jpeg"
+                    },
+                    {
+                        "ID":242,
+                        "name":"Múp 242",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/wiv46l.jpeg"
+                    },
+                    {
+                        "ID":243,
+                        "name":"Múp 243",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/jt97p3.jpeg"
+                    },
+                    {
+                        "ID":244,
+                        "name":"Múp 244",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/6z6fnu.jpeg"
+                    },
+                    {
+                        "ID":245,
+                        "name":"Múp 245",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/zzqvr3.jpeg"
+                    },
+                    {
+                        "ID":246,
+                        "name":"Múp 246",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/irj94m.jpeg"
+                    },
+                    {
+                        "ID":247,
+                        "name":"Múp 247",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/732riy.jpeg"
+                    },
+                    {
+                        "ID":248,
+                        "name":"Múp 248",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/aqdu5b.jpeg"
+                    },
+                    {
+                        "ID":249,
+                        "name":"Múp 249",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/fe6sia.jpeg"
+                    },
+                    {
+                        "ID":250,
+                        "name":"Múp 250",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/ubn6g3.jpeg"
+                    },
+                    {
+                        "ID":251,
+                        "name":"Múp 251",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/s2khxc.jpeg"
+                    },
+                    {
+                        "ID":252,
+                        "name":"Múp 252",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/hejugp.jpeg"
+                    },
+                    {
+                        "ID":253,
+                        "name":"Múp 253",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/kwz64q.jpeg"
+                    },
+                    {
+                        "ID":254,
+                        "name":"Múp 254",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/om0kfi.jpeg"
+                    },
+                    {
+                        "ID":255,
+                        "name":"Múp 255",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/9eimjf.jpeg"
+                    },
+                    {
+                        "ID":256,
+                        "name":"Múp 256",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/0u3tiu.jpeg"
+                    },
+                    {
+                        "ID":257,
+                        "name":"Múp 257",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/mpb0p4.jpeg"
+                    },
+                    {
+                        "ID":258,
+                        "name":"Múp 258",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/pjhang.jpeg"
+                    },
+                    {
+                        "ID":259,
+                        "name":"Múp 259",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/do05l2.jpeg"
+                    },
+                    {
+                        "ID":260,
+                        "name":"Múp 260",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/4d6ht8.jpeg"
+                    },
+                    {
+                        "ID":261,
+                        "name":"Múp 261",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ag7tlo.jpeg"
+                    },
+                    {
+                        "ID":262,
+                        "name":"Múp 262",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ddistq.jpeg"
+                    },
+                    {
+                        "ID":263,
+                        "name":"Múp 263",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ku9rgn.jpeg"
+                    },
+                    {
+                        "ID":264,
+                        "name":"Múp 264",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/kei844.jpeg"
+                    },
+                    {
+                        "ID":265,
+                        "name":"Múp 265",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/3srh7v.jpeg"
+                    },
+                    {
+                        "ID":266,
+                        "name":"Múp 266",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/o4xlbl.jpeg"
+                    },
+                    {
+                        "ID":267,
+                        "name":"Múp 267",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/o1vkav.jpeg"
+                    },
+                    {
+                        "ID":268,
+                        "name":"Múp 268",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/zmewgo.jpeg"
+                    },
+                    {
+                        "ID":269,
+                        "name":"Múp 269",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/bfcyds.jpeg"
+                    },
+                    {
+                        "ID":270,
+                        "name":"Múp 270",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/t5o6s3.jpeg"
+                    },
+                    {
+                        "ID":271,
+                        "name":"Múp 271",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/i825f2.jpeg"
+                    },
+                    {
+                        "ID":272,
+                        "name":"Múp 272",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/06yrv6.jpeg"
+                    },
+                    {
+                        "ID":273,
+                        "name":"Múp 273",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/sim565.jpeg"
+                    },
+                    {
+                        "ID":274,
+                        "name":"Múp 274",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/hxd9xk.jpeg"
+                    },
+                    {
+                        "ID":275,
+                        "name":"Múp 275",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/nlcrw6.jpeg"
+                    },
+                    {
+                        "ID":276,
+                        "name":"Múp 276",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/jdaib5.jpeg"
+                    },
+                    {
+                        "ID":277,
+                        "name":"Múp 277",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/drd4v5.jpeg"
+                    },
+                    {
+                        "ID":278,
+                        "name":"Múp 278",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/c686vv.jpeg"
+                    },
+                    {
+                        "ID":279,
+                        "name":"Múp 279",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/k6mg06.jpeg"
+                    },
+                    {
+                        "ID":280,
+                        "name":"Múp 280",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/8r5r7w.jpeg"
+                    },
+                    {
+                        "ID":281,
+                        "name":"Múp 281",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/a5on3z.jpeg"
+                    },
+                    {
+                        "ID":282,
+                        "name":"Múp 282",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/bgg18m.jpeg"
+                    },
+                    {
+                        "ID":283,
+                        "name":"Múp 283",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/4gerxi.jpeg"
+                    },
+                    {
+                        "ID":284,
+                        "name":"Múp 284",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ep7413.jpeg"
+                    },
+                    {
+                        "ID":285,
+                        "name":"Múp 285",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/quecxp.jpeg"
+                    },
+                    {
+                        "ID":286,
+                        "name":"Múp 286",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/2tbdlo.jpeg"
+                    },
+                    {
+                        "ID":287,
+                        "name":"Múp 287",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/wgvkv5.jpeg"
+                    },
+                    {
+                        "ID":288,
+                        "name":"Múp 288",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/xthbk7.jpeg"
+                    },
+                    {
+                        "ID":289,
+                        "name":"Múp 289",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/r1ky3f.jpeg"
+                    },
+                    {
+                        "ID":290,
+                        "name":"Múp 290",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/1uybmq.jpeg"
+                    },
+                    {
+                        "ID":291,
+                        "name":"Múp 291",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ll7aq9.jpeg"
+                    },
+                    {
+                        "ID":292,
+                        "name":"Múp 292",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/n7p31i.jpeg"
+                    },
+                    {
+                        "ID":293,
+                        "name":"Múp 293",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/mxiptq.jpeg"
+                    },
+                    {
+                        "ID":294,
+                        "name":"Múp 294",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/qedo9y.jpeg"
+                    },
+                    {
+                        "ID":295,
+                        "name":"Múp 295",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/tltmcn.jpeg"
+                    },
+                    {
+                        "ID":296,
+                        "name":"Múp 296",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/guo5ub.jpeg"
+                    },
+                    {
+                        "ID":297,
+                        "name":"Múp 297",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ba3kzq.jpeg"
+                    },
+                    {
+                        "ID":298,
+                        "name":"Múp 298",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/7hsb8u.jpeg"
+                    },
+                    {
+                        "ID":299,
+                        "name":"Múp 299",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/yp31ub.jpeg"
+                    },
+                    {
+                        "ID":300,
+                        "name":"Múp 300",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/uctczv.jpeg"
+                    },
+                    {
+                        "ID":301,
+                        "name":"Múp 301",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/owwo3g.jpeg"
+                    },
+                    {
+                        "ID":302,
+                        "name":"Múp 302",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/v0ufke.jpeg"
+                    },
+                    {
+                        "ID":303,
+                        "name":"Múp 303",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/97eqzv.jpeg"
+                    },
+                    {
+                        "ID":304,
+                        "name":"Múp 304",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/yo9062.jpeg"
+                    },
+                    {
+                        "ID":305,
+                        "name":"Múp 305",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/0cu70g.jpeg"
+                    },
+                    {
+                        "ID":306,
+                        "name":"Múp 306",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/ue054d.jpeg"
+                    },
+                    {
+                        "ID":307,
+                        "name":"Múp 307",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/0atn23.jpeg"
+                    },
+                    {
+                        "ID":308,
+                        "name":"Múp 308",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/ex6250.jpeg"
+                    },
+                    {
+                        "ID":309,
+                        "name":"Múp 309",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/qcdth2.jpeg"
+                    },
+                    {
+                        "ID":310,
+                        "name":"Múp 310",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/x6bdz9.jpeg"
+                    },
+                    {
+                        "ID":311,
+                        "name":"Múp 311",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/k452gw.jpeg"
+                    },
+                    {
+                        "ID":312,
+                        "name":"Múp 312",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/ivsveg.jpeg"
+                    },
+                    {
+                        "ID":313,
+                        "name":"Múp 313",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/u6p44f.jpeg"
+                    },
+                    {
+                        "ID":314,
+                        "name":"Múp 314",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/wlb2lo.jpeg"
+                    },
+                    {
+                        "ID":315,
+                        "name":"Múp 315",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/eh56q2.jpeg"
+                    },
+                    {
+                        "ID":316,
+                        "name":"Múp 316",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/jmvom6.jpeg"
+                    },
+                    {
+                        "ID":317,
+                        "name":"Múp 317",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/ym3ls0.jpeg"
+                    },
+                    {
+                        "ID":318,
+                        "name":"Múp 318",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/ja1clu.jpeg"
+                    },
+                    {
+                        "ID":319,
+                        "name":"Múp 319",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/eb8tbw.jpeg"
+                    },
+                    {
+                        "ID":320,
+                        "name":"Múp 320",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/7rqo8d.jpeg"
+                    },
+                    {
+                        "ID":321,
+                        "name":"Múp 321",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/wc3ric.jpeg"
+                    },
+                    {
+                        "ID":322,
+                        "name":"Múp 322",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/9ib6ip.jpeg"
+                    },
+                    {
+                        "ID":323,
+                        "name":"Múp 323",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/i14l0y.jpeg"
+                    },
+                    {
+                        "ID":324,
+                        "name":"Múp 324",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/jkfvuy.jpeg"
+                    },
+                    {
+                        "ID":325,
+                        "name":"Múp 325",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/tsm8z0.jpeg"
+                    },
+                    {
+                        "ID":326,
+                        "name":"Múp 326",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/mwczzf.jpeg"
+                    },
+                    {
+                        "ID":327,
+                        "name":"Múp 327",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/1jo7cz.jpeg"
+                    },
+                    {
+                        "ID":328,
+                        "name":"Múp 328",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/pzbbq1.jpeg"
+                    },
+                    {
+                        "ID":329,
+                        "name":"Múp 329",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/zgta4o.jpeg"
+                    },
+                    {
+                        "ID":330,
+                        "name":"Múp 330",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/jz95j8.jpeg"
+                    },
+                    {
+                        "ID":331,
+                        "name":"Múp 331",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/m3ho9h.jpeg"
+                    },
+                    {
+                        "ID":332,
+                        "name":"Múp 332",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/nhkm2t.jpeg"
+                    },
+                    {
+                        "ID":333,
+                        "name":"Múp 333",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/dskxrb.jpeg"
+                    },
+                    {
+                        "ID":334,
+                        "name":"Múp 334",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/ka2990.jpeg"
+                    },
+                    {
+                        "ID":335,
+                        "name":"Múp 335",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/rtyvnr.jpeg"
+                    },
+                    {
+                        "ID":336,
+                        "name":"Múp 336",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/9lizst.jpeg"
+                    },
+                    {
+                        "ID":337,
+                        "name":"Múp 337",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/8zcj0d.jpeg"
+                    },
+                    {
+                        "ID":338,
+                        "name":"Múp 338",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/jlfigt.jpeg"
+                    },
+                    {
+                        "ID":339,
+                        "name":"Múp 339",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/tksre9.jpeg"
+                    },
+                    {
+                        "ID":340,
+                        "name":"Múp 340",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/6mgwmg.jpeg"
+                    },
+                    {
+                        "ID":341,
+                        "name":"Múp 341",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/i5etxg.jpeg"
+                    },
+                    {
+                        "ID":342,
+                        "name":"Múp 342",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/224964.jpeg"
+                    },
+                    {
+                        "ID":343,
+                        "name":"Múp 343",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/7rq7j1.jpeg"
+                    },
+                    {
+                        "ID":344,
+                        "name":"Múp 344",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/y7c0kf.jpeg"
+                    },
+                    {
+                        "ID":345,
+                        "name":"Múp 345",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/us6b4n.jpeg"
+                    },
+                    {
+                        "ID":346,
+                        "name":"Múp 346",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/bfaohy.jpeg"
+                    },
+                    {
+                        "ID":347,
+                        "name":"Múp 347",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/c8gez3.jpeg"
+                    },
+                    {
+                        "ID":348,
+                        "name":"Múp 348",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/63t010.jpeg"
+                    },
+                    {
+                        "ID":349,
+                        "name":"Múp 349",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/k0avzw.jpeg"
+                    },
+                    {
+                        "ID":350,
+                        "name":"Múp 350",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/58v0sl.jpeg"
+                    },
+                    {
+                        "ID":351,
+                        "name":"Múp 351",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/ie0n5u.jpeg"
+                    },
+                    {
+                        "ID":352,
+                        "name":"Múp 352",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/dt9x59.jpeg"
+                    },
+                    {
+                        "ID":353,
+                        "name":"Múp 353",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/1qhcgv.jpeg"
+                    },
+                    {
+                        "ID":354,
+                        "name":"Múp 354",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/8gpa03.jpeg"
+                    },
+                    {
+                        "ID":355,
+                        "name":"Múp 355",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/gqhpdi.jpeg"
+                    },
+                    {
+                        "ID":356,
+                        "name":"Múp 356",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/dm40zw.jpeg"
+                    },
+                    {
+                        "ID":357,
+                        "name":"Múp 357",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/ongx71.jpeg"
+                    },
+                    {
+                        "ID":358,
+                        "name":"Múp 358",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/ypbof6.jpeg"
+                    },
+                    {
+                        "ID":359,
+                        "name":"Múp 359",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/2xvk1h.jpeg"
+                    },
+                    {
+                        "ID":360,
+                        "name":"Múp 360",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/su7x94.jpeg"
+                    },
+                    {
+                        "ID":361,
+                        "name":"Múp 361",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/xb7pt9.jpeg"
+                    },
+                    {
+                        "ID":362,
+                        "name":"Múp 362",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/y3z49l.jpeg"
+                    },
+                    {
+                        "ID":363,
+                        "name":"Múp 363",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/1tezqw.jpeg"
+                    },
+                    {
+                        "ID":364,
+                        "name":"Múp 364",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/rzr2ur.jpeg"
+                    },
+                    {
+                        "ID":365,
+                        "name":"Múp 365",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/i0swhy.jpeg"
+                    },
+                    {
+                        "ID":366,
+                        "name":"Múp 366",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/a0a948.jpeg"
+                    },
+                    {
+                        "ID":367,
+                        "name":"Múp 367",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/3gjzpm.jpeg"
+                    },
+                    {
+                        "ID":368,
+                        "name":"Múp 368",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/emm7pu.jpeg"
+                    },
+                    {
+                        "ID":369,
+                        "name":"Múp 369",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ddpzoe.jpeg"
+                    },
+                    {
+                        "ID":370,
+                        "name":"Múp 370",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/uybo5l.jpeg"
+                    },
+                    {
+                        "ID":371,
+                        "name":"Múp 371",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/652594.jpeg"
+                    },
+                    {
+                        "ID":372,
+                        "name":"Múp 372",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/vkw2mk.jpeg"
+                    },
+                    {
+                        "ID":373,
+                        "name":"Múp 373",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/b68e6q.jpeg"
+                    },
+                    {
+                        "ID":374,
+                        "name":"Múp 374",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/15z90p.jpeg"
+                    },
+                    {
+                        "ID":375,
+                        "name":"Múp 375",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/5tjkon.jpeg"
+                    },
+                    {
+                        "ID":376,
+                        "name":"Múp 376",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/rw48lo.jpeg"
+                    },
+                    {
+                        "ID":377,
+                        "name":"Múp 377",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/q45rtx.jpeg"
+                    },
+                    {
+                        "ID":378,
+                        "name":"Múp 378",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/ef71p6.jpeg"
+                    },
+                    {
+                        "ID":379,
+                        "name":"Múp 379",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/lw5izk.jpeg"
+                    },
+                    {
+                        "ID":380,
+                        "name":"Múp 380",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/qvmz4m.jpeg"
+                    },
+                    {
+                        "ID":381,
+                        "name":"Múp 381",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ew3bvy.jpeg"
+                    },
+                    {
+                        "ID":382,
+                        "name":"Múp 382",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/5u5v8d.jpeg"
+                    },
+                    {
+                        "ID":383,
+                        "name":"Múp 383",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/1ubqn7.jpeg"
+                    },
+                    {
+                        "ID":384,
+                        "name":"Múp 384",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/oz08jr.jpeg"
+                    },
+                    {
+                        "ID":385,
+                        "name":"Múp 385",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/5ybmit.jpeg"
+                    },
+                    {
+                        "ID":386,
+                        "name":"Múp 386",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/v0x7h0.jpeg"
+                    },
+                    {
+                        "ID":387,
+                        "name":"Múp 387",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/mf2fk0.jpeg"
+                    },
+                    {
+                        "ID":388,
+                        "name":"Múp 388",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/pyt1ox.jpeg"
+                    },
+                    {
+                        "ID":389,
+                        "name":"Múp 389",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/m18hpa.jpeg"
+                    },
+                    {
+                        "ID":390,
+                        "name":"Múp 390",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/okvtp8.jpeg"
+                    },
+                    {
+                        "ID":391,
+                        "name":"Múp 391",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/7bu002.jpeg"
+                    },
+                    {
+                        "ID":392,
+                        "name":"Múp 392",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/fylsuk.jpeg"
+                    },
+                    {
+                        "ID":393,
+                        "name":"Múp 393",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/e4txcg.jpeg"
+                    },
+                    {
+                        "ID":394,
+                        "name":"Múp 394",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/pgk2zt.jpeg"
+                    },
+                    {
+                        "ID":395,
+                        "name":"Múp 395",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/qodmhv.jpeg"
+                    },
+                    {
+                        "ID":396,
+                        "name":"Múp 396",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/21k0eg.jpeg"
+                    },
+                    {
+                        "ID":397,
+                        "name":"Múp 397",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/zeoen2.jpeg"
+                    },
+                    {
+                        "ID":398,
+                        "name":"Múp 398",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/z8wr30.jpeg"
+                    },
+                    {
+                        "ID":399,
+                        "name":"Múp 399",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/sm55ss.jpeg"
+                    },
+                    {
+                        "ID":400,
+                        "name":"Múp 400",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/l6d0z4.jpeg"
+                    },
+                    {
+                        "ID":401,
+                        "name":"Múp 401",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/2visjz.jpeg"
+                    },
+                    {
+                        "ID":402,
+                        "name":"Múp 402",
+                        "category":"Unknown",
+                        "size":10,
+                        "sell":10,
+                        "image": "https://files.catbox.moe/e7utlr.jpeg"
+                    },
+                    {
+                        "ID":403,
+                        "name":"Múp 403",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/lmu22g.jpeg"
+                    },
+                    {
+                        "ID":404,
+                        "name":"Múp 404",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/6q5oy6.jpeg"
+                    },
+                    {
+                        "ID":405,
+                        "name":"Múp 405",
+                        "category":"Etherial",
+                        "size":9,
+                        "sell":9,
+                        "image": "https://files.catbox.moe/10vr8x.jpeg"
+                    },
+                    {
+                        "ID":406,
+                        "name":"Múp 406",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/lj6cjr.jpeg"
+                    },
+                    {
+                        "ID":407,
+                        "name":"Múp 407",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/lql56p.jpeg"
+                    },
+                    {
+                        "ID":408,
+                        "name":"Múp 408",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/vcrgmd.jpeg"
+                    },
+                    {
+                        "ID":409,
+                        "name":"Múp 409",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/o0xgkp.jpeg"
+                    },
+                    {
+                        "ID":410,
+                        "name":"Múp 410",
+                        "category":"Spectral",
+                        "size":88,
+                        "sell":8,
+                        "image": "https://files.catbox.moe/ene9e4.jpeg"
+                    },
+                    {
+                        "ID":411,
+                        "name":"Múp 411",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/6v1bk7.jpeg"
+                    },
+                    {
+                        "ID":412,
+                        "name":"Múp 412",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/nn8rp5.jpeg"
+                    },
+                    {
+                        "ID":413,
+                        "name":"Múp 413",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/rpqlbx.jpeg"
+                    },
+                    {
+                        "ID":414,
+                        "name":"Múp 414",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/1avsle.jpeg"
+                    },
+                    {
+                        "ID":415,
+                        "name":"Múp 415",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/rghra5.jpeg"
+                    },
+                    {
+                        "ID":416,
+                        "name":"Múp 416",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/7ae8ah.jpeg"
+                    },
+                    {
+                        "ID":417,
+                        "name":"Múp 417",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/oh3jzv.jpeg"
+                    },
+                    {
+                        "ID":418,
+                        "name":"Múp 418",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/xhao4p.jpeg"
+                    },
+                    {
+                        "ID":419,
+                        "name":"Múp 419",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/ta16zi.jpeg"
+                    },
+                    {
+                        "ID":420,
+                        "name":"Múp 420",
+                        "category":"Mythical",
+                        "size":66,
+                        "sell":6,
+                        "image": "https://files.catbox.moe/88c90j.jpeg"
+                    },
+                    {
+                        "ID":421,
+                        "name":"Múp 421",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/7204w6.jpeg"
+                    },
+                    {
+                        "ID":422,
+                        "name":"Múp 422",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/xiwwo7.jpeg"
+                    },
+                    {
+                        "ID":423,
+                        "name":"Múp 423",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/mno8gc.jpeg"
+                    },
+                    {
+                        "ID":424,
+                        "name":"Múp 424",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/yfpssm.jpeg"
+                    },
+                    {
+                        "ID":425,
+                        "name":"Múp 425",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/a9q8yv.jpeg"
+                    },
+                    {
+                        "ID":426,
+                        "name":"Múp 426",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/cjb7es.jpeg"
+                    },
+                    {
+                        "ID":427,
+                        "name":"Múp 427",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/69unuh.jpeg"
+                    },
+                    {
+                        "ID":428,
+                        "name":"Múp 428",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/gc57tu.jpeg"
+                    },
+                    {
+                        "ID":429,
+                        "name":"Múp 429",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/vwczel.jpeg"
+                    },
+                    {
+                        "ID":430,
+                        "name":"Múp 430",
+                        "category":"Legendary",
+                        "size":55,
+                        "sell":5,
+                        "image": "https://files.catbox.moe/s3oz2u.jpeg"
+                    },
+                    {
+                        "ID":431,
+                        "name":"Múp 431",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/hdhwp4.jpeg"
+                    },
+                    {
+                        "ID":432,
+                        "name":"Múp 432",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/gjwso7.jpeg"
+                    },
+                    {
+                        "ID":433,
+                        "name":"Múp 433",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/gfq5a9.jpeg"
+                    },
+                    {
+                        "ID":434,
+                        "name":"Múp 434",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/zyknfn.jpeg"
+                    },
+                    {
+                        "ID":435,
+                        "name":"Múp 435",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/emwx84.jpeg"
+                    },
+                    {
+                        "ID":436,
+                        "name":"Múp 436",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/54yjtw.jpeg"
+                    },
+                    {
+                        "ID":437,
+                        "name":"Múp 437",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/kwag21.jpeg"
+                    },
+                    {
+                        "ID":438,
+                        "name":"Múp 438",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/l6xu5y.jpeg"
+                    },
+                    {
+                        "ID":439,
+                        "name":"Múp 439",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/ki9c1i.jpeg"
+                    },
+                    {
+                        "ID":440,
+                        "name":"Múp 440",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/vr1i82.jpeg"
+                    },
+                    {
+                        "ID":441,
+                        "name":"Múp 441",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/hrpxjf.jpeg"
+                    },
+                    {
+                        "ID":442,
+                        "name":"Múp 442",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/9qls87.jpeg"
+                    },
+                    {
+                        "ID":443,
+                        "name":"Múp 443",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/ufz17c.jpeg"
+                    },
+                    {
+                        "ID":444,
+                        "name":"Múp 444",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/ka7zje.jpeg"
+                    },
+                    {
+                        "ID":445,
+                        "name":"Múp 445",
+                        "category":"Epic",
+                        "size":44,
+                        "sell":4,
+                        "image": "https://files.catbox.moe/un7xt7.jpeg"
+                    },
+                    {
+                        "ID":446,
+                        "name":"Múp 446",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/ha37kq.jpeg"
+                    },
+                    {
+                        "ID":447,
+                        "name":"Múp 447",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/id0ao5.jpeg"
+                    },
+                    {
+                        "ID":448,
+                        "name":"Múp 448",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/meh7gs.jpeg"
+                    },
+                    {
+                        "ID":449,
+                        "name":"Múp 449",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/2j7tsv.jpeg"
+                    },
+                    {
+                        "ID":450,
+                        "name":"Múp 450",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/mzu3ir.jpeg"
+                    },
+                    {
+                        "ID":451,
+                        "name":"Múp 451",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/cry9hg.jpeg"
+                    },
+                    {
+                        "ID":452,
+                        "name":"Múp 452",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/d1ibl5.jpeg"
+                    },
+                    {
+                        "ID":453,
+                        "name":"Múp 453",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/sgmdrw.jpeg"
+                    },
+                    {
+                        "ID":454,
+                        "name":"Múp 454",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/1mvgsz.jpeg"
+                    },
+                    {
+                        "ID":455,
+                        "name":"Múp 455",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/45h8hu.jpeg"
+                    },
+                    {
+                        "ID":456,
+                        "name":"Múp 456",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/0alwah.jpeg"
+                    },
+                    {
+                        "ID":457,
+                        "name":"Múp 457",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/2sebt1.jpeg"
+                    },
+                    {
+                        "ID":458,
+                        "name":"Múp 458",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/ihbclv.jpeg"
+                    },
+                    {
+                        "ID":459,
+                        "name":"Múp 459",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/fq3bh5.jpeg"
+                    },
+                    {
+                        "ID":460,
+                        "name":"Múp 460",
+                        "category":"Rare",
+                        "size":33,
+                        "sell":3,
+                        "image": "https://files.catbox.moe/n5m2qm.jpeg"
+                    },
+                    {
+                        "ID":461,
+                        "name":"Múp 461",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/0wky5r.jpeg"
+                    },
+                    {
+                        "ID":462,
+                        "name":"Múp 462",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/vyxi6a.jpeg"
+                    },
+                    {
+                        "ID":463,
+                        "name":"Múp 463",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/j2b6g2.jpeg"
+                    },
+                    {
+                        "ID":464,
+                        "name":"Múp 464",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/lqnit2.jpeg"
+                    },
+                    {
+                        "ID":465,
+                        "name":"Múp 465",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/48u3lp.jpeg"
+                    },
+                    {
+                        "ID":466,
+                        "name":"Múp 466",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/mb8ub1.jpeg"
+                    },
+                    {
+                        "ID":467,
+                        "name":"Múp 467",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/0zuhxy.jpeg"
+                    },
+                    {
+                        "ID":468,
+                        "name":"Múp 468",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/5r0udu.jpeg"
+                    },
+                    {
+                        "ID":469,
+                        "name":"Múp 469",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/udsjep.jpeg"
+                    },
+                    {
+                        "ID":470,
+                        "name":"Múp 470",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/6uh7r7.jpeg"
+                    },
+                    {
+                        "ID":471,
+                        "name":"Múp 471",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/sqddhe.jpeg"
+                    },
+                    {
+                        "ID":472,
+                        "name":"Múp 472",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/0z89iq.jpeg"
+                    },
+                    {
+                        "ID":473,
+                        "name":"Múp 473",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/6jgywq.jpeg"
+                    },
+                    {
+                        "ID":474,
+                        "name":"Múp 474",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/uwr293.jpeg"
+                    },
+                    {
+                        "ID":475,
+                        "name":"Múp 475",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/usey0d.jpeg"
+                    },
+                    {
+                        "ID":476,
+                        "name":"Múp 476",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/cxu4td.jpeg"
+                    },
+                    {
+                        "ID":477,
+                        "name":"Múp 477",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/1jyzac.jpeg"
+                    },
+                    {
+                        "ID":478,
+                        "name":"Múp 478",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/x7nert.jpeg"
+                    },
+                    {
+                        "ID":479,
+                        "name":"Múp 479",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/6rr5cf.jpeg"
+                    },
+                    {
+                        "ID":480,
+                        "name":"Múp 480",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":2,
+                        "image": "https://files.catbox.moe/hns4tl.jpeg"
+                    },
+                    {
+                        "ID":481,
+                        "name":"Múp 481",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/curzx9.jpeg"
+                    },
+                    {
+                        "ID":482,
+                        "name":"Múp 482",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/lizb16.jpeg"
+                    },
+                    {
+                        "ID":483,
+                        "name":"Múp 483",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ix4ud6.jpeg"
+                    },
+                    {
+                        "ID":484,
+                        "name":"Múp 484",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/09ugwy.jpeg"
+                    },
+                    {
+                        "ID":485,
+                        "name":"Múp 485",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/e10ldc.jpeg"
+                    },
+                    {
+                        "ID":486,
+                        "name":"Múp 486",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/19ncyt.jpeg"
+                    },
+                    {
+                        "ID":487,
+                        "name":"Múp 487",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/yxvkud.jpeg"
+                    },
+                    {
+                        "ID":488,
+                        "name":"Múp 488",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/65a1vh.jpeg"
+                    },
+                    {
+                        "ID":489,
+                        "name":"Múp 489",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/qad63x.jpeg"
+                    },
+                    {
+                        "ID":490,
+                        "name":"Múp 490",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/532agl.jpeg"
+                    },
+                    {
+                        "ID":491,
+                        "name":"Múp 491",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/ka9lxq.jpeg"
+                    },
+                    {
+                        "ID":492,
+                        "name":"Múp 492",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/nuu1nt.jpeg"
+                    },
+                    {
+                        "ID":493,
+                        "name":"Múp 493",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/92lz0e.jpeg"
+                    },
+                    {
+                        "ID":494,
+                        "name":"Múp 494",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/g57d2m.jpeg"
+                    },
+                    {
+                        "ID":495,
+                        "name":"Múp 495",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/0ri3rw.jpeg"
+                    },
+                    {
+                        "ID":496,
+                        "name":"Múp 496",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/qjem4t.jpeg"
+                    },
+                    {
+                        "ID":497,
+                        "name":"Múp 497",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/jdzv0w.jpeg"
+                    },
+                    {
+                        "ID":498,
+                        "name":"Múp 498",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/nzxy9e.jpeg"
+                        
+                    },
+                    {
+                        "ID":499,
+                        "name":"Múp 499",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/r7c29c.jpeg"
+                    },
+                    {
+                        "ID":500,
+                        "name":"Múp 500",
+                        "category":"Common",
+                        "size":11,
+                        "sell":1,
+                        "image": "https://files.catbox.moe/s9yx7z.jpeg"
                     }
                 ]
             }
