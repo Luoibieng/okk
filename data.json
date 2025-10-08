@@ -4,808 +4,964 @@
     "image": "https://i.imgur.com/GqGt4D6.jpg",
     "area": [
       {
-        "name": "Khu Vực : LL",
-        "description": "Dữ liệu sinh vật được tạo ngẫu nhiên theo yêu cầu.",
+        "name": "Khu Vực : LoLi",
         "creature": [
           {
-            "name": "LL 1",
-            "category": "『★★』✨",
-            "size": 75,
-            "weight": 2.5,
-            "sell": 12500,
+            "name": "LoLi 1",
+            "category": "【★】🌿",
+            "size": 47,
+            "sell": 28600,
             "image": "https://drive.google.com/file/d/1837HD6CSyjOtF5ksUjvvdpwVOtQpmMZg/view?usp=drivesdk"
           },
           {
-            "name": "LL 2",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 550,
-            "weight": 55.0,
-            "sell": 1050000,
+            "name": "LoLi 2",
+            "category": "『★★』✨",
+            "size": 118,
+            "sell": 112500,
             "image": "https://drive.google.com/file/d/12eBZeHlaAhhfNMQKktlyOdXKtf2paqwF/view?usp=drivesdk"
           },
           {
-            "name": "LL 3",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 380,
-            "weight": 38.0,
-            "sell": 350000,
+            "name": "LoLi 3",
+            "category": "〖★★★〗💫",
+            "size": 412,
+            "sell": 448500,
             "image": "https://drive.google.com/file/d/1rlkE-jLHslULK_ZQzjwZSH5-CAF53hmB/view?usp=drivesdk"
           },
           {
-            "name": "LL 4",
-            "category": "〖★★★〗💫",
-            "size": 140,
-            "weight": 14.0,
-            "sell": 40000,
+            "name": "LoLi 4",
+            "category": "【★】🌿",
+            "size": 25,
+            "sell": 14900,
             "image": "https://drive.google.com/file/d/12VW0mY_d0Z4fFv6ad3lHG_biu4GYZLw6/view?usp=drivesdk"
           },
           {
-            "name": "LL 5",
+            "name": "LoLi 5",
             "category": "⟬★★★★⟭🔥💥",
-            "size": 225,
-            "weight": 22.5,
-            "sell": 110000,
+            "size": 750,
+            "sell": 1750000,
             "image": "https://drive.google.com/file/d/1hI1NksNX4X6SlapvA1VB06kDXp5io_dm/view?usp=drivesdk"
           },
           {
-            "name": "LL 6",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 3500,
-            "weight": 350.0,
-            "sell": 7500000,
+            "name": "LoLi 6",
+            "category": "【★】🌿",
+            "size": 38,
+            "sell": 19100,
             "image": "https://drive.google.com/file/d/1Ibmn97DlHNX8ZlV9kLbWWR37D1tjRRo8/view?usp=drivesdk"
           },
           {
-            "name": "LL 7",
-            "category": "【★】🌿",
-            "size": 35,
-            "weight": 1.5,
-            "sell": 3500,
+            "name": "LoLi 7",
+            "category": "『★★』✨",
+            "size": 65,
+            "sell": 67300,
             "image": "https://drive.google.com/file/d/16dZk8-rqTgnzvnpam_KVFY3M7OIqaAG5/view?usp=drivesdk"
           },
           {
-            "name": "LL 8",
-            "category": "〖★★★〗💫",
-            "size": 110,
-            "weight": 11.0,
-            "sell": 25000,
+            "name": "LoLi 8",
+            "category": "【★】🌿",
+            "size": 19,
+            "sell": 12800,
             "image": "https://drive.google.com/file/d/15Db2IwGJAad94LUSpqnWIo5B5kk_YvQL/view?usp=drivesdk"
           },
           {
-            "name": "LL 9",
+            "name": "LoLi 9",
             "category": "『★★』✨",
-            "size": 60,
-            "weight": 2.0,
-            "sell": 8000,
+            "size": 140,
+            "sell": 139500,
             "image": "https://drive.google.com/file/d/1uDisbohVzijOqKjNGMezMm2rQQHPYz9U/view?usp=drivesdk"
           },
           {
-            "name": "LL 10",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 420,
-            "weight": 42.0,
-            "sell": 450000,
+            "name": "LoLi 10",
+            "category": "【★】🌿",
+            "size": 42,
+            "sell": 23200,
             "image": "https://drive.google.com/file/d/1dtZSlGfFHvt7J60Qb2EXtGNsvbkpk7R7/view?usp=drivesdk"
           },
           {
-            "name": "LL 11",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 250,
-            "weight": 25.0,
-            "sell": 130000,
+            "name": "LoLi 11",
+            "category": "〖★★★〗💫",
+            "size": 355,
+            "sell": 305500,
             "image": "https://drive.google.com/file/d/1cQFT1wtahoLicAg3QpsW_YKxHKl2b_yH/view?usp=drivesdk"
           },
           {
-            "name": "LL 12",
-            "category": "【★】🌿",
-            "size": 45,
-            "weight": 2.5,
-            "sell": 4000,
+            "name": "LoLi 12",
+            "category": "『★★』✨",
+            "size": 95,
+            "sell": 91800,
             "image": "https://drive.google.com/file/d/1u_b1aKwPWSBH6YO--xIDML_kKCljPa0U/view?usp=drivesdk"
           },
           {
-            "name": "LL 13",
-            "category": "『★★』✨",
-            "size": 90,
-            "weight": 3.0,
-            "sell": 10000,
+            "name": "LoLi 13",
+            "category": "【★】🌿",
+            "size": 31,
+            "sell": 17600,
             "image": "https://drive.google.com/file/d/1fktyahIE6VBYlem2HVfqNfJ_9VVbKdYv/view?usp=drivesdk"
           },
           {
-            "name": "LL 14",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 4000,
-            "weight": 400.0,
-            "sell": 8500000,
+            "name": "LoLi 14",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 3500,
+            "sell": 4100000,
             "image": "https://drive.google.com/file/d/13VVtQXOu2PsC9nApkm3pBWlPdDHaInVi/view?usp=drivesdk"
           },
           {
-            "name": "LL 15",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 650,
-            "weight": 65.0,
-            "sell": 1250000,
+            "name": "LoLi 15",
+            "category": "【★】🌿",
+            "size": 12,
+            "sell": 11300,
             "image": "https://drive.google.com/file/d/18ikdAu2S2nt0krKvLbkmPbUkRR5O13oM/view?usp=drivesdk"
           },
           {
-            "name": "LL 16",
-            "category": "〖★★★〗💫",
-            "size": 170,
-            "weight": 17.0,
-            "sell": 35000,
+            "name": "LoLi 16",
+            "category": "『★★』✨",
+            "size": 78,
+            "sell": 81000,
             "image": "https://drive.google.com/file/d/1lCbC_L237TMoiWYpyYrqAPc1tnGLV0DZ/view?usp=drivesdk"
           },
           {
-            "name": "LL 17",
+            "name": "LoLi 17",
             "category": "【★】🌿",
-            "size": 25,
-            "weight": 0.5,
-            "sell": 1500,
+            "size": 33,
+            "sell": 20400,
             "image": "https://drive.google.com/file/d/1YoGCGTBtcKvITNCAValn7DMx-IHEXQ_H/view?usp=drivesdk"
           },
           {
-            "name": "LL 18",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 180,
-            "weight": 18.0,
-            "sell": 80000,
+            "name": "LoLi 18",
+            "category": "〖★★★〗💫",
+            "size": 280,
+            "sell": 390000,
             "image": "https://drive.google.com/file/d/1B8kfoHb-dMraDcmXqoPZ0HcA2B2m-h9p/view?usp=drivesdk"
           },
           {
-            "name": "LL 19",
-            "category": "『★★』✨",
-            "size": 50,
-            "weight": 1.0,
-            "sell": 6000,
+            "name": "LoLi 19",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 910,
+            "sell": 2100000,
             "image": "https://drive.google.com/file/d/14MU0S-36pwGN9NHwBrI6w_GKqPnooNLZ/view?usp=drivesdk"
           },
           {
-            "name": "LL 20",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 300,
-            "weight": 30.0,
-            "sell": 250000,
+            "name": "LoLi 20",
+            "category": "【★】🌿",
+            "size": 49,
+            "sell": 29800,
             "image": "https://drive.google.com/file/d/1ZUo3skTr95L5YbKf5hB0dshSEDi_slAQ/view?usp=drivesdk"
           },
           {
-            "name": "LL 21",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 1500,
-            "weight": 150.0,
-            "sell": 6000000,
+            "name": "LoLi 21",
+            "category": "『★★』✨",
+            "size": 105,
+            "sell": 115200,
             "image": "https://drive.google.com/file/d/1ZOlQhyIMQ5hEo8Ju86GXSFpEGPPZn37p/view?usp=drivesdk"
           },
           {
-            "name": "LL 22",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 450,
-            "weight": 45.0,
-            "sell": 800000,
+            "name": "LoLi 22",
+            "category": "【★】🌿",
+            "size": 15,
+            "sell": 13700,
             "image": "https://drive.google.com/file/d/1FUv49YgK7vvMut8lhUjzWCxcITi6TssE/view?usp=drivesdk"
           },
           {
-            "name": "LL 23",
-            "category": "【★】🌿",
-            "size": 50,
-            "weight": 3.0,
-            "sell": 4500,
+            "name": "LoLi 23",
+            "category": "『★★』✨",
+            "size": 125,
+            "sell": 128800,
             "image": "https://drive.google.com/file/d/1kneUVWzyXfgr3tti1w5ONvKSS1AwidSm/view?usp=drivesdk"
           },
           {
-            "name": "LL 24",
-            "category": "〖★★★〗💫",
-            "size": 190,
-            "weight": 19.0,
-            "sell": 48000,
+            "name": "LoLi 24",
+            "category": "【★】🌿",
+            "size": 22,
+            "sell": 16500,
             "image": "https://drive.google.com/file/d/1EiRj2GM87s8sBMWbKErhncvjm5oaKUWt/view?usp=drivesdk"
           },
           {
-            "name": "LL 25",
-            "category": "『★★』✨",
-            "size": 85,
-            "weight": 2.8,
-            "sell": 9500,
+            "name": "LoLi 25",
+            "category": "✧★★★★★★✧👑✨",
+            "size": 8500,
+            "sell": 8450000,
             "image": "https://drive.google.com/file/d/1PDDLD36Bdj5f3MxVij4yFLUjSO65hg-f/view?usp=drivesdk"
           },
           {
-            "name": "LL 26",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 280,
-            "weight": 28.0,
-            "sell": 140000,
+            "name": "LoLi 26",
+            "category": "『★★』✨",
+            "size": 82,
+            "sell": 95500,
             "image": "https://drive.google.com/file/d/1lp2gutfcaagSZVQ0cFv8zQqMjKkJh9ap/view?usp=drivesdk"
           },
           {
-            "name": "LL 27",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 480,
-            "weight": 48.0,
-            "sell": 480000,
+            "name": "LoLi 27",
+            "category": "【★】🌿",
+            "size": 39,
+            "sell": 21700,
             "image": "https://drive.google.com/file/d/1GuDy-hudD4boIQ1gHJ9R7mjt6c7NceSn/view?usp=drivesdk"
           },
           {
-            "name": "LL 28",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 750,
-            "weight": 75.0,
-            "sell": 1400000,
+            "name": "LoLi 28",
+            "category": "〖★★★〗💫",
+            "size": 205,
+            "sell": 268000,
             "image": "https://drive.google.com/file/d/1IuRup3o7Fjsmb0fbytUG5zztNPq1057S/view?usp=drivesdk"
           },
           {
-            "name": "LL 29",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 2500,
-            "weight": 250.0,
-            "sell": 6500000,
+            "name": "LoLi 29",
+            "category": "【★】🌿",
+            "size": 17,
+            "sell": 14500,
             "image": "https://drive.google.com/file/d/15ggLbxodc2-yIgl75xQWRcR2jE4Twg_M/view?usp=drivesdk"
           },
           {
-            "name": "LL 30",
-            "category": "【★】🌿",
-            "size": 15,
-            "weight": 0.3,
-            "sell": 1000,
+            "name": "LoLi 30",
+            "category": "『★★』✨",
+            "size": 110,
+            "sell": 120000,
             "image": "https://drive.google.com/file/d/13w_DY8ThRtNOIa3DM-dqN0ZWPYDoW3k0/view?usp=drivesdk"
           },
           {
-            "name": "LL 31",
-            "category": "〖★★★〗💫",
-            "size": 150,
-            "weight": 15.0,
-            "sell": 30000,
+            "name": "LoLi 31",
+            "category": "【★】🌿",
+            "size": 36,
+            "sell": 22500,
             "image": "https://drive.google.com/file/d/1b74L2eyNlANkkd7zVw9Ey3lxvceC3Sv7/view?usp=drivesdk"
           },
           {
-            "name": "LL 32",
+            "name": "LoLi 32",
             "category": "⟬★★★★⟭🔥💥",
-            "size": 300,
-            "weight": 30.0,
-            "sell": 150000,
+            "size": 680,
+            "sell": 1250000,
             "image": "https://drive.google.com/file/d/1MlesyRpFG_TbnuIbU-kCRJnlBenE-zyh/view?usp=drivesdk"
           },
           {
-            "name": "LL 33",
-            "category": "『★★』✨",
-            "size": 70,
-            "weight": 2.2,
-            "sell": 8500,
+            "name": "LoLi 33",
+            "category": "【★】🌿",
+            "size": 50,
+            "sell": 29100,
             "image": "https://drive.google.com/file/d/1OlONCW-01v9eaABDo__4Crs94lb90AXf/view?usp=drivesdk"
           },
           {
-            "name": "LL 34",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 350,
-            "weight": 35.0,
-            "sell": 300000,
+            "name": "LoLi 34",
+            "category": "『★★』✨",
+            "size": 145,
+            "sell": 148800,
             "image": "https://drive.google.com/file/d/1hwehTBVugdXNeCCA2EBxhuuNqV5pcoCS/view?usp=drivesdk"
           },
           {
-            "name": "LL 35",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 800,
-            "weight": 80.0,
-            "sell": 1500000,
+            "name": "LoLi 35",
+            "category": "【★】🌿",
+            "size": 29,
+            "sell": 18400,
             "image": "https://drive.google.com/file/d/1gxFHRGkBxQPJlhBlkdzCmCrD63UPA2uL/view?usp=drivesdk"
           },
           {
-            "name": "LL 36",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 5000,
-            "weight": 500.0,
-            "sell": 10000000,
+            "name": "LoLi 36",
+            "category": "〖★★★〗💫",
+            "size": 450,
+            "sell": 485000,
             "image": "https://drive.google.com/file/d/1pEGXmxSpQEOKFc5RL0XcLDZMivTv1jV8/view?usp=drivesdk"
           },
           {
-            "name": "LL 37",
-            "category": "【★】🌿",
-            "size": 40,
-            "weight": 2.0,
-            "sell": 3000,
-            "image": "https://drive.google.com/file/d/12wTZxXXmbnptWCEscKhLMnX6Qv-QqwOS/view?usp=drivesdk"
+            "name": "LoLi 37",
+            "category": "『★★』✨",
+            "size": 61,
+            "sell": 71000,
+            "image": "https://drive.google.com/file/d/12wTZLoLiXmbnptWCEscKhLMnX6Qv-QqwOS/view?usp=drivesdk"
           },
           {
-            "name": "LL 38",
-            "category": "〖★★★〗💫",
-            "size": 130,
-            "weight": 13.0,
-            "sell": 28000,
+            "name": "LoLi 38",
+            "category": "【★】🌿",
+            "size": 41,
+            "sell": 24800,
             "image": "https://drive.google.com/file/d/1iId8u3H6gHsZYv9_uKi48BnvQDWH9Q6x/view?usp=drivesdk"
           },
           {
-            "name": "LL 39",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 200,
-            "weight": 20.0,
-            "sell": 95000,
+            "name": "LoLi 39",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 2800,
+            "sell": 3350000,
             "image": "https://drive.google.com/file/d/1FFg22hZQi_XBuRSZylp7x_4DoGhiVmjD/view?usp=drivesdk"
           },
           {
-            "name": "LL 40",
-            "category": "『★★』✨",
-            "size": 95,
-            "weight": 3.2,
-            "sell": 13000,
-            "image": "https://drive.google.com/file/d/1hl2Xj37WdxXDE7T2ZAc8QYBYIWLRLu2E/view?usp=drivesdk"
+            "name": "LoLi 40",
+            "category": "【★】🌿",
+            "size": 10,
+            "sell": 10500,
+            "image": "https://drive.google.com/file/d/1hl2Xj37WdLoLiDE7T2ZAc8QYBYIWLRLu2E/view?usp=drivesdk"
           },
           {
-            "name": "LL 41",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 400,
-            "weight": 40.0,
-            "sell": 400000,
+            "name": "LoLi 41",
+            "category": "『★★』✨",
+            "size": 130,
+            "sell": 135000,
             "image": "https://drive.google.com/file/d/1yIZ_OpNXMp6bAp0fulIg9VkO9wyssdIc/view?usp=drivesdk"
           },
           {
-            "name": "LL 42",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 500,
-            "weight": 50.0,
-            "sell": 950000,
+            "name": "LoLi 42",
+            "category": "【★】🌿",
+            "size": 46,
+            "sell": 26800,
             "image": "https://drive.google.com/file/d/1ShIKqNcXllAzDZaRyMJp80s0zWP62AX7/view?usp=drivesdk"
           },
           {
-            "name": "LL 43",
+            "name": "LoLi 43",
             "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 3000,
-            "weight": 300.0,
-            "sell": 7000000,
+            "size": 25000,
+            "sell": 17500000,
             "image": "https://drive.google.com/file/d/1GGHczTXvd_WhvA4IheBgjr6cALIGpC79/view?usp=drivesdk"
           },
           {
-            "name": "LL 44",
-            "category": "【★】🌿",
-            "size": 30,
-            "weight": 1.0,
-            "sell": 2000,
+            "name": "LoLi 44",
+            "category": "『★★』✨",
+            "size": 90,
+            "sell": 105000,
             "image": "https://drive.google.com/file/d/164g_hORe6iWJe6_GMSwtEkmqMPKFMwsw/view?usp=drivesdk"
           },
           {
-            "name": "LL 45",
-            "category": "〖★★★〗💫",
-            "size": 180,
-            "weight": 18.0,
-            "sell": 42000,
+            "name": "LoLi 45",
+            "category": "【★】🌿",
+            "size": 14,
+            "sell": 11900,
             "image": "https://drive.google.com/file/d/1Ph7iQ4lUK1er9EaxBqNY6TUQ3YCUmlIp/view?usp=drivesdk"
           },
           {
-            "name": "LL 46",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 270,
-            "weight": 27.0,
-            "sell": 135000,
+            "name": "LoLi 46",
+            "category": "〖★★★〗💫",
+            "size": 220,
+            "sell": 285000,
             "image": "https://drive.google.com/file/d/1QC0Tp8OeAWk2430NRlk7BgahX8XPdo6c/view?usp=drivesdk"
           },
           {
-            "name": "LL 47",
+            "name": "LoLi 47",
             "category": "『★★』✨",
-            "size": 65,
-            "weight": 2.1,
-            "sell": 8800,
+            "size": 100,
+            "sell": 110000,
             "image": "https://drive.google.com/file/d/1ePkubyGIMW9x5YyrDlTXDyUZlDtlWqRY/view?usp=drivesdk"
           },
           {
-            "name": "LL 48",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 330,
-            "weight": 33.0,
-            "sell": 280000,
+            "name": "LoLi 48",
+            "category": "【★】🌿",
+            "size": 30,
+            "sell": 18900,
             "image": "https://drive.google.com/file/d/1w5cmlC6OgQm5eDsACmj7wdNRaLVTOViy/view?usp=drivesdk"
           },
           {
-            "name": "LL 49",
-            "category": "✧★★★★★★✧👑✨",
+            "name": "LoLi 49",
+            "category": "⟬★★★★⟭🔥💥",
             "size": 600,
-            "weight": 60.0,
-            "sell": 1150000,
+            "sell": 1050000,
             "image": "https://drive.google.com/file/d/1c9qKXKsfA5Nm9kC-D-KbDW5KernqdF3k/view?usp=drivesdk"
           },
           {
-            "name": "LL 50",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 4500,
-            "weight": 450.0,
-            "sell": 9500000,
+            "name": "LoLi 50",
+            "category": "【★】🌿",
+            "size": 44,
+            "sell": 25500,
             "image": "https://drive.google.com/file/d/1_ujSLVJhwqepWT9bPqATCYS_rrERBFEh/view?usp=drivesdk"
           },
           {
-            "name": "LL 51",
-            "category": "【★】🌿",
-            "size": 20,
-            "weight": 0.5,
-            "sell": 1200,
+            "name": "LoLi 51",
+            "category": "『★★』✨",
+            "size": 150,
+            "sell": 149500,
             "image": "https://drive.google.com/file/d/1euA_7Q7THozpPDrfARus1akP2airEdTL/view?usp=drivesdk"
           },
           {
-            "name": "LL 52",
-            "category": "〖★★★〗💫",
-            "size": 160,
-            "weight": 16.0,
-            "sell": 38000,
+            "name": "LoLi 52",
+            "category": "【★】🌿",
+            "size": 11,
+            "sell": 10800,
             "image": "https://drive.google.com/file/d/12C4iI0gL1S2e3JSCZdZ6RZsSrY6uZNZd/view?usp=drivesdk"
           },
           {
-            "name": "LL 53",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 160,
-            "weight": 16.0,
-            "sell": 70000,
+            "name": "LoLi 53",
+            "category": "〖★★★〗💫",
+            "size": 490,
+            "sell": 498000,
             "image": "https://drive.google.com/file/d/18bRj57hZC3UKiPL1Cak9hxF3131zVrua/view?usp=drivesdk"
           },
           {
-            "name": "LL 54",
+            "name": "LoLi 54",
             "category": "『★★』✨",
-            "size": 80,
-            "weight": 2.6,
-            "sell": 9000,
+            "size": 75,
+            "sell": 80500,
             "image": "https://drive.google.com/file/d/1bVVwyKktWvJdBKllYytEjyUf-WeqqDy9/view?usp=drivesdk"
           },
           {
-            "name": "LL 55",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 450,
-            "weight": 45.0,
-            "sell": 420000,
+            "name": "LoLi 55",
+            "category": "【★】🌿",
+            "size": 28,
+            "sell": 17900,
             "image": "https://drive.google.com/file/d/1ujIfZzKTkYPvLj_cxyZFvdM-Ec2IVdgX/view?usp=drivesdk"
           },
           {
-            "name": "LL 56",
+            "name": "LoLi 56",
             "category": "✧★★★★★★✧👑✨",
-            "size": 700,
-            "weight": 70.0,
-            "sell": 1300000,
-            "image": "https://drive.google.com/file/d/15khxXkU7EIUXq60rb690Yb3LaSE9Pk4n/view?usp=drivesdk"
+            "size": 9500,
+            "sell": 9700000,
+            "image": "https://drive.google.com/file/d/15khLoLikU7EIUXq60rb690Yb3LaSE9Pk4n/view?usp=drivesdk"
           },
           {
-            "name": "LL 57",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 2000,
-            "weight": 200.0,
-            "sell": 5500000,
+            "name": "LoLi 57",
+            "category": "【★】🌿",
+            "size": 48,
+            "sell": 29500,
             "image": "https://drive.google.com/file/d/1N9QgoOD1yDZ1h4AqdPrrFfL2tTiRvorE/view?usp=drivesdk"
           },
           {
-            "name": "LL 58",
-            "category": "【★】🌿",
-            "size": 48,
-            "weight": 2.8,
-            "sell": 4200,
+            "name": "LoLi 58",
+            "category": "『★★』✨",
+            "size": 135,
+            "sell": 137500,
             "image": "https://drive.google.com/file/d/1RNsj-Tl8Rfbs-fnaot-kDMil1QgCVUve/view?usp=drivesdk"
           },
           {
-            "name": "LL 59",
-            "category": "〖★★★〗💫",
-            "size": 120,
-            "weight": 12.0,
-            "sell": 26000,
+            "name": "LoLi 59",
+            "category": "【★】🌿",
+            "size": 18,
+            "sell": 14100,
             "image": "https://drive.google.com/file/d/16j904AmXKLAjWlR4MfAXdCBcnlHaWTNP/view?usp=drivesdk"
           },
           {
-            "name": "LL 60",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 290,
-            "weight": 29.0,
-            "sell": 145000,
+            "name": "LoLi 60",
+            "category": "〖★★★〗💫",
+            "size": 390,
+            "sell": 405000,
             "image": "https://drive.google.com/file/d/14SL01IDk51bPYwEJypTRQ1oIEGwezXbr/view?usp=drivesdk"
           },
           {
-            "name": "LL 61",
+            "name": "LoLi 61",
             "category": "『★★』✨",
-            "size": 55,
-            "weight": 1.8,
-            "sell": 7500,
+            "size": 120,
+            "sell": 124500,
             "image": "https://drive.google.com/file/d/1JWH2l0f8RA_CYRH37bBxCov_rdLAkOOQ/view?usp=drivesdk"
           },
           {
-            "name": "LL 62",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 370,
-            "weight": 37.0,
-            "sell": 330000,
+            "name": "LoLi 62",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 830,
+            "sell": 1950000,
             "image": "https://drive.google.com/file/d/1VjuXgm9Yu37J2usJmIRHIyiq9nH_Xj4O/view?usp=drivesdk"
           },
           {
-            "name": "LL 63",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 520,
-            "weight": 52.0,
-            "sell": 1000000,
+            "name": "LoLi 63",
+            "category": "【★】🌿",
+            "size": 34,
+            "sell": 21000,
             "image": "https://drive.google.com/file/d/1-wV_bAWPTQpUEJKUSzrO1vaBHcodCi0a/view?usp=drivesdk"
           },
           {
-            "name": "LL 64",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 3800,
-            "weight": 380.0,
-            "sell": 8000000,
+            "name": "LoLi 64",
+            "category": "『★★』✨",
+            "size": 60,
+            "sell": 65000,
             "image": "https://drive.google.com/file/d/1v3fN-Rx3EgU06KSZVBahPTlhRZkyQd4p/view?usp=drivesdk"
           },
           {
-            "name": "LL 65",
+            "name": "LoLi 65",
             "category": "【★】🌿",
-            "size": 12,
-            "weight": 0.2,
-            "sell": 1100,
+            "size": 24,
+            "sell": 17200,
             "image": "https://drive.google.com/file/d/1U83BsNzQh5MUT-HEKso3Uf4MqPlK91V2/view?usp=drivesdk"
           },
           {
-            "name": "LL 66",
-            "category": "〖★★★〗💫",
-            "size": 195,
-            "weight": 19.5,
-            "sell": 49000,
+            "name": "LoLi 66",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 4500,
+            "sell": 4800000,
             "image": "https://drive.google.com/file/d/1dwDFzNR6wJqKPw4paM1moFUySTmQVlm3/view?usp=drivesdk"
           },
           {
-            "name": "LL 67",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 240,
-            "weight": 24.0,
-            "sell": 120000,
+            "name": "LoLi 67",
+            "category": "【★】🌿",
+            "size": 40,
+            "sell": 24100,
             "image": "https://drive.google.com/file/d/1Y5YEUNihLAVEo2afDK6lEzr7KikRdtEE/view?usp=drivesdk"
           },
           {
-            "name": "LL 68",
+            "name": "LoLi 68",
             "category": "『★★』✨",
-            "size": 45,
-            "weight": 0.9,
-            "sell": 5500,
+            "size": 148,
+            "sell": 145000,
             "image": "https://drive.google.com/file/d/1aVT43staMqI59O2DmExCNf9k4xIu2luX/view?usp=drivesdk"
           },
           {
-            "name": "LL 69",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 490,
-            "weight": 49.0,
-            "sell": 490000,
+            "name": "LoLi 69",
+            "category": "【★】🌿",
+            "size": 20,
+            "sell": 15500,
             "image": "https://drive.google.com/file/d/1HN0jv2QO9ffGf4ivNM3T88BK0AS821hp/view?usp=drivesdk"
           },
           {
-            "name": "LL 70",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 780,
-            "weight": 78.0,
-            "sell": 1450000,
+            "name": "LoLi 70",
+            "category": "〖★★★〗💫",
+            "size": 250,
+            "sell": 330000,
             "image": "https://drive.google.com/file/d/149eMJ93JwxPr6qORV4KHYhW2TYODkOaG/view?usp=drivesdk"
           },
           {
-            "name": "LL 71",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 1800,
-            "weight": 180.0,
-            "sell": 5000000,
+            "name": "LoLi 71",
+            "category": "『★★』✨",
+            "size": 88,
+            "sell": 102500,
             "image": "https://drive.google.com/file/d/1IVKe6VKmIcrC0V9QEjxJeqXFwRxY2CQQ/view?usp=drivesdk"
           },
           {
-            "name": "LL 72",
+            "name": "LoLi 72",
             "category": "【★】🌿",
-            "size": 38,
-            "weight": 1.8,
-            "sell": 2800,
+            "size": 45,
+            "sell": 26100,
             "image": "https://drive.google.com/file/d/1Ye2hoNqVRvve5Hp_9nCifJGWRgbsabY4/view?usp=drivesdk"
           },
           {
-            "name": "LL 73",
-            "category": "〖★★★〗💫",
-            "size": 175,
-            "weight": 17.5,
-            "sell": 45000,
+            "name": "LoLi 73",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 980,
+            "sell": 2350000,
             "image": "https://drive.google.com/file/d/1rPy6XLNcYcp-0J9gdUjJXnFPx9-dLBEp/view?usp=drivesdk"
           },
           {
-            "name": "LL 74",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 150,
-            "weight": 15.0,
-            "sell": 65000,
+            "name": "LoLi 74",
+            "category": "【★】🌿",
+            "size": 32,
+            "sell": 19900,
             "image": "https://drive.google.com/file/d/150cBv7R7Fmc5SJ-UI_AUjoWFQGCefxhk/view?usp=drivesdk"
           },
           {
-            "name": "LL 75",
+            "name": "LoLi 75",
             "category": "『★★』✨",
-            "size": 98,
-            "weight": 3.5,
-            "sell": 14000,
+            "size": 115,
+            "sell": 122000,
             "image": "https://drive.google.com/file/d/1uFRNoPfKKBMSCJ1-ChQWOl6Cfqd_krFJ/view?usp=drivesdk"
           },
           {
-            "name": "LL 76",
+            "name": "LoLi 76",
             "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 310,
-            "weight": 31.0,
-            "sell": 260000,
+            "size": 3900,
+            "sell": 4450000,
             "image": "https://drive.google.com/file/d/1Hyri9V-tL8KosMUxf2c4IaltF3u5XPTK/view?usp=drivesdk"
           },
           {
-            "name": "LL 77",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 480,
-            "weight": 48.0,
-            "sell": 900000,
+            "name": "LoLi 77",
+            "category": "【★】🌿",
+            "size": 27,
+            "sell": 18100,
             "image": "https://drive.google.com/file/d/1WP_GzVHbfdO4plCWWsLaAM5Pz0Ypeggw/view?usp=drivesdk"
           },
           {
-            "name": "LL 78",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 4200,
-            "weight": 420.0,
-            "sell": 9000000,
+            "name": "LoLi 78",
+            "category": "〖★★★〗💫",
+            "size": 470,
+            "sell": 475000,
             "image": "https://drive.google.com/file/d/16abclECrzRDZCRhVRfCjwnINRfIa1_oy/view?usp=drivesdk"
           },
           {
-            "name": "LL 79",
-            "category": "【★】🌿",
-            "size": 42,
-            "weight": 2.2,
-            "sell": 3200,
-            "image": "https://drive.google.com/file/d/15iSZWWbol1DbUANuwGvqA5jtpBOOjxx0/view?usp=drivesdk"
+            "name": "LoLi 79",
+            "category": "『★★』✨",
+            "size": 68,
+            "sell": 73500,
+            "image": "https://drive.google.com/file/d/15iSZWWbol1DbUANuwGvqA5jtpBOOjLoLi0/view?usp=drivesdk"
           },
           {
-            "name": "LL 80",
-            "category": "〖★★★〗💫",
-            "size": 185,
-            "weight": 18.5,
-            "sell": 46000,
+            "name": "LoLi 80",
+            "category": "【★】🌿",
+            "size": 16,
+            "sell": 13300,
             "image": "https://drive.google.com/file/d/1GPoy8LRYLgxfdlP6X8b10XUxBNTJKF7n/view?usp=drivesdk"
           },
           {
-            "name": "LL 81",
+            "name": "LoLi 81",
             "category": "⟬★★★★⟭🔥💥",
-            "size": 260,
-            "weight": 26.0,
-            "sell": 125000,
+            "size": 720,
+            "sell": 1550000,
             "image": "https://drive.google.com/file/d/1KIRKYV0BXN8tutIN3pTL-bHsbcaHu74K/view?usp=drivesdk"
           },
           {
-            "name": "LL 82",
+            "name": "LoLi 82",
             "category": "『★★』✨",
-            "size": 40,
-            "weight": 0.8,
-            "sell": 5000,
+            "size": 142,
+            "sell": 142000,
             "image": "https://drive.google.com/file/d/1qNBqWJoC4sGkql94D_f9KRGvWBb1Yzn7/view?usp=drivesdk"
           },
           {
-            "name": "LL 83",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 470,
-            "weight": 47.0,
-            "sell": 470000,
+            "name": "LoLi 83",
+            "category": "【★】🌿",
+            "size": 37,
+            "sell": 23500,
             "image": "https://drive.google.com/file/d/1bKhDXVQz0biKDTCynJpDTS5Jbq4YhxJQ/view?usp=drivesdk"
           },
           {
-            "name": "LL 84",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 580,
-            "weight": 58.0,
-            "sell": 1100000,
+            "name": "LoLi 84",
+            "category": "〖★★★〗💫",
+            "size": 300,
+            "sell": 360000,
             "image": "https://drive.google.com/file/d/1_hT68Gy96lNjjxrlrhi3VV2SLVMOTAXd/view?usp=drivesdk"
           },
           {
-            "name": "LL 85",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 3300,
-            "weight": 330.0,
-            "sell": 7800000,
+            "name": "LoLi 85",
+            "category": "『★★』✨",
+            "size": 98,
+            "sell": 108000,
             "image": "https://drive.google.com/file/d/1t-FP7EK1MTqYVkVLx7WeugZTPxe-Us9x/view?usp=drivesdk"
           },
           {
-            "name": "LL 86",
-            "category": "【★】🌿",
-            "size": 18,
-            "weight": 0.4,
-            "sell": 1400,
+            "name": "LoLi 86",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 2500,
+            "sell": 3050000,
             "image": "https://drive.google.com/file/d/15PzgU-HIs0w_PhQuqgzYKCWeSH05_wk7/view?usp=drivesdk"
           },
           {
-            "name": "LL 87",
-            "category": "〖★★★〗💫",
-            "size": 145,
-            "weight": 14.5,
-            "sell": 32000,
+            "name": "LoLi 87",
+            "category": "【★】🌿",
+            "size": 26,
+            "sell": 17800,
             "image": "https://drive.google.com/file/d/1nY4NeMgwObJjHHcvs2EMUDpSxfBoP_dI/view?usp=drivesdk"
           },
           {
-            "name": "LL 88",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 210,
-            "weight": 21.0,
-            "sell": 100000,
+            "name": "LoLi 88",
+            "category": "『★★』✨",
+            "size": 102,
+            "sell": 113500,
             "image": "https://drive.google.com/file/d/1IAOi31Z7IXSpdZqZexh66kZL-6-f1ctV/view?usp=drivesdk"
           },
           {
-            "name": "LL 89",
-            "category": "『★★』✨",
-            "size": 72,
-            "weight": 2.3,
-            "sell": 9200,
+            "name": "LoLi 89",
+            "category": "【★】🌿",
+            "size": 43,
+            "sell": 25800,
             "image": "https://drive.google.com/file/d/1Re137geDlBQkwgEnrdGkI6Enw79zNNsr/view?usp=drivesdk"
           },
           {
-            "name": "LL 90",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 390,
-            "weight": 39.0,
-            "sell": 380000,
+            "name": "LoLi 90",
+            "category": "〖★★★〗💫",
+            "size": 330,
+            "sell": 385000,
             "image": "https://drive.google.com/file/d/1Fgetyp8EsTIiQdvKACnFL4aDYeI4yCxF/view?usp=drivesdk"
           },
           {
-            "name": "LL 91",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 720,
-            "weight": 72.0,
-            "sell": 1350000,
+            "name": "LoLi 91",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 650,
+            "sell": 1150000,
             "image": "https://drive.google.com/file/d/1XOGbIvQHNc9BVzOoCS0W8Hgy3yKkyfQI/view?usp=drivesdk"
           },
           {
-            "name": "LL 92",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 1200,
-            "weight": 120.0,
-            "sell": 5800000,
+            "name": "LoLi 92",
+            "category": "『★★』✨",
+            "size": 72,
+            "sell": 78500,
             "image": "https://drive.google.com/file/d/10u0iP0CMpn5Eo1Vs_Qw4DsSPdSb8M6zG/view?usp=drivesdk"
           },
           {
-            "name": "LL 93",
+            "name": "LoLi 93",
             "category": "【★】🌿",
-            "size": 33,
-            "weight": 1.3,
-            "sell": 2500,
+            "size": 13,
+            "sell": 11500,
             "image": "https://drive.google.com/file/d/1Gn7HDRXTp1allfiCWPdNKKz-kZkQUdIG/view?usp=drivesdk"
           },
           {
-            "name": "LL 94",
-            "category": "〖★★★〗💫",
-            "size": 105,
-            "weight": 10.5,
-            "sell": 22000,
+            "name": "LoLi 94",
+            "category": "✧★★★★★★✧👑✨",
+            "size": 7100,
+            "sell": 7300000,
             "image": "https://drive.google.com/file/d/1XRyzvQ-krnPZ843BjlaiEfUywEgEUnsY/view?usp=drivesdk"
           },
           {
-            "name": "LL 95",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 285,
-            "weight": 28.5,
-            "sell": 142000,
+            "name": "LoLi 95",
+            "category": "『★★』✨",
+            "size": 128,
+            "sell": 130500,
             "image": "https://drive.google.com/file/d/1TrSOMcbyaVDtR41nxsoYUkUpVKD6tETB/view?usp=drivesdk"
           },
           {
-            "name": "LL 96",
-            "category": "『★★』✨",
-            "size": 68,
-            "weight": 2.2,
-            "sell": 8200,
+            "name": "LoLi 96",
+            "category": "【★】🌿",
+            "size": 21,
+            "sell": 16000,
             "image": "https://drive.google.com/file/d/1i_Sf_NhoHOW5TzyB7kgvZ1vp0cLOvzOB/view?usp=drivesdk"
           },
           {
-            "name": "LL 97",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 340,
-            "weight": 34.0,
-            "sell": 290000,
+            "name": "LoLi 97",
+            "category": "〖★★★〗💫",
+            "size": 290,
+            "sell": 345000,
             "image": "https://drive.google.com/file/d/1oroLLZdGDZVFYLmOUS3y6P6rPGYAJLI5/view?usp=drivesdk"
           },
           {
-            "name": "LL 98",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 460,
-            "weight": 46.0,
-            "sell": 850000,
+            "name": "LoLi 98",
+            "category": "⟪★★★★★★★⟫💀⚔️",
+            "size": 28000,
+            "sell": 19500000,
             "image": "https://drive.google.com/file/d/1RxbBcnmWFgQauac561mFhywpU2bViZew/view?usp=drivesdk"
           },
           {
-            "name": "LL 99",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 2800,
-            "weight": 280.0,
-            "sell": 6800000,
+            "name": "LoLi 99",
+            "category": "『★★』✨",
+            "size": 85,
+            "sell": 99000,
             "image": "https://drive.google.com/file/d/1E01moTNc7Kwih-wqF7nbu3guS9asB46G/view?usp=drivesdk"
           },
           {
-            "name": "LL 100",
+            "name": "LoLi 100",
             "category": "【★】🌿",
-            "size": 47,
-            "weight": 2.7,
-            "sell": 4100,
+            "size": 35,
+            "sell": 21500,
             "image": "https://drive.google.com/file/d/1dtTtYGWJGBiqk3pN3Ko1ZPteMfRtYyK4/view?usp=drivesdk"
+          }
+                ]
+            },
+      {
+        "name": "Khu Vực : Pansu",
+        "creature": [
+          {
+            "name": "Pansu 1",
+            "category": "【★】🌿",
+            "size": 25,
+            "sell": 17000,
+            "image": "https://drive.google.com/file/d/14n4JkwNoUsesxQow_46dKRxo_5OgRknP/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 2",
+            "category": "【★】🌿",
+            "size": 41,
+            "sell": 28000,
+            "image": "https://drive.google.com/file/d/1VHWOjucP-7wMrsmS35SSaS3-O262LlB_/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 3",
+            "category": "【★】🌿",
+            "size": 18,
+            "sell": 11000,
+            "image": "https://drive.google.com/file/d/1o1B1eluFj282jIumVkqOBQql69xkmOyb/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 4",
+            "category": "【★】🌿",
+            "size": 33,
+            "sell": 25000,
+            "image": "https://drive.google.com/file/d/1za9z9w8KPhb5qcWtACkjutTcjdz_4fsB/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 5",
+            "category": "【★】🌿",
+            "size": 49,
+            "sell": 19000,
+            "image": "https://drive.google.com/file/d/1M1j-6VYg7nwtZ8PLhdgTfjITh75wY1Es/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 6",
+            "category": "【★】🌿",
+            "size": 21,
+            "sell": 14000,
+            "image": "https://drive.google.com/file/d/1o1ImhpYkCPXcrEDGjNhKaeqYObnM2vJF/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 7",
+            "category": "【★】🌿",
+            "size": 37,
+            "sell": 22000,
+            "image": "https://drive.google.com/file/d/1OAj8L5Dnj_UUJlY6tmbZeXhA_0etdGN5/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 8",
+            "category": "【★】🌿",
+            "size": 50,
+            "sell": 30000,
+            "image": "https://drive.google.com/file/d/1OldcXJ1PGvcuLQ6HgCYa9cdEqdk9ANZm/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 9",
+            "category": "【★】🌿",
+            "size": 15,
+            "sell": 15000,
+            "image": "https://drive.google.com/file/d/1gbcH2J2NME_vdIFHvH2TXcLnR7cUmuxD/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 10",
+            "category": "【★】🌿",
+            "size": 45,
+            "sell": 26000,
+            "image": "https://drive.google.com/file/d/1mGl3kY4Ev1SxLcsYTjAKdLOp8WEDkFM4/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 11",
+            "category": "【★】🌿",
+            "size": 11,
+            "sell": 12000,
+            "image": "https://drive.google.com/file/d/1IUtRJK3ux39RCVdnWQpJ-gEufwt78kxg/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 12",
+            "category": "【★】🌿",
+            "size": 39,
+            "sell": 29000,
+            "image": "https://drive.google.com/file/d/1J6Pz9edO_niNyhvCrZxlU3GaSfUPEhD0/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 13",
+            "category": "【★】🌿",
+            "size": 30,
+            "sell": 20000,
+            "image": "https://drive.google.com/file/d/1bXAjwchgsyIyulYaz45x5LUC8i1t1GUB/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 14",
+            "category": "『★★』✨",
+            "size": 95,
+            "sell": 85000,
+            "image": "https://drive.google.com/file/d/1Kw04RcY9m6sqFqjsRdiUhrUgwiOlRSfz/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 15",
+            "category": "『★★』✨",
+            "size": 140,
+            "sell": 130000,
+            "image": "https://drive.google.com/file/d/16H-dmTiujRIXCpvN0AgKM7kTDBYYd7sv/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 16",
+            "category": "『★★』✨",
+            "size": 72,
+            "sell": 60000,
+            "image": "https://drive.google.com/file/d/1qP2xjnXI27RSjL_qsIimFsGu28YV4wWz/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 17",
+            "category": "『★★』✨",
+            "size": 118,
+            "sell": 105000,
+            "image": "https://drive.google.com/file/d/1cHPxUGjVnl7DVDOALCxQbLOreNmB4jE4/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 18",
+            "category": "『★★』✨",
+            "size": 148,
+            "sell": 145000,
+            "image": "https://drive.google.com/file/d/1ohFEItWbdIST-tM4i62BAreRJRGkG2Cg/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 19",
+            "category": "『★★』✨",
+            "size": 88,
+            "sell": 75000,
+            "image": "https://drive.google.com/file/d/1Bv7XRPlz1X4uxfWJ1iilr09SECFlwFCW/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 20",
+            "category": "『★★』✨",
+            "size": 125,
+            "sell": 115000,
+            "image": "https://drive.google.com/file/d/1K6aqJIwRylNC2oZyfbJz93m7ztsXTJe-/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 21",
+            "category": "『★★』✨",
+            "size": 105,
+            "sell": 90000,
+            "image": "https://drive.google.com/file/d/1CWKZehySQY67ZRrPHISTnXd2eg7aIzM1/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 22",
+            "category": "『★★』✨",
+            "size": 65,
+            "sell": 55000,
+            "image": "https://drive.google.com/file/d/1NjdAOc83XsZFDr1laXY_KzIXk1QlOXlL/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 23",
+            "category": "〖★★★〗💫",
+            "size": 250,
+            "sell": 320000,
+            "image": "https://drive.google.com/file/d/1flgh1Q_Q7_ud2nJHD12qRaxa7MK5UVts/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 24",
+            "category": "〖★★★〗💫",
+            "size": 470,
+            "sell": 480000,
+            "image": "https://drive.google.com/file/d/1ybpMmbZKXT_xwKuKrzRSK1HRB2xehrAb/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 25",
+            "category": "〖★★★〗💫",
+            "size": 210,
+            "sell": 260000,
+            "image": "https://drive.google.com/file/d/1fL4srooebAAPMdQ5k4JGEfNAfyqSn8Dg/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 26",
+            "category": "〖★★★〗💫",
+            "size": 380,
+            "sell": 410000,
+            "image": "https://drive.google.com/file/d/1vHYosoz-ryp4LacP2yJyvjLtCH9AaV-V/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 27",
+            "category": "〖★★★〗💫",
+            "size": 300,
+            "sell": 350000,
+            "image": "https://drive.google.com/file/d/1vcw2hAbhhCpGCQYz-9Md0ro-UJn7a3bl/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 28",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 750,
+            "sell": 1500000,
+            "image": "https://drive.google.com/file/d/1vKwauD99rJjvtFTPF01RPVwnMIk5tc1L/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 29",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 900,
+            "sell": 2200000,
+            "image": "https://drive.google.com/file/d/1hpP6nfMukUHGjq7owY76Tp3IniNUo3x4/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 30",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 650,
+            "sell": 1100000,
+            "image": "https://drive.google.com/file/d/1JDROveCX4Efi0BVtN4VQ30QpF2zMy4Wb/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 31",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 950,
+            "sell": 2400000,
+            "image": "https://drive.google.com/file/d/1F8HAlM657MMtmgc1TH9o1WvCxbT2yRlK/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 32",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 2500,
+            "sell": 3500000,
+            "image": "https://drive.google.com/file/d/14FObPt0izisvmmWCvKsKm85amxbkrzpd/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 33",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 4500,
+            "sell": 4800000,
+            "image": "https://drive.google.com/file/d/1UWvUWHUMeAuGX9Zjd8X8eN6aDP_lIywG/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 34",
+            "category": "✧★★★★★★✧👑✨",
+            "size": 7800,
+            "sell": 8000000,
+            "image": "https://drive.google.com/file/d/1m3osE1L9hdZ55lKUmFJycZvHfs2QDYRl/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 35",
+            "category": "✧★★★★★★✧👑✨",
+            "size": 9200,
+            "sell": 9500000,
+            "image": "https://drive.google.com/file/d/1UVZN59m_rCXAgHIapJllvP5THbpVvP8f/view?usp=drivesdk"
+          },
+          {
+            "name": "Pansu 36",
+            "category": "⟪★★★★★★★⟫💀⚔️",
+            "size": 22000,
+            "sell": 18000000,
+            "image": "https://drive.google.com/file/d/1TQN5GGySqqaAyxboQew7iMm6kviZyCd3/view?usp=drivesdk"
           }
         ]
       }
@@ -816,464 +972,707 @@
     "image": "https://i.imgur.com/GqGt4D6.jpg",
     "area": [
       {
-        "name": "Khu Vực : Nguy Hiểm",
-        "description": "Khu vực chứa các sinh vật hiếm, nguy hiểm, có giá trị cao.",
+        "name": "Khu Vực : ☠⚠☠⚠",
         "creature": [
           {
-            "name": "⚠☠ 1",
+            "name": "L ⚠ 1",
             "category": "『★★』✨",
-            "size": 135,
-            "weight": 8.5,
-            "sell": 25000,
-            "image": "https://drive.google.com/file/d/1ujht4IF4CYwCSy0yALFyJ7RqV5Qf2HY5/view?usp=drivesdk"
+            "size": 115,
+            "sell": 135000,
+            "image": "https://drive.google.com/file/d/1837HD6CSyjOtF5ksUjvvdpwVOtQpmMZg/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 2",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 4800,
-            "weight": 850.5,
-            "sell": 8500000,
-            "image": "https://drive.google.com/file/d/1pFTJS-B9anyvZP-_mhOYnX9FDAauPTFp/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 3",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 650,
-            "weight": 85.0,
-            "sell": 450000,
-            "image": "https://drive.google.com/file/d/16Ci0-J2u-zb47XBv0GkJaQMeMr2jeFYl/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 4",
-            "category": "〖★★★〗💫",
-            "size": 285,
-            "weight": 25.5,
-            "sell": 70000,
-            "image": "https://drive.google.com/file/d/1_s5Byl21s0ifM54HA6QRvVeeoKgRxyK5/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 5",
+            "name": "L ⚠ 2",
             "category": "⟬★★★★⟭🔥💥",
-            "size": 420,
-            "weight": 45.0,
-            "sell": 150000,
-            "image": "https://drive.google.com/file/d/1YQqr78gu6DgxDSev9i4puqd6t4HPOXQq/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 6",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 1200,
-            "weight": 170.0,
+            "size": 750,
             "sell": 1200000,
-            "image": "https://drive.google.com/file/d/18ftj4ZbeXII9sIwvMNUbENI2BGsxFrP9/view?usp=drivesdk"
+            "image": "https://drive.google.com/file/d/12eBZeHlaAhhfNMQKktlyOdXKtf2paqwF/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 7",
+            "name": "L ⚠ 3",
             "category": "【★】🌿",
-            "size": 60,
-            "weight": 4.0,
-            "sell": 10000,
-            "image": "https://drive.google.com/file/d/1Ss6WVf4G2mCdOIivwS3Vt3_8z17IJC_0/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 8",
-            "category": "〖★★★〗💫",
-            "size": 180,
-            "weight": 15.0,
-            "sell": 45000,
-            "image": "https://drive.google.com/file/d/1iCXmDuizqSjfjeNXQtjjtwYiCnMvwh6t/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 9",
-            "category": "『★★』✨",
-            "size": 95,
-            "weight": 6.0,
-            "sell": 20000,
-            "image": "https://drive.google.com/file/d/1awqnFWolYoYYMCEchPkfbULrklPXCEuj/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 10",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 580,
-            "weight": 75.0,
-            "sell": 350000,
-            "image": "https://drive.google.com/file/d/1IQGlWrPIOkxOsTnufEkEneyZTytWIWWN/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 11",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 480,
-            "weight": 55.0,
-            "sell": 180000,
-            "image": "https://drive.google.com/file/d/16jASlrpScZmWALsGq-a-wM43fKBjG5Th/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 12",
-            "category": "【★】🌿",
-            "size": 75,
-            "weight": 4.5,
-            "sell": 12000,
-            "image": "https://drive.google.com/file/d/1eNYASgCmyYtB-IDKv2znoZQ9-8rEyrLj/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 13",
-            "category": "『★★』✨",
-            "size": 110,
-            "weight": 7.5,
+            "size": 38,
             "sell": 22000,
-            "image": "https://drive.google.com/file/d/1OgcWz8GMVpUzEURGna8g-4-zIH3kt2kf/view?usp=drivesdk"
+            "image": "https://drive.google.com/file/d/1rlkE-jLHslULK_ZQzjwZSH5-CAF53hmB/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 14",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 3500,
-            "weight": 750.5,
-            "sell": 7500000,
-            "image": "https://drive.google.com/file/d/1KQQBlWFr0LQekGkIamhIdU9_H8urN030/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 15",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 850,
-            "weight": 110.0,
-            "sell": 700000,
-            "image": "https://drive.google.com/file/d/15rSl3NUriqqZdcVUKqnInMeB506c3wHl/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 16",
+            "name": "L ⚠ 4",
             "category": "〖★★★〗💫",
-            "size": 250,
-            "weight": 20.0,
-            "sell": 60000,
-            "image": "https://drive.google.com/file/d/1cDxlKTnF6AHG8IvlhfS9VcB7RL3pvMrU/view?usp=drivesdk"
+            "size": 255,
+            "sell": 310000,
+            "image": "https://drive.google.com/file/d/12VW0mY_d0Z4fFv6ad3lHG_biu4GYZLw6/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 17",
+            "name": "L ⚠ 5",
+            "category": "『★★』✨",
+            "size": 90,
+            "sell": 75000,
+            "image": "https://drive.google.com/file/d/1hI1NksNX4X6SlapvA1VB06kDXp5io_dm/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 6",
             "category": "【★】🌿",
-            "size": 40,
-            "weight": 2.5,
-            "sell": 6000,
-            "image": "https://drive.google.com/file/d/1KJkpXuXCzQ99W_nx_W_lGp5aW56Aiiwr/view?usp=drivesdk"
+            "size": 15,
+            "sell": 11000,
+            "image": "https://drive.google.com/file/d/1Ibmn97DlHNX8ZlV9kLbWWR37D1tjRRo8/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 18",
+            "name": "L ⚠ 7",
             "category": "⟬★★★★⟭🔥💥",
-            "size": 330,
-            "weight": 35.0,
-            "sell": 110000,
-            "image": "https://drive.google.com/file/d/1O8doDD34ReZymIl0IaG3x0rHmYj4AVZj/view?usp=drivesdk"
+            "size": 920,
+            "sell": 2100000,
+            "image": "https://drive.google.com/file/d/16dZk8-rqTgnzvnpam_KVFY3M7OIqaAG5/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 19",
+            "name": "L ⚠ 8",
             "category": "『★★』✨",
             "size": 145,
-            "weight": 9.5,
-            "sell": 28000,
-            "image": "https://drive.google.com/file/d/19UwTy8G5CWF923yIqxZaAEErGiemL_Z-/view?usp=drivesdk"
+            "sell": 140000,
+            "image": "https://drive.google.com/file/d/15Db2IwGJAad94LUSpqnWIo5B5kk_YvQL/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 20",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 750,
-            "weight": 95.0,
-            "sell": 550000,
-            "image": "https://drive.google.com/file/d/1yzwAyVKN6hJlv9oA0-eCUPSmzUtM_sxz/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 21",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 1800,
-            "weight": 350.5,
-            "sell": 5000000,
-            "image": "https://drive.google.com/file/d/1qZb_xi91rI79d0FFd3udtZK9kQJjaExH/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 22",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 1400,
-            "weight": 190.0,
-            "sell": 1450000,
-            "image": "https://drive.google.com/file/d/1-Z8KfoZrwcFR01j1xbwmekQqAXA24s4Q/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 23",
-            "category": "【★】🌿",
-            "size": 50,
-            "weight": 3.0,
-            "sell": 7500,
-            "image": "https://drive.google.com/file/d/1WKNjb4YebTz4kGXnwYqJDliOsaMR6q2B/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 24",
+            "name": "L ⚠ 9",
             "category": "〖★★★〗💫",
-            "size": 200,
-            "weight": 17.5,
-            "sell": 50000,
-            "image": "https://drive.google.com/file/d/1G5LqssL-2sbnoGrxBw7ou19bVSHSmqA7/view?usp=drivesdk"
+            "size": 480,
+            "sell": 490000,
+            "image": "https://drive.google.com/file/d/1uDisbohVzijOqKjNGMezMm2rQQHPYz9U/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 25",
+            "name": "L ⚠ 10",
+            "category": "【★】🌿",
+            "size": 40,
+            "sell": 28000,
+            "image": "https://drive.google.com/file/d/1dtZSlGfFHvt7J60Qb2EXtGNsvbkpk7R7/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 11",
+            "category": "〖★★★〗💫",
+            "size": 330,
+            "sell": 400000,
+            "image": "https://drive.google.com/file/d/1cQFT1wtahoLicAg3QpsW_YKxHKl2b_yH/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 12",
             "category": "『★★』✨",
-            "size": 85,
-            "weight": 5.5,
+            "size": 65,
+            "sell": 55000,
+            "image": "https://drive.google.com/file/d/1u_b1aKwPWSBH6YO--xIDML_kKCljPa0U/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 13",
+            "category": "【★】🌿",
+            "size": 25,
             "sell": 18000,
-            "image": "https://drive.google.com/file/d/1WGVGz8Wklqvnn6aKbEPMj6vkJ5JQ5r6N/view?usp=drivesdk"
+            "image": "https://drive.google.com/file/d/1fktyahIE6VBYlem2HVfqNfJ_9VVbKdYv/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 26",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 390,
-            "weight": 42.5,
-            "sell": 135000,
-            "image": "https://drive.google.com/file/d/1pdSN5aUr-7cMZOksQj340hUGruTdaCuP/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 27",
+            "name": "L ⚠ 14",
             "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 520,
-            "weight": 65.0,
-            "sell": 250000,
-            "image": "https://drive.google.com/file/d/1IXF_t-B3DcQN5BVvViQF2nu3xlE65Ofz/view?usp=drivesdk"
+            "size": 4200,
+            "sell": 3900000,
+            "image": "https://drive.google.com/file/d/13VVtQXOu2PsC9nApkm3pBWlPdDHaInVi/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 28",
+            "name": "L ⚠ 15",
+            "category": "『★★』✨",
+            "size": 100,
+            "sell": 85000,
+            "image": "https://drive.google.com/file/d/18ikdAu2S2nt0krKvLbkmPbUkRR5O13oM/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 16",
+            "category": "【★】🌿",
+            "size": 48,
+            "sell": 29000,
+            "image": "https://drive.google.com/file/d/1lCbC_L237TMoiWYpyYrqAPc1tnGLV0DZ/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 17",
+            "category": "〖★★★〗💫",
+            "size": 210,
+            "sell": 270000,
+            "image": "https://drive.google.com/file/d/1YoGCGTBtcKvITNCAValn7DMx-IHEXQ_H/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 18",
             "category": "✧★★★★★★✧👑✨",
-            "size": 950,
-            "weight": 125.0,
-            "sell": 900000,
-            "image": "https://drive.google.com/file/d/1lFi2HYE2pE6qmWUipxng3LsO9JdnTIsU/view?usp=drivesdk"
+            "size": 9500,
+            "sell": 7800000,
+            "image": "https://drive.google.com/file/d/1B8kfoHb-dMraDcmXqoPZ0HcA2B2m-h9p/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 29",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 5000,
-            "weight": 900.5,
-            "sell": 9500000,
-            "image": "https://drive.google.com/file/d/1tTL1Mw27d349PnUARtu8cS3GsL4u3jZI/view?usp=drivesdk"
+            "name": "L ⚠ 19",
+            "category": "『★★』✨",
+            "size": 130,
+            "sell": 115000,
+            "image": "https://drive.google.com/file/d/14MU0S-36pwGN9NHwBrI6w_GKqPnooNLZ/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 30",
+            "name": "L ⚠ 20",
             "category": "【★】🌿",
             "size": 35,
-            "weight": 2.0,
-            "sell": 5500,
-            "image": "https://drive.google.com/file/d/16qsZD-WSCJSPQkiAyu2yKM4WlnHmhxwh/view?usp=drivesdk"
+            "sell": 20000,
+            "image": "https://drive.google.com/file/d/1ZUo3skTr95L5YbKf5hB0dshSEDi_slAQ/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 31",
-            "category": "〖★★★〗💫",
-            "size": 225,
-            "weight": 18.5,
-            "sell": 55000,
-            "image": "https://drive.google.com/file/d/1tEFvJz9YrfojCMs91I2mRQH3XNKeO22z/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 32",
+            "name": "L ⚠ 21",
             "category": "⟬★★★★⟭🔥💥",
-            "size": 360,
-            "weight": 38.0,
-            "sell": 120000,
-            "image": "https://drive.google.com/file/d/1sGa4NlQFhOsKdFWLPGmCk-yaJzVC5-FQ/view?usp=drivesdk"
+            "size": 650,
+            "sell": 1500000,
+            "image": "https://drive.google.com/file/d/1ZOlQhyIMQ5hEo8Ju86GXSFpEGPPZn37p/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 33",
-            "category": "『★★』✨",
-            "size": 125,
-            "weight": 8.0,
-            "sell": 24000,
-            "image": "https://drive.google.com/file/d/1mWPfZQuWNvUqpA3LbITp2XNua8zTolIA/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 34",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 700,
-            "weight": 90.0,
-            "sell": 500000,
-            "image": "https://drive.google.com/file/d/1R8t2UxDWCDYq-zdoe3LSjM96R9iOaRry/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 35",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 1100,
-            "weight": 150.0,
-            "sell": 1050000,
-            "image": "https://drive.google.com/file/d/1bVA9iOK66f6KvC7EC6fjvZZVF281yOpY/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 36",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 2500,
-            "weight": 550.5,
-            "sell": 6000000,
-            "image": "https://drive.google.com/file/d/1sWYW-S-Uq1erhvNrWyvBHW8tzkAdTRoY/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 37",
-            "category": "【★】🌿",
-            "size": 55,
-            "weight": 3.5,
-            "sell": 8500,
-            "image": "https://drive.google.com/file/d/1of9nPu_zx5AS2b4v07OS6oKQLGYECzJT/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 38",
+            "name": "L ⚠ 22",
             "category": "〖★★★〗💫",
-            "size": 295,
-            "weight": 28.5,
-            "sell": 78000,
-            "image": "https://drive.google.com/file/d/1hsO7S7vDhymOvoX_Hn3Uoodlo0PiNh8e/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 39",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 500,
-            "weight": 60.0,
-            "sell": 200000,
-            "image": "https://drive.google.com/file/d/1xf99Tf4AevkgzsDvAARe4QNOBr3emfjH/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 40",
-            "category": "『★★』✨",
-            "size": 105,
-            "weight": 7.0,
-            "sell": 21000,
-            "image": "https://drive.google.com/file/d/1jz9z6SwzorY3EZZEkkR8__kvcf53x1gl/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 41",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 600,
-            "weight": 80.0,
-            "sell": 400000,
-            "image": "https://drive.google.com/file/d/1SmGxXpQfQ9G3zzk6tCrKdbeio7PyMMb4/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 42",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 1050,
-            "weight": 140.0,
-            "sell": 1000000,
-            "image": "https://drive.google.com/file/d/18wQx11n5MaUy8m5S8XonS8CZ0_0Aq9rH/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 43",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 4000,
-            "weight": 800.5,
-            "sell": 8000000,
-            "image": "https://drive.google.com/file/d/1TR0Q4K4h2X44TwL2y7awPkVsDn-UHhlu/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 44",
-            "category": "【★】🌿",
-            "size": 70,
-            "weight": 4.0,
-            "sell": 11000,
-            "image": "https://drive.google.com/file/d/1hzgXF8G30G-buY0_7tVBX2mTUYF7KLzm/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 45",
-            "category": "〖★★★〗💫",
-            "size": 170,
-            "weight": 13.5,
-            "sell": 40000,
-            "image": "https://drive.google.com/file/d/1ADWEQUZd9RPP4K58tMQrBGFEt538ylc2/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 46",
-            "category": "⟬★★★★⟭🔥💥",
             "size": 450,
-            "weight": 50.0,
-            "sell": 160000,
-            "image": "https://drive.google.com/file/d/1JJZI8vghw04k2uH7LSPaLp2NnJZoBDlo/view?usp=drivesdk"
+            "sell": 450000,
+            "image": "https://drive.google.com/file/d/1FUv49YgK7vvMut8lhUjzWCxcITi6TssE/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 47",
+            "name": "L ⚠ 23",
             "category": "『★★』✨",
-            "size": 150,
-            "weight": 10.0,
-            "sell": 30000,
-            "image": "https://drive.google.com/file/d/1pDyhrxNDpeDYoh-FTVqC7i3OslSRzJMr/view?usp=drivesdk"
+            "size": 70,
+            "sell": 60000,
+            "image": "https://drive.google.com/file/d/1kneUVWzyXfgr3tti1w5ONvKSS1AwidSm/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 48",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 780,
-            "weight": 100.0,
-            "sell": 600000,
-            "image": "https://drive.google.com/file/d/1W-PXJRspdGUGN3TouHEbVh2m4PLY8ZdE/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 49",
-            "category": "✧★★★★★★✧👑✨",
-            "size": 1300,
-            "weight": 185.0,
-            "sell": 1400000,
-            "image": "https://drive.google.com/file/d/1EjG3b16gRHL5jOxHyd6qZQqDClXpLHxc/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 50",
-            "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 5500,
-            "weight": 999.0,
-            "sell": 10000000,
-            "image": "https://drive.google.com/file/d/1r-kHj_umazX-x7skGHJhs7W9DUPVaH3f/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 51",
+            "name": "L ⚠ 24",
             "category": "【★】🌿",
-            "size": 45,
-            "weight": 2.8,
-            "sell": 7000,
-            "image": "https://drive.google.com/file/d/1LOyq1DohkLK0s3tDUejcPw_exP6hKi7d/view?usp=drivesdk"
+            "size": 12,
+            "sell": 10500,
+            "image": "https://drive.google.com/file/d/1EiRj2GM87s8sBMWbKErhncvjm5oaKUWt/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 52",
+            "name": "L ⚠ 25",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 2800,
+            "sell": 4800000,
+            "image": "https://drive.google.com/file/d/1PDDLD36Bdj5f3MxVij4yFLUjSO65hg-f/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 26",
             "category": "〖★★★〗💫",
-            "size": 240,
-            "weight": 19.5,
-            "sell": 58000,
-            "image": "https://drive.google.com/file/d/1Pn16Ta0LXWr-y2rjdUdgbx2tIqA7F0Gn/view?usp=drivesdk"
+            "size": 380,
+            "sell": 330000,
+            "image": "https://drive.google.com/file/d/1lp2gutfcaagSZVQ0cFv8zQqMjKkJh9ap/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 53",
-            "category": "⟬★★★★⟭🔥💥",
-            "size": 310,
-            "weight": 32.5,
-            "sell": 100000,
-            "image": "https://drive.google.com/file/d/1lC0H9ZGk9XXIJRdBhWl6_c732dAkSzyo/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 54",
+            "name": "L ⚠ 27",
             "category": "『★★』✨",
             "size": 88,
-            "weight": 5.8,
+            "sell": 80000,
+            "image": "https://drive.google.com/file/d/1GuDy-hudD4boIQ1gHJ9R7mjt6c7NceSn/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 28",
+            "category": "【★】🌿",
+            "size": 30,
             "sell": 19000,
-            "image": "https://drive.google.com/file/d/18Q3LTaaCm5Vq9Y9oFEv5SLRiF9lK0B_t/view?usp=drivesdk"
+            "image": "https://drive.google.com/file/d/1IuRup3o7Fjsmb0fbytUG5zztNPq1057S/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 55",
-            "category": "𓆩★★★★★𓆪⚡💎",
-            "size": 550,
-            "weight": 70.0,
-            "sell": 300000,
-            "image": "https://drive.google.com/file/d/170-0yNmfvgYuYD3aDc9gEPwy3EYuXi-K/view?usp=drivesdk"
-          },
-          {
-            "name": "⚠☠ 56",
-            "category": "✧★★★★★★✧👑✨",
+            "name": "L ⚠ 29",
+            "category": "⟬★★★★⟭🔥💥",
             "size": 800,
-            "weight": 105.0,
-            "sell": 650000,
-            "image": "https://drive.google.com/file/d/1C1rULLC3zhBatZCukF27R_OXV49WttAe/view?usp=drivesdk"
+            "sell": 2400000,
+            "image": "https://drive.google.com/file/d/15ggLbxodc2-yIgl75xQWRcR2jE4Twg_M/view?usp=drivesdk"
           },
           {
-            "name": "⚠☠ 57",
+            "name": "L ⚠ 30",
+            "category": "〖★★★〗💫",
+            "size": 200,
+            "sell": 260000,
+            "image": "https://drive.google.com/file/d/13w_DY8ThRtNOIa3DM-dqN0ZWPYDoW3k0/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 31",
+            "category": "『★★』✨",
+            "size": 150,
+            "sell": 150000,
+            "image": "https://drive.google.com/file/d/1b74L2eyNlANkkd7zVw9Ey3lxvceC3Sv7/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 32",
+            "category": "【★】🌿",
+            "size": 42,
+            "sell": 25000,
+            "image": "https://drive.google.com/file/d/1MlesyRpFG_TbnuIbU-kCRJnlBenE-zyh/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 33",
             "category": "⟪★★★★★★★⟫💀⚔️",
-            "size": 3000,
-            "weight": 600.5,
-            "sell": 6500000,
-            "image": "https://drive.google.com/file/d/1nIsHEWdzCdWhzhLF0KvW4SvDix1UuP4o/view?usp=drivesdk"
+            "size": 22000,
+            "sell": 18000000,
+            "image": "https://drive.google.com/file/d/1OlONCW-01v9eaABDo__4Crs94lb90AXf/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 34",
+            "category": "〖★★★〗💫",
+            "size": 310,
+            "sell": 350000,
+            "image": "https://drive.google.com/file/d/1hwehTBVugdXNeCCA2EBxhuuNqV5pcoCS/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 35",
+            "category": "『★★』✨",
+            "size": 110,
+            "sell": 95000,
+            "image": "https://drive.google.com/file/d/1gxFHRGkBxQPJlhBlkdzCmCrD63UPA2uL/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 36",
+            "category": "【★】🌿",
+            "size": 10,
+            "sell": 15000,
+            "image": "https://drive.google.com/file/d/1pEGXmxSpQEOKFc5RL0XcLDZMivTv1jV8/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 37",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 980,
+            "sell": 2300000,
+            "image": "https://drive.google.com/file/d/12wTZxXXmbnptWCEscKhLMnX6Qv-QqwOS/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 38",
+            "category": "〖★★★〗💫",
+            "size": 400,
+            "sell": 430000,
+            "image": "https://drive.google.com/file/d/1iId8u3H6gHsZYv9_uKi48BnvQDWH9Q6x/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 39",
+            "category": "『★★』✨",
+            "size": 125,
+            "sell": 105000,
+            "image": "https://drive.google.com/file/d/1FFg22hZQi_XBuRSZylp7x_4DoGhiVmjD/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 40",
+            "category": "【★】🌿",
+            "size": 18,
+            "sell": 12000,
+            "image": "https://drive.google.com/file/d/1hl2Xj37WdxXDE7T2ZAc8QYBYIWLRLu2E/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 41",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 5000,
+            "sell": 5000000,
+            "image": "https://drive.google.com/file/d/1yIZ_OpNXMp6bAp0fulIg9VkO9wyssdIc/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 42",
+            "category": "〖★★★〗💫",
+            "size": 490,
+            "sell": 500000,
+            "image": "https://drive.google.com/file/d/1ShIKqNcXllAzDZaRyMJp80s0zWP62AX7/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 43",
+            "category": "『★★』✨",
+            "size": 80,
+            "sell": 70000,
+            "image": "https://drive.google.com/file/d/1GGHczTXvd_WhvA4IheBgjr6cALIGpC79/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 44",
+            "category": "【★】🌿",
+            "size": 45,
+            "sell": 27000,
+            "image": "https://drive.google.com/file/d/164g_hORe6iWJe6_GMSwtEkmqMPKFMwsw/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 45",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 600,
+            "sell": 1100000,
+            "image": "https://drive.google.com/file/d/1Ph7iQ4lUK1er9EaxBqNY6TUQ3YCUmlIp/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 46",
+            "category": "〖★★★〗💫",
+            "size": 280,
+            "sell": 340000,
+            "image": "https://drive.google.com/file/d/1QC0Tp8OeAWk2430NRlk7BgahX8XPdo6c/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 47",
+            "category": "『★★』✨",
+            "size": 135,
+            "sell": 120000,
+            "image": "https://drive.google.com/file/d/1ePkubyGIMW9x5YyrDlTXDyUZlDtlWqRY/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 48",
+            "category": "【★】🌿",
+            "size": 22,
+            "sell": 17000,
+            "image": "https://drive.google.com/file/d/1w5cmlC6OgQm5eDsACmj7wdNRaLVTOViy/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 49",
+            "category": "✧★★★★★★✧👑✨",
+            "size": 7500,
+            "sell": 9900000,
+            "image": "https://drive.google.com/file/d/1c9qKXKsfA5Nm9kC-D-KbDW5KernqdF3k/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 50",
+            "category": "〖★★★〗💫",
+            "size": 410,
+            "sell": 460000,
+            "image": "https://drive.google.com/file/d/1_ujSLVJhwqepWT9bPqATCYS_rrERBFEh/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 51",
+            "category": "『★★』✨",
+            "size": 95,
+            "sell": 85000,
+            "image": "https://drive.google.com/file/d/1euA_7Q7THozpPDrfARus1akP2airEdTL/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 52",
+            "category": "【★】🌿",
+            "size": 33,
+            "sell": 24000,
+            "image": "https://drive.google.com/file/d/12C4iI0gL1S2e3JSCZdZ6RZsSrY6uZNZd/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 53",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 780,
+            "sell": 1800000,
+            "image": "https://drive.google.com/file/d/18bRj57hZC3UKiPL1Cak9hxF3131zVrua/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 54",
+            "category": "〖★★★〗💫",
+            "size": 360,
+            "sell": 420000,
+            "image": "https://drive.google.com/file/d/1bVVwyKktWvJdBKllYytEjyUf-WeqqDy9/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 55",
+            "category": "『★★』✨",
+            "size": 140,
+            "sell": 130000,
+            "image": "https://drive.google.com/file/d/1ujIfZzKTkYPvLj_cxyZFvdM-Ec2IVdgX/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 56",
+            "category": "【★】🌿",
+            "size": 28,
+            "sell": 16000,
+            "image": "https://drive.google.com/file/d/15khxXkU7EIUXq60rb690Yb3LaSE9Pk4n/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 57",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 3100,
+            "sell": 3500000,
+            "image": "https://drive.google.com/file/d/1N9QgoOD1yDZ1h4AqdPrrFfL2tTiRvorE/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 58",
+            "category": "〖★★★〗💫",
+            "size": 240,
+            "sell": 290000,
+            "image": "https://drive.google.com/file/d/1RNsj-Tl8Rfbs-fnaot-kDMil1QgCVUve/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 59",
+            "category": "『★★』✨",
+            "size": 110,
+            "sell": 100000,
+            "image": "https://drive.google.com/file/d/16j904AmXKLAjWlR4MfAXdCBcnlHaWTNP/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 60",
+            "category": "【★】🌿",
+            "size": 50,
+            "sell": 30000,
+            "image": "https://drive.google.com/file/d/14SL01IDk51bPYwEJypTRQ1oIEGwezXbr/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 61",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 900,
+            "sell": 2000000,
+            "image": "https://drive.google.com/file/d/1JWH2l0f8RA_CYRH37bBxCov_rdLAkOOQ/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 62",
+            "category": "〖★★★〗💫",
+            "size": 300,
+            "sell": 360000,
+            "image": "https://drive.google.com/file/d/1VjuXgm9Yu37J2usJmIRHIyiq9nH_Xj4O/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 63",
+            "category": "『★★』✨",
+            "size": 60,
+            "sell": 50000,
+            "image": "https://drive.google.com/file/d/1-wV_bAWPTQpUEJKUSzrO1vaBHcodCi0a/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 64",
+            "category": "【★】🌿",
+            "size": 11,
+            "sell": 10000,
+            "image": "https://drive.google.com/file/d/1v3fN-Rx3EgU06KSZVBahPTlhRZkyQd4p/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 65",
+            "category": "✧★★★★★★✧👑✨",
+            "size": 8000,
+            "sell": 8500000,
+            "image": "https://drive.google.com/file/d/1U83BsNzQh5MUT-HEKso3Uf4MqPlK91V2/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 66",
+            "category": "〖★★★〗💫",
+            "size": 470,
+            "sell": 480000,
+            "image": "https://drive.google.com/file/d/1dwDFzNR6wJqKPw4paM1moFUySTmQVlm3/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 67",
+            "category": "『★★』✨",
+            "size": 105,
+            "sell": 90000,
+            "image": "https://drive.google.com/file/d/1Y5YEUNihLAVEo2afDK6lEzr7KikRdtEE/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 68",
+            "category": "【★】🌿",
+            "size": 27,
+            "sell": 18500,
+            "image": "https://drive.google.com/file/d/1aVT43staMqI59O2DmExCNf9k4xIu2luX/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 69",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 620,
+            "sell": 1300000,
+            "image": "https://drive.google.com/file/d/1HN0jv2QO9ffGf4ivNM3T88BK0AS821hp/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 70",
+            "category": "〖★★★〗💫",
+            "size": 220,
+            "sell": 250000,
+            "image": "https://drive.google.com/file/d/149eMJ93JwxPr6qORV4KHYhW2TYODkOaG/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 71",
+            "category": "『★★』✨",
+            "size": 120,
+            "sell": 110000,
+            "image": "https://drive.google.com/file/d/1IVKe6VKmIcrC0V9QEjxJeqXFwRxY2CQQ/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 72",
+            "category": "【★】🌿",
+            "size": 49,
+            "sell": 29500,
+            "image": "https://drive.google.com/file/d/1Ye2hoNqVRvve5Hp_9nCifJGWRgbsabY4/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 73",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 4500,
+            "sell": 4100000,
+            "image": "https://drive.google.com/file/d/1rPy6XLNcYcp-0J9gdUjJXnFPx9-dLBEp/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 74",
+            "category": "〖★★★〗💫",
+            "size": 390,
+            "sell": 370000,
+            "image": "https://drive.google.com/file/d/150cBv7R7Fmc5SJ-UI_AUjoWFQGCefxhk/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 75",
+            "category": "『★★』✨",
+            "size": 77,
+            "sell": 68000,
+            "image": "https://drive.google.com/file/d/1uFRNoPfKKBMSCJ1-ChQWOl6Cfqd_krFJ/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 76",
+            "category": "【★】🌿",
+            "size": 14,
+            "sell": 14000,
+            "image": "https://drive.google.com/file/d/1Hyri9V-tL8KosMUxf2c4IaltF3u5XPTK/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 77",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 880,
+            "sell": 2200000,
+            "image": "https://drive.google.com/file/d/1WP_GzVHbfdO4plCWWsLaAM5Pz0Ypeggw/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 78",
+            "category": "〖★★★〗💫",
+            "size": 440,
+            "sell": 470000,
+            "image": "https://drive.google.com/file/d/16abclECrzRDZCRhVRfCjwnINRfIa1_oy/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 79",
+            "category": "『★★』✨",
+            "size": 148,
+            "sell": 145000,
+            "image": "https://drive.google.com/file/d/15iSZWWbol1DbUANuwGvqA5jtpBOOjxx0/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 80",
+            "category": "【★】🌿",
+            "size": 37,
+            "sell": 21000,
+            "image": "https://drive.google.com/file/d/1GPoy8LRYLgxfdlP6X8b10XUxBNTJKF7n/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 81",
+            "category": "✧★★★★★★✧👑✨",
+            "size": 7100,
+            "sell": 7500000,
+            "image": "https://drive.google.com/file/d/1KIRKYV0BXN8tutIN3pTL-bHsbcaHu74K/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 82",
+            "category": "〖★★★〗💫",
+            "size": 290,
+            "sell": 300000,
+            "image": "https://drive.google.com/file/d/1qNBqWJoC4sGkql94D_f9KRGvWBb1Yzn7/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 83",
+            "category": "『★★』✨",
+            "size": 85,
+            "sell": 75000,
+            "image": "https://drive.google.com/file/d/1bKhDXVQz0biKDTCynJpDTS5Jbq4YhxJQ/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 84",
+            "category": "【★】🌿",
+            "size": 17,
+            "sell": 13000,
+            "image": "https://drive.google.com/file/d/1_hT68Gy96lNjjxrlrhi3VV2SLVMOTAXd/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 85",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 950,
+            "sell": 2500000,
+            "image": "https://drive.google.com/file/d/1t-FP7EK1MTqYVkVLx7WeugZTPxe-Us9x/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 86",
+            "category": "〖★★★〗💫",
+            "size": 270,
+            "sell": 320000,
+            "image": "https://drive.google.com/file/d/15PzgU-HIs0w_PhQuqgzYKCWeSH05_wk7/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 87",
+            "category": "『★★』✨",
+            "size": 128,
+            "sell": 118000,
+            "image": "https://drive.google.com/file/d/1nY4NeMgwObJjHHcvs2EMUDpSxfBoP_dI/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 88",
+            "category": "【★】🌿",
+            "size": 44,
+            "sell": 26000,
+            "image": "https://drive.google.com/file/d/1IAOi31Z7IXSpdZqZexh66kZL-6-f1ctV/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 89",
+            "category": "𓆩★★★★★𓆪⚡💎",
+            "size": 3500,
+            "sell": 4000000,
+            "image": "https://drive.google.com/file/d/1Re137geDlBQkwgEnrdGkI6Enw79zNNsr/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 90",
+            "category": "〖★★★〗💫",
+            "size": 460,
+            "sell": 440000,
+            "image": "https://drive.google.com/file/d/1Fgetyp8EsTIiQdvKACnFL4aDYeI4yCxF/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 91",
+            "category": "『★★』✨",
+            "size": 99,
+            "sell": 98000,
+            "image": "https://drive.google.com/file/d/1XOGbIvQHNc9BVzOoCS0W8Hgy3yKkyfQI/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 92",
+            "category": "【★】🌿",
+            "size": 29,
+            "sell": 19500,
+            "image": "https://drive.google.com/file/d/10u0iP0CMpn5Eo1Vs_Qw4DsSPdSb8M6zG/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 93",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 720,
+            "sell": 1600000,
+            "image": "https://drive.google.com/file/d/1Gn7HDRXTp1allfiCWPdNKKz-kZkQUdIG/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 94",
+            "category": "〖★★★〗💫",
+            "size": 340,
+            "sell": 380000,
+            "image": "https://drive.google.com/file/d/1XRyzvQ-krnPZ843BjlaiEfUywEgEUnsY/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 95",
+            "category": "『★★』✨",
+            "size": 150,
+            "sell": 150000,
+            "image": "https://drive.google.com/file/d/1TrSOMcbyaVDtR41nxsoYUkUpVKD6tETB/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 96",
+            "category": "【★】🌿",
+            "size": 19,
+            "sell": 12500,
+            "image": "https://drive.google.com/file/d/1i_Sf_NhoHOW5TzyB7kgvZ1vp0cLOvzOB/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 97",
+            "category": "✧★★★★★★✧👑✨",
+            "size": 9000,
+            "sell": 9200000,
+            "image": "https://drive.google.com/file/d/1oroLLZdGDZVFYLmOUS3y6P6rPGYAJLI5/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 98",
+            "category": "〖★★★〗💫",
+            "size": 230,
+            "sell": 280000,
+            "image": "https://drive.google.com/file/d/1RxbBcnmWFgQauac561mFhywpU2bViZew/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 99",
+            "category": "『★★』✨",
+            "size": 68,
+            "sell": 58000,
+            "image": "https://drive.google.com/file/d/1E01moTNc7Kwih-wqF7nbu3guS9asB46G/view?usp=drivesdk"
+          },
+          {
+            "name": "L ⚠ 100",
+            "category": "⟬★★★★⟭🔥💥",
+            "size": 680,
+            "sell": 1400000,
+            "image": "https://drive.google.com/file/d/1dtTtYGWJGBiqk3pN3Ko1ZPteMfRtYyK4/view?usp=drivesdk"
           }
         ]
       }
